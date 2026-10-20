@@ -1,0 +1,7247 @@
+{
+ "Et Döner Porsiyon": [
+  "doner kebab plate",
+  "sliced beef doner",
+  "doner with rice pilaf"
+ ],
+ "Et Döner Yarım Ekmek": [
+  "doner kebab sandwich",
+  "doner kebab bread",
+  "stuffed turkish bread"
+ ],
+ "Et Döner Tam Ekmek": [
+  "doner kebab sandwich",
+  "doner filled loaf",
+  "kebab sub sandwich"
+ ],
+ "Et Döner Dürüm": [
+  "doner wrap lavash",
+  "rolled kebab wrap",
+  "turkish doner wrap"
+ ],
+ "Et Döner Kaşarlı Dürüm": [
+  "cheese doner wrap",
+  "grilled lavash wrap",
+  "melted cheese wrap"
+ ],
+ "Et Döner Tombik": [
+  "doner bread pocket",
+  "round stuffed bread",
+  "puffy bread kebab"
+ ],
+ "Et Döner Pilav Üstü": [
+  "doner over rice",
+  "rice pilaf doner",
+  "beef doner rice"
+ ],
+ "Et Döner İskender": [
+  "doner kebab yogurt sauce",
+  "doner over bread",
+  "tomato butter kebab"
+ ],
+ "Et Döner Tabak": [
+  "doner platter fries",
+  "mixed doner plate",
+  "kebab platter salad"
+ ],
+ "Et Döner Patates Üstü": [
+  "doner over fries",
+  "kebab french fries",
+  "doner fries plate"
+ ],
+ "Et Döner Salata Üstü": [
+  "doner over salad",
+  "kebab green salad",
+  "doner salad plate"
+ ],
+ "Et Döner Bowl": [
+  "doner rice bowl",
+  "kebab bowl meal",
+  "doner bowl sauce"
+ ],
+ "Et Döner Lavaş Tabak": [
+  "doner on lavash",
+  "lavash bread kebab",
+  "doner copper tray"
+ ],
+ "Tavuk Döner Porsiyon": [
+  "chicken doner plate",
+  "sliced chicken doner",
+  "doner with rice pilaf"
+ ],
+ "Tavuk Döner Yarım Ekmek": [
+  "chicken doner sandwich",
+  "chicken doner bread",
+  "half loaf chicken"
+ ],
+ "Tavuk Döner Tam Ekmek": [
+  "chicken doner sandwich",
+  "stuffed turkish bread",
+  "chicken kebab loaf"
+ ],
+ "Tavuk Döner Dürüm": [
+  "chicken doner wrap",
+  "rolled lavash wrap",
+  "turkish chicken wrap"
+ ],
+ "Tavuk Döner Kaşarlı Dürüm": [
+  "chicken cheese wrap",
+  "grilled lavash wrap",
+  "melted cheese chicken"
+ ],
+ "Tavuk Döner Tombik": [
+  "chicken bread pocket",
+  "round stuffed bread",
+  "puffy bread chicken"
+ ],
+ "Tavuk Döner Pilav Üstü": [
+  "chicken doner rice",
+  "doner over rice",
+  "chicken over pilaf"
+ ],
+ "Tavuk Döner İskender": [
+  "chicken doner yogurt",
+  "doner yogurt sauce",
+  "chicken over bread"
+ ],
+ "Tavuk Döner Tabak": [
+  "chicken doner platter",
+  "doner platter fries",
+  "chicken plate salad"
+ ],
+ "Tavuk Döner Patates Üstü": [
+  "chicken doner fries",
+  "doner over fries",
+  "chicken fries plate"
+ ],
+ "Tavuk Döner Salata Üstü": [
+  "chicken doner salad",
+  "doner over salad",
+  "chicken salad plate"
+ ],
+ "Tavuk Döner Bowl": [
+  "chicken doner bowl",
+  "rice bowl chicken",
+  "doner bowl sauce"
+ ],
+ "Tavuk Döner Lavaş Tabak": [
+  "chicken on lavash",
+  "lavash bread chicken",
+  "doner copper tray"
+ ],
+ "Karışık Döner Porsiyon": [
+  "mixed doner plate",
+  "beef chicken doner",
+  "doner with rice pilaf"
+ ],
+ "Karışık Döner Yarım Ekmek": [
+  "mixed doner sandwich",
+  "half loaf doner",
+  "doner kebab bread"
+ ],
+ "Karışık Döner Tam Ekmek": [
+  "mixed doner sandwich",
+  "stuffed turkish bread",
+  "doner filled loaf"
+ ],
+ "Karışık Döner Dürüm": [
+  "mixed doner wrap",
+  "rolled lavash wrap",
+  "beef chicken wrap"
+ ],
+ "Karışık Döner Kaşarlı Dürüm": [
+  "cheese mixed wrap",
+  "grilled lavash wrap",
+  "melted cheese wrap"
+ ],
+ "Karışık Döner Tombik": [
+  "mixed doner pocket",
+  "round stuffed bread",
+  "puffy bread kebab"
+ ],
+ "Karışık Döner Pilav Üstü": [
+  "mixed doner rice",
+  "doner over rice",
+  "beef chicken pilaf"
+ ],
+ "Karışık Döner İskender": [
+  "mixed doner yogurt",
+  "doner yogurt sauce",
+  "doner over bread"
+ ],
+ "Karışık Döner Tabak": [
+  "mixed doner platter",
+  "doner platter fries",
+  "mixed plate salad"
+ ],
+ "Karışık Döner Patates Üstü": [
+  "mixed doner fries",
+  "doner over fries",
+  "beef chicken fries"
+ ],
+ "Karışık Döner Salata Üstü": [
+  "mixed doner salad",
+  "doner over salad",
+  "beef chicken salad"
+ ],
+ "Karışık Döner Bowl": [
+  "mixed doner bowl",
+  "rice bowl doner",
+  "doner bowl sauce"
+ ],
+ "Karışık Döner Lavaş Tabak": [
+  "mixed doner lavash",
+  "lavash bread kebab",
+  "doner copper tray"
+ ],
+ "Et Tantuni Dürüm": [
+  "beef tantuni wrap",
+  "chopped meat lavash",
+  "turkish beef wrap"
+ ],
+ "Et Tantuni Yarım Ekmek": [
+  "beef sandwich bread",
+  "chopped meat sandwich",
+  "tantuni half loaf"
+ ],
+ "Et Tantuni Porsiyon": [
+  "beef tantuni plate",
+  "chopped meat plate",
+  "tantuni with lavash"
+ ],
+ "Et Tantuni Kaşarlı Dürüm": [
+  "cheese beef wrap",
+  "grilled lavash wrap",
+  "melted cheese beef"
+ ],
+ "Et Tantuni Acılı Dürüm": [
+  "spicy beef wrap",
+  "chili lavash wrap",
+  "spicy meat wrap"
+ ],
+ "Et Tantuni Lavaş Ekmek": [
+  "beef on lavash",
+  "folded lavash bread",
+  "chopped meat flatbread"
+ ],
+ "Tavuk Tantuni Dürüm": [
+  "chicken tantuni wrap",
+  "chopped chicken lavash",
+  "turkish chicken wrap"
+ ],
+ "Tavuk Tantuni Yarım Ekmek": [
+  "chicken sandwich bread",
+  "chopped chicken sandwich",
+  "tantuni half loaf"
+ ],
+ "Tavuk Tantuni Porsiyon": [
+  "chicken tantuni plate",
+  "chopped chicken plate",
+  "tantuni with lavash"
+ ],
+ "Tavuk Tantuni Kaşarlı Dürüm": [
+  "cheese chicken wrap",
+  "grilled lavash wrap",
+  "melted cheese chicken"
+ ],
+ "Tavuk Tantuni Acılı Dürüm": [
+  "spicy chicken wrap",
+  "chili lavash wrap",
+  "spicy chicken wrap"
+ ],
+ "Tavuk Tantuni Lavaş Ekmek": [
+  "chicken on lavash",
+  "folded lavash bread",
+  "chopped chicken flatbread"
+ ],
+ "Kaşarlı Pide": [
+  "cheese turkish flatbread",
+  "melted cheese pide",
+  "boat shaped flatbread"
+ ],
+ "Kıymalı Pide": [
+  "minced meat flatbread",
+  "meat topped pide",
+  "turkish boat bread"
+ ],
+ "Kuşbaşılı Pide": [
+  "beef cube flatbread",
+  "meat topped pide",
+  "turkish boat bread"
+ ],
+ "Karışık Pide": [
+  "mixed topping flatbread",
+  "meat cheese pide",
+  "turkish boat bread"
+ ],
+ "Sucuklu Pide": [
+  "sausage flatbread pide",
+  "turkish sausage bread",
+  "boat shaped flatbread"
+ ],
+ "Pastırmalı Pide": [
+  "cured beef flatbread",
+  "pastirma topped pide",
+  "boat shaped flatbread"
+ ],
+ "Yumurtalı Pide": [
+  "egg topped flatbread",
+  "fried egg pide",
+  "turkish egg bread"
+ ],
+ "Sucuklu Yumurtalı Pide": [
+  "sausage egg flatbread",
+  "egg topped pide",
+  "turkish breakfast bread"
+ ],
+ "Kaşarlı Sucuklu Pide": [
+  "cheese sausage flatbread",
+  "sausage egg pide",
+  "boat shaped flatbread"
+ ],
+ "Kıymalı Kaşarlı Pide": [
+  "minced meat cheese bread",
+  "meat cheese flatbread",
+  "turkish boat bread"
+ ],
+ "Kuşbaşılı Kaşarlı Pide": [
+  "beef cheese flatbread",
+  "meat cheese pide",
+  "turkish boat bread"
+ ],
+ "Ispanaklı Pide": [
+  "spinach flatbread",
+  "spinach cheese pide",
+  "turkish spinach bread"
+ ],
+ "Peynirli Pide": [
+  "cheese flatbread pide",
+  "feta topped flatbread",
+  "turkish cheese bread"
+ ],
+ "Patatesli Pide": [
+  "potato flatbread pide",
+  "potato topped bread",
+  "turkish boat bread"
+ ],
+ "Mantarlı Pide": [
+  "mushroom flatbread pide",
+  "mushroom cheese bread",
+  "turkish boat bread"
+ ],
+ "Tavuklu Pide": [
+  "chicken flatbread pide",
+  "chicken topped bread",
+  "turkish boat bread"
+ ],
+ "Ton Balıklı Pide": [
+  "tuna flatbread pide",
+  "tuna corn bread",
+  "turkish boat bread"
+ ],
+ "Sebzeli Pide": [
+  "vegetable flatbread pide",
+  "veggie topped bread",
+  "turkish boat bread"
+ ],
+ "Kavurmalı Pide": [
+  "roasted meat flatbread",
+  "fried beef pide",
+  "turkish boat bread"
+ ],
+ "Kaşarlı Yumurtalı Pide": [
+  "cheese egg flatbread",
+  "egg topped pide",
+  "turkish breakfast bread"
+ ],
+ "Karadeniz Pidesi": [
+  "black sea style pide",
+  "closed turkish pide",
+  "stuffed flatbread loaf"
+ ],
+ "Bafra Pidesi": [
+  "thin long flatbread",
+  "minced meat flatbread",
+  "turkish flatbread strips"
+ ],
+ "Trabzon Pidesi": [
+  "cheese egg flatbread",
+  "boat shaped pide",
+  "turkish stuffed bread"
+ ],
+ "Kapalı Pide": [
+  "closed stuffed flatbread",
+  "folded meat bread",
+  "turkish closed pide"
+ ],
+ "Etli Ekmek": [
+  "minced meat flatbread",
+  "long turkish bread",
+  "meat topped flatbread"
+ ],
+ "Lahmacun": [
+  "turkish lahmacun flatbread",
+  "thin meat flatbread",
+  "lahmacun with parsley"
+ ],
+ "Acılı Lahmacun": [
+  "spicy lahmacun flatbread",
+  "spicy meat flatbread",
+  "rolled lahmacun wrap"
+ ],
+ "Fındık Lahmacun": [
+  "mini lahmacun bites",
+  "small meat flatbread",
+  "lahmacun appetizer tray"
+ ],
+ "Antep Lahmacun": [
+  "turkish lahmacun flatbread",
+  "spicy pepper flatbread",
+  "thin meat flatbread"
+ ],
+ "Lahmacun Dürüm": [
+  "rolled lahmacun wrap",
+  "turkish wrap flatbread",
+  "lahmacun with parsley"
+ ],
+ "Kıymalı Gözleme": [
+  "minced meat flatbread",
+  "grilled stuffed flatbread",
+  "turkish gozleme"
+ ],
+ "Peynirli Gözleme": [
+  "cheese stuffed flatbread",
+  "grilled cheese gozleme",
+  "turkish flatbread cheese"
+ ],
+ "Patatesli Gözleme": [
+  "potato stuffed flatbread",
+  "grilled potato gozleme",
+  "turkish flatbread potato"
+ ],
+ "Ispanaklı Gözleme": [
+  "spinach stuffed flatbread",
+  "grilled spinach gozleme",
+  "turkish flatbread spinach"
+ ],
+ "Adana Kebap": [
+  "adana kebab plate",
+  "spicy lamb kebab",
+  "grilled minced kebab"
+ ],
+ "Urfa Kebap": [
+  "urfa kebab plate",
+  "grilled lamb kebab",
+  "minced kebab skewer"
+ ],
+ "Beyti Sarma": [
+  "kebab rolls tomato sauce",
+  "sliced grilled meat rolls",
+  "meat rolls yogurt sauce"
+ ],
+ "Ali Nazik": [
+  "eggplant yogurt lamb",
+  "smoked eggplant puree",
+  "lamb over eggplant"
+ ],
+ "Patlıcan Kebabı": [
+  "eggplant kebab skewer",
+  "grilled eggplant meat",
+  "eggplant meat skewers"
+ ],
+ "Testi Kebabı": [
+  "clay pot stew",
+  "clay pot kebab",
+  "beef vegetable stew"
+ ],
+ "Kuzu Şiş": [
+  "lamb skewer grill",
+  "grilled lamb cubes",
+  "lamb shish kebab"
+ ],
+ "Dana Şiş": [
+  "beef skewer grill",
+  "grilled beef cubes",
+  "beef shish kebab"
+ ],
+ "Tavuk Şiş": [
+  "chicken skewer grill",
+  "grilled chicken cubes",
+  "chicken shish kebab"
+ ],
+ "Ciğer Şiş": [
+  "liver skewer grill",
+  "grilled liver cubes",
+  "liver shish kebab"
+ ],
+ "Çöp Şiş": [
+  "small meat skewers",
+  "grilled meat cubes",
+  "lamb skewer bites"
+ ],
+ "Kanat": [
+  "grilled chicken wings",
+  "charred chicken wings",
+  "barbecue chicken wings"
+ ],
+ "Izgara Köfte": [
+  "grilled meatballs plate",
+  "turkish kofte meatballs",
+  "meatballs grilled pepper"
+ ],
+ "İnegöl Köfte": [
+  "small grilled meatballs",
+  "finger shaped meatballs",
+  "turkish kofte plate"
+ ],
+ "Akçaabat Köfte": [
+  "grilled meatballs plate",
+  "turkish meatballs salad",
+  "rustic meatballs plate"
+ ],
+ "Tekirdağ Köftesi": [
+  "grilled meatballs bulgur",
+  "turkish meatballs pilaf",
+  "kofte with bulgur"
+ ],
+ "Kasap Köfte": [
+  "thick grilled meatballs",
+  "butcher style meatballs",
+  "meatballs on board"
+ ],
+ "Kuzu Pirzola": [
+  "grilled lamb chops",
+  "lamb chops rosemary",
+  "juicy lamb cutlets"
+ ],
+ "Kuzu Kaburga": [
+  "roasted lamb ribs",
+  "lamb ribs rice",
+  "grilled lamb rack"
+ ],
+ "Dana Antrikot": [
+  "grilled ribeye steak",
+  "sliced steak plate",
+  "beef steak grill marks"
+ ],
+ "Bonfile": [
+  "beef tenderloin steak",
+  "grilled steak sauce",
+  "tender steak plate"
+ ],
+ "Karışık Izgara": [
+  "mixed grill platter",
+  "mixed kebab plate",
+  "grilled meat platter"
+ ],
+ "Kuzu Tandır": [
+  "slow roasted lamb",
+  "braised lamb rice",
+  "tender lamb roast"
+ ],
+ "Cağ Kebabı": [
+  "horizontal rotisserie kebab",
+  "grilled meat skewers",
+  "lamb kebab lavash"
+ ],
+ "Bursa Kebabı": [
+  "doner kebab yogurt sauce",
+  "kebab over bread",
+  "tomato butter kebab"
+ ],
+ "Yoğurtlu Kebap": [
+  "kebab yogurt sauce",
+  "meat over yogurt",
+  "kebab garlic yogurt"
+ ],
+ "Fıstıklı Kebap": [
+  "pistachio topped kebab",
+  "minced meat pistachio",
+  "kebab with pistachios"
+ ],
+ "Orman Kebabı": [
+  "beef vegetable stew",
+  "hearty meat stew",
+  "stew peas potatoes"
+ ],
+ "Kokoreç Yarım Ekmek": [
+  "grilled intestine sandwich",
+  "chopped street food sandwich",
+  "half loaf sandwich"
+ ],
+ "Kokoreç Porsiyon": [
+  "grilled intestine plate",
+  "chopped grilled offal",
+  "street food plate"
+ ],
+ "Izgara Tavuk Göğsü": [
+  "grilled chicken breast",
+  "chicken breast rice",
+  "sliced chicken plate"
+ ],
+ "Tavuk Kanat Porsiyon": [
+  "grilled chicken wings plate",
+  "chicken wings fries",
+  "plate of wings"
+ ],
+ "Tavuk Pirzola": [
+  "grilled chicken thighs",
+  "chicken chop plate",
+  "grilled chicken cutlet"
+ ],
+ "Uykuluk": [
+  "grilled sweetbreads skewer",
+  "offal skewer grill",
+  "organ meat skewers"
+ ],
+ "Kelle Söğüş": [
+  "sliced head meat",
+  "boiled meat platter",
+  "cold sliced meat"
+ ],
+ "Sucuk Izgara": [
+  "grilled sausage slices",
+  "grilled turkish sausage",
+  "sausage with tomatoes"
+ ],
+ "Mercimek Çorbası": [
+  "red lentil soup",
+  "creamy lentil soup",
+  "soup with lemon wedge"
+ ],
+ "Ezogelin Çorbası": [
+  "lentil bulgur soup",
+  "turkish lentil soup",
+  "red pepper butter soup"
+ ],
+ "Tavuk Suyu Çorbası": [
+  "chicken noodle soup",
+  "homemade chicken soup",
+  "broth with noodles"
+ ],
+ "Terbiyeli Tavuk Çorbası": [
+  "creamy chicken soup",
+  "lemon egg soup",
+  "thickened chicken broth"
+ ],
+ "İşkembe Çorbası": [
+  "tripe soup garlic",
+  "creamy tripe soup",
+  "spicy offal soup"
+ ],
+ "Kelle Paça Çorbası": [
+  "lamb trotter soup",
+  "spicy garlic soup",
+  "traditional offal soup"
+ ],
+ "Paça Çorbası": [
+  "lamb trotter soup",
+  "garlic broth soup",
+  "traditional offal soup"
+ ],
+ "Domates Çorbası": [
+  "creamy tomato soup",
+  "tomato soup cheese",
+  "red soup bread"
+ ],
+ "Yayla Çorbası": [
+  "yogurt rice soup",
+  "creamy mint soup",
+  "turkish yogurt soup"
+ ],
+ "Tarhana Çorbası": [
+  "red tarhana soup",
+  "sour soup bread",
+  "traditional turkish soup"
+ ],
+ "Şehriye Çorbası": [
+  "vermicelli tomato soup",
+  "noodle broth soup",
+  "small pasta soup"
+ ],
+ "Düğün Çorbası": [
+  "wedding lamb soup",
+  "creamy meat soup",
+  "lemon meat soup"
+ ],
+ "Mantar Çorbası": [
+  "creamy mushroom soup",
+  "mushroom soup cream",
+  "smooth mushroom broth"
+ ],
+ "Sebze Çorbası": [
+  "vegetable soup carrots",
+  "hearty vegetable broth",
+  "mixed vegetable soup"
+ ],
+ "Brokoli Çorbası": [
+  "creamy broccoli soup",
+  "green broccoli soup",
+  "smooth vegetable soup"
+ ],
+ "Balık Çorbası": [
+  "fish soup vegetables",
+  "hearty fish broth",
+  "seafood soup bowl"
+ ],
+ "Kremalı Tavuk Çorbası": [
+  "cream of chicken soup",
+  "creamy chicken broth",
+  "chicken soup cream"
+ ],
+ "Toyga Çorbası": [
+  "yogurt wheat soup",
+  "minty yogurt soup",
+  "turkish yogurt broth"
+ ],
+ "Beyran Çorbası": [
+  "spicy lamb rice soup",
+  "copper bowl soup",
+  "hearty meat soup"
+ ],
+ "Ayran Aşı": [
+  "chickpea yogurt soup",
+  "cold yogurt soup",
+  "chickpea soup bread"
+ ],
+ "Kuru Fasulye": [
+  "white bean stew",
+  "baked beans tomato sauce",
+  "bean stew bowl"
+ ],
+ "Etli Kuru Fasulye": [
+  "white bean stew meat",
+  "meat and beans",
+  "bean stew plate"
+ ],
+ "Pirinç Pilavı": [
+  "buttery rice pilaf",
+  "white rice pilaf",
+  "rice with orzo"
+ ],
+ "Bulgur Pilavı": [
+  "bulgur pilaf",
+  "tomato bulgur rice",
+  "bulgur with peppers"
+ ],
+ "Nohut Yemeği": [
+  "chickpea stew meat",
+  "hearty chickpea dish",
+  "chickpeas tomato sauce"
+ ],
+ "Taze Fasulye": [
+  "green beans tomato",
+  "olive oil green beans",
+  "string bean stew"
+ ],
+ "Türlü": [
+  "mixed vegetable stew",
+  "summer vegetable dish",
+  "vegetables tomato sauce"
+ ],
+ "Karnıyarık": [
+  "stuffed eggplant minced meat",
+  "eggplant stuffed beef",
+  "turkish stuffed eggplant"
+ ],
+ "İmam Bayıldı": [
+  "stuffed eggplant olive oil",
+  "vegan stuffed eggplant",
+  "eggplant onion tomato"
+ ],
+ "Musakka": [
+  "eggplant moussaka",
+  "layered eggplant meat",
+  "baked eggplant casserole"
+ ],
+ "Yaprak Sarma": [
+  "stuffed grape leaves",
+  "vine leaf rolls",
+  "rice stuffed dolma"
+ ],
+ "Etli Yaprak Sarma": [
+  "meat stuffed vine leaves",
+  "stuffed grape leaves",
+  "dolma with yogurt"
+ ],
+ "Biber Dolması": [
+  "stuffed green peppers",
+  "pepper stuffed rice",
+  "stuffed peppers dish"
+ ],
+ "Kabak Dolması": [
+  "stuffed zucchini",
+  "zucchini stuffed rice",
+  "squash stuffed yogurt"
+ ],
+ "Lahana Sarması": [
+  "stuffed cabbage rolls",
+  "cabbage rolls dish",
+  "rolled cabbage meat"
+ ],
+ "Mantı": [
+  "turkish dumplings yogurt",
+  "small dumplings butter",
+  "tiny meat dumplings"
+ ],
+ "Hünkar Beğendi": [
+  "lamb eggplant puree",
+  "meat over eggplant",
+  "creamy eggplant lamb"
+ ],
+ "Tas Kebabı": [
+  "beef stew bowl",
+  "hearty meat stew",
+  "chunk meat stew"
+ ],
+ "Et Sote": [
+  "sauteed beef peppers",
+  "beef pepper skillet",
+  "stir fried meat"
+ ],
+ "Tavuk Sote": [
+  "sauteed chicken peppers",
+  "chicken mushroom skillet",
+  "stir fried chicken"
+ ],
+ "Etli Bamya": [
+  "okra meat stew",
+  "okra tomato stew",
+  "lamb with okra"
+ ],
+ "Kuzu Güveç": [
+  "lamb vegetable casserole",
+  "clay pot stew",
+  "lamb potato stew"
+ ],
+ "Fırın Tavuk": [
+  "oven roasted chicken",
+  "roasted chicken potatoes",
+  "baked chicken legs"
+ ],
+ "Köfte Patates": [
+  "meatballs potatoes baked",
+  "meatballs tomato sauce",
+  "baked meatball dish"
+ ],
+ "Fırın Köfte": [
+  "baked meatballs vegetables",
+  "oven meatballs dish",
+  "meatballs casserole"
+ ],
+ "Kıymalı Ispanak": [
+  "spinach minced meat",
+  "spinach with yogurt",
+  "sauteed spinach meat"
+ ],
+ "Zeytinyağlı Pırasa": [
+  "leeks olive oil",
+  "leek carrot stew",
+  "braised leeks dish"
+ ],
+ "Zeytinyağlı Enginar": [
+  "artichokes olive oil",
+  "artichoke stew dish",
+  "braised artichoke hearts"
+ ],
+ "Barbunya Pilaki": [
+  "borlotti beans olive oil",
+  "bean salad dish",
+  "red beans stew"
+ ],
+ "Mercimek Köftesi": [
+  "lentil balls salad",
+  "red lentil kofte",
+  "lentil patties lettuce"
+ ],
+ "Tavuk Haşlama": [
+  "boiled chicken vegetables",
+  "poached chicken plate",
+  "chicken soup dish"
+ ],
+ "Kuzu İncik": [
+  "braised lamb shank",
+  "roasted lamb shank",
+  "lamb shank puree"
+ ],
+ "Et Kavurma": [
+  "fried beef pieces",
+  "roasted meat pan",
+  "crispy fried lamb"
+ ],
+ "Patates Oturtma": [
+  "potato minced meat bake",
+  "layered potato dish",
+  "potatoes meat sauce"
+ ],
+ "Pilav Üstü Tavuk": [
+  "chicken over rice",
+  "shredded chicken pilaf",
+  "rice topped chicken"
+ ],
+ "Nohutlu Pilav": [
+  "rice with chickpeas",
+  "chickpea pilaf",
+  "buttery chickpea rice"
+ ],
+ "Şehriyeli Pilav": [
+  "rice with orzo",
+  "buttery rice pilaf",
+  "toasted pasta rice"
+ ],
+ "Sebzeli Pilav": [
+  "vegetable rice pilaf",
+  "rice with vegetables",
+  "colorful veggie rice"
+ ],
+ "Tavuklu Makarna": [
+  "pasta with chicken",
+  "creamy chicken pasta",
+  "chicken penne dish"
+ ],
+ "Fırın Makarna": [
+  "baked pasta cheese",
+  "oven pasta casserole",
+  "pasta cheese crust"
+ ],
+ "Erişte": [
+  "homemade noodles butter",
+  "flat egg noodles",
+  "noodle cheese dish"
+ ],
+ "Menemen": [
+  "scrambled eggs tomato",
+  "turkish egg skillet",
+  "eggs peppers pan"
+ ],
+ "Kaşarlı Menemen": [
+  "cheesy menemen eggs",
+  "scrambled eggs cheese",
+  "tomato egg cheese"
+ ],
+ "Cacık": [
+  "yogurt cucumber dip",
+  "cucumber dill yogurt",
+  "creamy yogurt salad"
+ ],
+ "Tavuklu Bezelye": [
+  "peas with chicken",
+  "chicken pea stew",
+  "peas carrots stew"
+ ],
+ "Etli Patates": [
+  "potato stew meat",
+  "potatoes meat sauce",
+  "hearty potato dish"
+ ],
+ "Sulu Köfte": [
+  "meatball stew broth",
+  "soupy meatballs",
+  "meatballs in sauce"
+ ],
+ "Bezelye Yemeği": [
+  "pea stew carrots",
+  "green pea dish",
+  "peas tomato stew"
+ ],
+ "İçli Köfte": [
+  "fried bulgur shells",
+  "kibbeh meat filling",
+  "bulgur meatballs lemon"
+ ],
+ "Çiğ Börek": [
+  "fried pastry rolls",
+  "crispy borek rolls",
+  "fried meat pastries"
+ ],
+ "Izgara Levrek": [
+  "grilled sea bass",
+  "whole grilled fish",
+  "sea bass lemon"
+ ],
+ "Fırın Levrek": [
+  "baked sea bass",
+  "roasted fish vegetables",
+  "oven baked fish"
+ ],
+ "Izgara Çupra": [
+  "grilled sea bream",
+  "whole grilled fish",
+  "sea bream lemon"
+ ],
+ "Izgara Somon": [
+  "grilled salmon fillet",
+  "salmon vegetables plate",
+  "cooked salmon steak"
+ ],
+ "Hamsi Tava": [
+  "fried anchovies",
+  "pan fried fish",
+  "anchovies lemon plate"
+ ],
+ "Hamsi Buğulama": [
+  "steamed anchovies",
+  "anchovy tomato stew",
+  "fish stew tomatoes"
+ ],
+ "İstavrit Tava": [
+  "fried mackerel",
+  "crispy fried fish",
+  "horse mackerel plate"
+ ],
+ "Palamut Izgara": [
+  "grilled bonito",
+  "grilled fish steaks",
+  "charred fish steak"
+ ],
+ "Lüfer Izgara": [
+  "grilled bluefish",
+  "whole grilled fish",
+  "charred fish plate"
+ ],
+ "Sardalya Tava": [
+  "fried sardines",
+  "crispy sardine plate",
+  "pan fried fish"
+ ],
+ "Mezgit Tava": [
+  "fried fish fillets",
+  "crispy white fish",
+  "breaded fried fish"
+ ],
+ "Barbunya Tava": [
+  "fried red mullet",
+  "crispy fish plate",
+  "pan fried fish"
+ ],
+ "Alabalık Izgara": [
+  "grilled trout",
+  "grilled fish lemon",
+  "trout fillet plate"
+ ],
+ "Kalkan Tava": [
+  "fried turbot",
+  "crispy flatfish",
+  "pan fried fish plate"
+ ],
+ "Balık Ekmek": [
+  "fish sandwich bread",
+  "grilled fish bun",
+  "street fish sandwich"
+ ],
+ "Midye Dolma": [
+  "stuffed mussels",
+  "rice filled mussels",
+  "mussels lemon plate"
+ ],
+ "Midye Tava": [
+  "fried mussels",
+  "crispy fried mussels",
+  "breaded mussel bites"
+ ],
+ "Kalamar Tava": [
+  "fried calamari rings",
+  "crispy squid rings",
+  "calamari sauce plate"
+ ],
+ "Ahtapot Izgara": [
+  "grilled octopus",
+  "charred octopus plate",
+  "octopus olive oil"
+ ],
+ "Karides Güveç": [
+  "shrimp casserole cheese",
+  "baked shrimp dish",
+  "clay pot shrimp"
+ ],
+ "Tereyağlı Karides": [
+  "garlic butter shrimp",
+  "sauteed shrimp skillet",
+  "buttery prawns plate"
+ ],
+ "Deniz Mahsullü Makarna": [
+  "seafood pasta shrimp",
+  "pasta with mussels",
+  "shrimp pasta dish"
+ ],
+ "Balık Köftesi": [
+  "fish cakes",
+  "fried fish patties",
+  "fish cutlets plate"
+ ],
+ "Ton Balığı Salatası": [
+  "tuna salad bowl",
+  "tuna vegetable salad",
+  "healthy tuna salad"
+ ],
+ "Klasik Burger": [
+  "classic beef burger",
+  "burger with fries",
+  "burger lettuce tomato"
+ ],
+ "Cheeseburger": [
+  "cheeseburger with fries",
+  "melted cheese burger",
+  "beef burger cheddar"
+ ],
+ "Double Cheeseburger": [
+  "double cheeseburger",
+  "two patty burger",
+  "double beef burger"
+ ],
+ "Mantarlı Burger": [
+  "mushroom swiss burger",
+  "mushroom cheese burger",
+  "beef burger mushrooms"
+ ],
+ "BBQ Burger": [
+  "barbecue sauce burger",
+  "burger onion rings",
+  "bbq beef burger"
+ ],
+ "Acılı Burger": [
+  "spicy jalapeno burger",
+  "chili burger hot",
+  "spicy beef burger"
+ ],
+ "Tavuk Burger": [
+  "crispy chicken burger",
+  "fried chicken sandwich",
+  "chicken burger fries"
+ ],
+ "Izgara Tavuk Burger": [
+  "grilled chicken burger",
+  "chicken burger lettuce",
+  "grilled chicken sandwich"
+ ],
+ "Balık Burger": [
+  "fish fillet burger",
+  "fish burger bun",
+  "fried fish sandwich"
+ ],
+ "Vejetaryen Burger": [
+  "veggie burger plate",
+  "vegetable burger bun",
+  "meatless burger fries"
+ ],
+ "Smash Burger": [
+  "smash burger cheese",
+  "crispy edge burger",
+  "thin patty burger"
+ ],
+ "Islak Hamburger": [
+  "turkish wet burger",
+  "sauce soaked burger",
+  "garlic tomato burger"
+ ],
+ "Mini Burger": [
+  "mini slider burgers",
+  "three sliders plate",
+  "bite size burgers"
+ ],
+ "Kaşarlı Köfte Burger": [
+  "meatball cheese burger",
+  "kofte burger bun",
+  "grilled patty burger"
+ ],
+ "Burger Menü": [
+  "burger fries drink",
+  "burger combo meal",
+  "burger with soda"
+ ],
+ "Margarita Pizza": [
+  "margherita pizza basil",
+  "cheese pizza slice",
+  "whole pizza top view"
+ ],
+ "Karışık Pizza": [
+  "supreme mixed pizza",
+  "loaded pizza toppings",
+  "vegetable meat pizza"
+ ],
+ "Sucuklu Pizza": [
+  "turkish sausage pizza",
+  "pizza with sausage",
+  "salami style pizza"
+ ],
+ "Ton Balıklı Pizza": [
+  "tuna corn pizza",
+  "seafood pizza toppings",
+  "pizza with tuna"
+ ],
+ "Vejetaryen Pizza": [
+  "vegetable pizza",
+  "veggie loaded pizza",
+  "meatless pizza toppings"
+ ],
+ "Mantarlı Pizza": [
+  "mushroom pizza",
+  "cheese mushroom pizza",
+  "pizza with mushrooms"
+ ],
+ "Tavuklu Pizza": [
+  "chicken pizza",
+  "pizza with chicken",
+  "chicken mushroom pizza"
+ ],
+ "Dört Peynirli Pizza": [
+  "four cheese pizza",
+  "cheesy pizza",
+  "cheese lovers pizza"
+ ],
+ "Acılı Pizza": [
+  "spicy jalapeno pizza",
+  "chili pizza hot",
+  "spicy pepper pizza"
+ ],
+ "Barbekü Tavuk Pizza": [
+  "bbq chicken pizza",
+  "barbecue pizza chicken",
+  "pizza with chicken"
+ ],
+ "Pizza Dilimi": [
+  "single pizza slice",
+  "pizza slice closeup",
+  "cheesy pizza slice"
+ ],
+ "Kavurmalı Pizza": [
+  "roasted meat pizza",
+  "pizza with beef",
+  "meat topped pizza"
+ ],
+ "Sosisli Pizza": [
+  "hot dog pizza",
+  "sausage topped pizza",
+  "pizza with sausage"
+ ],
+ "Ince Hamur Pizza": [
+  "thin crust pizza",
+  "crispy thin pizza",
+  "whole thin pizza"
+ ],
+ "Spagetti Bolonez": [
+  "spaghetti bolognese",
+  "pasta meat sauce",
+  "spaghetti tomato meat"
+ ],
+ "Penne Arabiata": [
+  "penne arrabbiata",
+  "spicy tomato pasta",
+  "penne red sauce"
+ ],
+ "Fettuccine Alfredo": [
+  "fettuccine alfredo",
+  "creamy white pasta",
+  "alfredo pasta chicken"
+ ],
+ "Mantarlı Makarna": [
+  "creamy mushroom pasta",
+  "pasta with mushrooms",
+  "mushroom cream penne"
+ ],
+ "Pesto Makarna": [
+  "green pesto pasta",
+  "pesto sauce pasta",
+  "basil pasta dish"
+ ],
+ "Lazanya": [
+  "lasagna slice",
+  "layered pasta bake",
+  "cheesy lasagna plate"
+ ],
+ "Kremalı Tavuklu Makarna": [
+  "creamy chicken pasta",
+  "chicken alfredo pasta",
+  "pasta cream sauce"
+ ],
+ "Domates Soslu Spagetti": [
+  "spaghetti tomato sauce",
+  "pasta marinara basil",
+  "spaghetti with basil"
+ ],
+ "Mantı (Makarna)": [
+  "turkish dumplings yogurt",
+  "small dumplings butter",
+  "meat filled dumplings"
+ ],
+ "Ton Balıklı Makarna": [
+  "tuna pasta",
+  "pasta with tuna",
+  "tuna corn pasta"
+ ],
+ "Patates Kızartması": [
+  "french fries cone",
+  "crispy golden fries",
+  "fried potato sticks"
+ ],
+ "Cheddarlı Patates": [
+  "cheese sauce fries",
+  "loaded cheddar fries",
+  "fries with cheese"
+ ],
+ "Baharatlı Patates": [
+  "seasoned curly fries",
+  "spicy fries plate",
+  "crispy seasoned fries"
+ ],
+ "Elma Dilim Patates": [
+  "potato wedges",
+  "thick cut fries",
+  "roasted potato wedges"
+ ],
+ "Soğan Halkası": [
+  "crispy onion rings",
+  "fried onion rings",
+  "battered onion rings"
+ ],
+ "Tavuk Nugget": [
+  "chicken nuggets dip",
+  "crispy chicken nuggets",
+  "fried nugget pieces"
+ ],
+ "Tavuk Fingers": [
+  "crispy chicken tenders",
+  "breaded chicken strips",
+  "fried chicken fingers"
+ ],
+ "Acılı Kanat": [
+  "buffalo chicken wings",
+  "spicy hot wings",
+  "chili glazed wings"
+ ],
+ "Barbekü Kanat": [
+  "barbecue chicken wings",
+  "bbq glazed wings",
+  "saucy chicken wings"
+ ],
+ "Sosisli Sandviç": [
+  "hot dog sausage bun",
+  "ketchup mustard hotdog",
+  "sausage in bun"
+ ],
+ "Kaşarlı Tost": [
+  "grilled cheese toast",
+  "melted cheese sandwich",
+  "pressed cheese toast"
+ ],
+ "Sucuklu Tost": [
+  "sausage cheese toast",
+  "pressed sausage sandwich",
+  "grilled sausage toast"
+ ],
+ "Karışık Tost": [
+  "mixed grill toast",
+  "cheese sausage toast",
+  "pressed club toast"
+ ],
+ "Ayvalık Tostu": [
+  "big loaded toast",
+  "pressed double sandwich",
+  "turkish grill sandwich"
+ ],
+ "Bazlama Tost": [
+  "flatbread cheese toast",
+  "grilled flatbread sandwich",
+  "melted cheese bread"
+ ],
+ "Tavuk Sandviç": [
+  "chicken sandwich",
+  "toasted chicken bread",
+  "chicken salad sandwich"
+ ],
+ "Köfte Sandviç": [
+  "meatball sandwich",
+  "kofte in bread",
+  "meatball sub roll"
+ ],
+ "Hindi Füme Sandviç": [
+  "smoked turkey sandwich",
+  "cold cut sandwich",
+  "turkey cheese sandwich"
+ ],
+ "Tavuk Wrap": [
+  "chicken wrap cut",
+  "grilled chicken wrap",
+  "lavash chicken wrap"
+ ],
+ "Quesadilla": [
+  "chicken quesadilla wedges",
+  "grilled cheese tortilla",
+  "mexican quesadilla plate"
+ ],
+ "Nachos": [
+  "nachos cheese sauce",
+  "tortilla chips dip",
+  "loaded nachos plate"
+ ],
+ "Çıtır Tavuk": [
+  "crispy fried chicken",
+  "golden chicken pieces",
+  "crunchy chicken bites"
+ ],
+ "Kumpir": [
+  "loaded baked potato",
+  "stuffed baked potato",
+  "potato with toppings"
+ ],
+ "Köfte Ekmek": [
+  "meatball sandwich bread",
+  "kofte in bun",
+  "meatballs onion bread"
+ ],
+ "Çocuk Menüsü": [
+  "kids meal nuggets",
+  "children meal fries",
+  "kids menu drink"
+ ],
+ "Çiğ Köfte Dürüm": [
+  "bulgur kofte wrap",
+  "spicy lentil wrap",
+  "lavash wrap lettuce"
+ ],
+ "Çiğ Köfte Porsiyon": [
+  "bulgur kofte plate",
+  "spicy bulgur patties",
+  "kofte with lettuce"
+ ],
+ "Çiğ Köfte Menü": [
+  "bulgur kofte combo",
+  "spicy bulgur wrap",
+  "kofte with lettuce"
+ ],
+ "Acılı Çiğ Köfte": [
+  "extra spicy bulgur",
+  "spicy kofte plate",
+  "chili bulgur patties"
+ ],
+ "Çiğ Köfte Tabağı": [
+  "bulgur kofte platter",
+  "spicy kofte greens",
+  "bulgur patties lettuce"
+ ],
+ "Mega Dürüm Çiğ Köfte": [
+  "large bulgur wrap",
+  "big kofte wrap",
+  "spicy wrap roll"
+ ],
+ "Simit": [
+  "turkish sesame ring",
+  "simit sesame bagel",
+  "sesame bread ring"
+ ],
+ "Kestane Kebap": [
+  "chestnut meatballs plate",
+  "grilled chestnut dish",
+  "meat with chestnuts"
+ ],
+ "Haşlanmış Mısır": [
+  "boiled corn cob",
+  "corn on the cob",
+  "steamed corn ears"
+ ],
+ "Közlenmiş Mısır": [
+  "grilled corn cob",
+  "charred corn on cob",
+  "roasted corn ears"
+ ],
+ "Pamuk Şeker": [
+  "cotton candy",
+  "pink cotton candy",
+  "fluffy candy floss"
+ ],
+ "Waffle (Sokak)": [
+  "street waffle",
+  "waffle with toppings",
+  "sweet waffle dessert"
+ ],
+ "Lokma (Sokak)": [
+  "turkish doughnut balls",
+  "fried dough balls",
+  "syrupy doughnut bites"
+ ],
+ "Kumpir (Sokak)": [
+  "loaded baked potato",
+  "street stuffed potato",
+  "potato with toppings"
+ ],
+ "Serpme Kahvaltı": [
+  "turkish breakfast spread",
+  "breakfast table spread",
+  "meze breakfast platter"
+ ],
+ "Kahvaltı Tabağı": [
+  "breakfast plate",
+  "turkish breakfast platter",
+  "cheese olive breakfast"
+ ],
+ "Sucuklu Yumurta": [
+  "eggs with sausage",
+  "fried egg sausage",
+  "turkish breakfast eggs"
+ ],
+ "Sahanda Yumurta": [
+  "fried eggs pan",
+  "eggs in copper pan",
+  "sunny side eggs"
+ ],
+ "Omlet": [
+  "folded omelette",
+  "vegetable omelet plate",
+  "fluffy egg omelet"
+ ],
+ "Kaşarlı Omlet": [
+  "cheese omelette",
+  "cheesy egg omelet",
+  "melted cheese eggs"
+ ],
+ "Mantarlı Omlet": [
+  "mushroom omelette",
+  "eggs with mushrooms",
+  "mushroom cheese omelet"
+ ],
+ "Çılbır": [
+  "poached eggs yogurt",
+  "turkish yogurt eggs",
+  "garlic yogurt eggs"
+ ],
+ "Pankek": [
+  "pancake stack",
+  "fluffy pancakes honey",
+  "breakfast pancakes berries"
+ ],
+ "Bal Kaymak": [
+  "honey clotted cream",
+  "cream with honey",
+  "breakfast honey cream"
+ ],
+ "Peynir Tabağı": [
+  "cheese platter",
+  "cheese board selection",
+  "breakfast cheese plate"
+ ],
+ "Zeytin Tabağı": [
+  "olives plate",
+  "olive assortment",
+  "breakfast olives dish"
+ ],
+ "Kuymak": [
+  "melted cheese cornmeal",
+  "bubbling cheese skillet",
+  "cornmeal cheese dish"
+ ],
+ "Menemen (Kahvaltı)": [
+  "scrambled eggs tomato",
+  "turkish egg skillet",
+  "eggs peppers pan"
+ ],
+ "Su Böreği": [
+  "boiled cheese borek",
+  "layered pastry cheese",
+  "turkish water borek"
+ ],
+ "Kol Böreği": [
+  "rolled borek pastry",
+  "arm shaped pastry",
+  "baked layered borek"
+ ],
+ "Sigara Böreği": [
+  "cigar shaped pastries",
+  "fried cheese rolls",
+  "crispy borek cigars"
+ ],
+ "Kıymalı Börek": [
+  "meat filled pastry",
+  "minced meat borek",
+  "baked meat pastry"
+ ],
+ "Ispanaklı Börek": [
+  "spinach pastry rolls",
+  "spinach cheese borek",
+  "layered spinach pie"
+ ],
+ "Patatesli Börek": [
+  "potato filled pastry",
+  "potato borek rolls",
+  "baked potato pastry"
+ ],
+ "Gözleme (Kahvaltı)": [
+  "grilled flatbread",
+  "stuffed griddle bread",
+  "turkish gozleme"
+ ],
+ "Bazlama": [
+  "griddle flatbread",
+  "soft round bread",
+  "turkish flatbread bread"
+ ],
+ "Pişi": [
+  "fried dough pieces",
+  "turkish doughnuts",
+  "fluffy fried dough"
+ ],
+ "Avokadolu Yumurta": [
+  "avocado toast egg",
+  "fried egg avocado",
+  "breakfast avocado eggs"
+ ],
+ "Granola Kasesi": [
+  "granola fruit bowl",
+  "yogurt granola berries",
+  "breakfast cereal bowl"
+ ],
+ "Açma": [
+  "turkish pastry bun",
+  "sesame bread roll",
+  "cheese filled pogaca"
+ ],
+ "Peynirli Poğaça": [
+  "cheese filled pastry",
+  "sesame cheese bun",
+  "savory cheese roll"
+ ],
+ "Zeytinli Poğaça": [
+  "olive filled pastry",
+  "olive cheese bun",
+  "savory olive roll"
+ ],
+ "Kruvasan": [
+  "buttery croissant",
+  "flaky crescent pastry",
+  "golden croissant plate"
+ ],
+ "Çikolatalı Kruvasan": [
+  "chocolate croissant",
+  "pain au chocolat",
+  "flaky chocolate pastry"
+ ],
+ "Tuzlu Kurabiye": [
+  "savory butter cookies",
+  "cheese biscuits",
+  "salty cracker cookies"
+ ],
+ "Un Kurabiyesi": [
+  "melt in mouth cookies",
+  "powdered shortbread",
+  "flour butter cookies"
+ ],
+ "Çikolatalı Kurabiye": [
+  "chocolate chip cookies",
+  "cocoa cookies",
+  "chocolate biscuits plate"
+ ],
+ "Ekler": [
+  "cream filled eclairs",
+  "choux pastry eclairs",
+  "eclair dessert tray"
+ ],
+ "Profiterol": [
+  "cream puff balls",
+  "chocolate covered puffs",
+  "profiterole dessert"
+ ],
+ "Çikolatalı Yaş Pasta": [
+  "chocolate layer cake",
+  "birthday cake slice",
+  "chocolate cream cake"
+ ],
+ "Meyveli Yaş Pasta": [
+  "fruit topped cake",
+  "cream cake berries",
+  "celebration fruit cake"
+ ],
+ "Frambuazlı Pasta": [
+  "raspberry cake",
+  "berry cream cake",
+  "raspberry tart slice"
+ ],
+ "Doğum Günü Pastası": [
+  "birthday cake candles",
+  "decorated celebration cake",
+  "layered party cake"
+ ],
+ "Muffin": [
+  "bakery muffin",
+  "blueberry muffin top",
+  "baked cupcake muffin"
+ ],
+ "Çikolatalı Muffin": [
+  "chocolate muffin",
+  "cocoa cupcake",
+  "chocolate chip muffin"
+ ],
+ "Donut": [
+  "glazed doughnut",
+  "frosted donut ring",
+  "sprinkled doughnut"
+ ],
+ "Katmer": [
+  "pistachio cream pastry",
+  "flaky layered pastry",
+  "turkish cream pastry"
+ ],
+ "Simit (Pastane)": [
+  "turkish sesame ring",
+  "sesame bread ring",
+  "simit sesame bagel"
+ ],
+ "Somun Ekmek": [
+  "crusty bread loaf",
+  "white bread loaf",
+  "fresh bakery bread"
+ ],
+ "Tam Buğday Ekmeği": [
+  "whole wheat bread",
+  "whole grain loaf",
+  "brown bread slices"
+ ],
+ "Sandviç Ekmek": [
+  "sandwich bread slices",
+  "soft white bread",
+  "sliced loaf bread"
+ ],
+ "Kek Dilimi": [
+  "cake slice",
+  "sponge cake piece",
+  "vanilla cake slice"
+ ],
+ "Brownie": [
+  "chocolate brownie square",
+  "fudgy brownie pieces",
+  "cocoa dessert bars"
+ ],
+ "Cheesecake": [
+  "cheesecake slice",
+  "creamy cheesecake",
+  "berry topped cheesecake"
+ ],
+ "San Sebastian Cheesecake": [
+  "burnt basque cheesecake",
+  "burnt cheesecake slice",
+  "creamy baked cheesecake"
+ ],
+ "Tiramisu": [
+  "tiramisu slice",
+  "cocoa dusted dessert",
+  "coffee mascarpone cake"
+ ],
+ "Mozaik Pasta": [
+  "mosaic chocolate cake",
+  "biscuit chocolate dessert",
+  "no bake cake slices"
+ ],
+ "Tartolet": [
+  "fruit tartlet",
+  "mini pastry tart",
+  "small cream tart"
+ ],
+ "Elmalı Turta": [
+  "apple pie slice",
+  "apple tart pastry",
+  "cinnamon apple pie"
+ ],
+ "Limonlu Tart": [
+  "lemon tart slice",
+  "citrus custard tart",
+  "zesty lemon pastry"
+ ],
+ "Makaron": [
+  "colorful macarons",
+  "french macaron row",
+  "almond cookie sandwiches"
+ ],
+ "Mille Feuille": [
+  "mille feuille pastry",
+  "layered cream pastry",
+  "vanilla slice dessert"
+ ],
+ "Fıstıklı Baklava": [
+  "pistachio baklava",
+  "layered nut pastry",
+  "green pistachio dessert"
+ ],
+ "Cevizli Baklava": [
+  "walnut baklava",
+  "layered nut pastry",
+  "syrupy filo dessert"
+ ],
+ "Kuru Baklava": [
+  "dry baklava",
+  "flaky baklava pieces",
+  "crisp layered pastry"
+ ],
+ "Havuç Dilim Baklava": [
+  "carrot slice baklava",
+  "layered pastry pieces",
+  "rolled baklava dessert"
+ ],
+ "Şöbiyet": [
+  "semolina cream pastry",
+  "pistachio syrup pastry",
+  "turkish cream dessert"
+ ],
+ "Burma Kadayıf": [
+  "shredded pastry rolls",
+  "walnut filled pastry",
+  "syrupy shredded dessert"
+ ],
+ "Bülbül Yuvası": [
+  "birds nest pastry",
+  "walnut nest dessert",
+  "shredded pastry nests"
+ ],
+ "Saray Sarması": [
+  "rolled pistachio pastry",
+  "shredded pastry roll",
+  "turkish rolled dessert"
+ ],
+ "Midye Baklava": [
+  "mussel shaped baklava",
+  "layered pastry pieces",
+  "pistachio pastry sweets"
+ ],
+ "Künefe": [
+  "kunefe shredded pastry",
+  "cheese filled pastry syrup",
+  "pistachio kunefe dessert"
+ ],
+ "Tel Kadayıf": [
+  "shredded pastry dessert",
+  "walnut filo strands",
+  "syrupy shredded cake"
+ ],
+ "Ekmek Kadayıfı": [
+  "bread pudding syrup",
+  "syrupy sponge dessert",
+  "turkish bread dessert"
+ ],
+ "Şekerpare": [
+  "syrupy semolina cookies",
+  "turkish syrup sweets",
+  "soft almond cookies"
+ ],
+ "Tulumba": [
+  "syrupy fried dough",
+  "turkish doughnut bites",
+  "churro like pastry"
+ ],
+ "Revani": [
+  "semolina syrup cake",
+  "turkish yogurt cake",
+  "lemon syrup cake"
+ ],
+ "Lokma": [
+  "fried dough balls",
+  "syrupy doughnut bites",
+  "turkish sweet puffs"
+ ],
+ "Sütlaç": [
+  "baked rice pudding",
+  "creamy rice dessert",
+  "caramelized milk pudding"
+ ],
+ "Kazandibi": [
+  "caramelized milk pudding",
+  "burnt cream dessert",
+  "turkish milk squares"
+ ],
+ "Tavuk Göğsü": [
+  "chicken milk pudding",
+  "turkish shredded pudding",
+  "creamy milk dessert"
+ ],
+ "Muhallebi": [
+  "milk pudding cup",
+  "creamy white dessert",
+  "chilled custard cup"
+ ],
+ "Keşkül": [
+  "almond milk pudding",
+  "nutty cream dessert",
+  "turkish almond pudding"
+ ],
+ "Aşure": [
+  "noah pudding",
+  "fruit nut pudding",
+  "wheat dessert bowl"
+ ],
+ "Kemalpaşa": [
+  "syrupy dough balls",
+  "turkish milk dessert",
+  "soaked pastry balls"
+ ],
+ "Trileçe": [
+  "caramel milk cake",
+  "three milk cake",
+  "soaked caramel squares"
+ ],
+ "Magnolia": [
+  "layered pudding cup",
+  "banana strawberry dessert",
+  "creamy cup dessert"
+ ],
+ "Supangle": [
+  "chocolate pudding cup",
+  "dark cream dessert",
+  "chilled cocoa custard"
+ ],
+ "Sufle": [
+  "molten chocolate souffle",
+  "warm souffle ramekin",
+  "gooey cake dessert"
+ ],
+ "Waffle": [
+  "waffle with fruit",
+  "whipped cream waffle",
+  "golden waffle berries"
+ ],
+ "Krep": [
+  "thin crepe folded",
+  "sweet crepe dessert",
+  "crepe with cream"
+ ],
+ "Profiterol (Tatlı)": [
+  "cream puff balls",
+  "chocolate covered puffs",
+  "profiterole dessert"
+ ],
+ "Vanilyalı Dondurma": [
+  "vanilla ice cream",
+  "scoops of gelato",
+  "creamy vanilla scoops"
+ ],
+ "Çikolatalı Dondurma": [
+  "chocolate ice cream",
+  "cocoa gelato scoops",
+  "dark ice cream bowl"
+ ],
+ "Çilekli Dondurma": [
+  "strawberry ice cream",
+  "pink gelato scoops",
+  "fruit ice cream"
+ ],
+ "Fıstıklı Dondurma": [
+  "pistachio ice cream",
+  "green gelato scoops",
+  "nutty ice cream"
+ ],
+ "Maraş Dondurması": [
+  "turkish ice cream",
+  "chewy maras ice cream",
+  "stretchy gelato cone"
+ ],
+ "Dondurmalı İrmik Helvası": [
+  "semolina dessert ice cream",
+  "warm halva scoop",
+  "buttery semolina bowl"
+ ],
+ "İrmik Helvası": [
+  "semolina halva",
+  "buttery sandy dessert",
+  "turkish semolina sweet"
+ ],
+ "Tahin Helvası": [
+  "tahini halva",
+  "sesame paste dessert",
+  "crumbly tahini sweet"
+ ],
+ "Lokum": [
+  "turkish delight cubes",
+  "powdered candy squares",
+  "rose flavored delight"
+ ],
+ "Meyve Tabağı": [
+  "fresh fruit platter",
+  "sliced fruit plate",
+  "colorful fruit tray"
+ ],
+ "Cheesecake (Tatlı)": [
+  "cheesecake slice",
+  "creamy cheesecake",
+  "berry topped cheesecake"
+ ],
+ "Brownie Dondurmalı": [
+  "brownie with ice cream",
+  "chocolate cake sundae",
+  "warm brownie scoop"
+ ],
+ "Fırın Sütlaç": [
+  "baked rice pudding",
+  "caramelized rice dessert",
+  "clay bowl pudding"
+ ],
+ "Kabak Tatlısı": [
+  "candied pumpkin",
+  "syrupy pumpkin dessert",
+  "glazed pumpkin pieces"
+ ],
+ "Ayva Tatlısı": [
+  "poached quince",
+  "syrupy quince dessert",
+  "candied quince slices"
+ ],
+ "Güllaç": [
+  "rose milk dessert",
+  "starch noodles dessert",
+  "ramadan milk pastry"
+ ],
+ "Çoban Salata": [
+  "shepherd salad",
+  "chopped tomato salad",
+  "cucumber tomato onion salad"
+ ],
+ "Mevsim Salata": [
+  "seasonal green salad",
+  "mixed garden salad",
+  "fresh vegetable salad"
+ ],
+ "Sezar Salata": [
+  "caesar salad chicken",
+  "romaine caesar salad",
+  "caesar with croutons"
+ ],
+ "Ton Balıklı Salata": [
+  "tuna salad greens",
+  "tuna vegetable bowl",
+  "healthy tuna salad"
+ ],
+ "Gavurdağı Salatası": [
+  "walnut tomato salad",
+  "chopped tomato walnut",
+  "turkish village salad"
+ ],
+ "Piyaz": [
+  "white bean salad",
+  "bean onion salad",
+  "turkish bean salad"
+ ],
+ "Roka Salatası": [
+  "arugula salad",
+  "rocket leaf salad",
+  "parmesan rocket salad"
+ ],
+ "Tavuklu Salata": [
+  "chicken salad plate",
+  "grilled chicken greens",
+  "chicken caesar salad"
+ ],
+ "Akdeniz Salata": [
+  "mediterranean salad",
+  "tomato olive salad",
+  "greek style salad"
+ ],
+ "Kinoa Salatası": [
+  "quinoa salad bowl",
+  "healthy grain salad",
+  "quinoa vegetable mix"
+ ],
+ "Humus": [
+  "hummus bowl",
+  "chickpea dip sesame",
+  "creamy hummus plate"
+ ],
+ "Haydari": [
+  "yogurt herb dip",
+  "garlic yogurt sauce",
+  "thick yogurt meze"
+ ],
+ "Acılı Ezme": [
+  "spicy tomato dip",
+  "chili pepper salsa",
+  "minced spicy salad"
+ ],
+ "Şakşuka": [
+  "fried vegetable dip",
+  "eggplant pepper stew",
+  "sauteed veggie meze"
+ ],
+ "Fava": [
+  "broad bean puree",
+  "creamy dip beans",
+  "fava bean spread"
+ ],
+ "Patlıcan Salatası": [
+  "eggplant salad",
+  "smoky eggplant dip",
+  "roasted eggplant salad"
+ ],
+ "Babagannuş": [
+  "smoked eggplant dip",
+  "roasted eggplant puree",
+  "eggplant sesame dip"
+ ],
+ "Atom": [
+  "spicy yogurt dip",
+  "garlic chili yogurt",
+  "hot yogurt sauce"
+ ],
+ "Muhammara": [
+  "red pepper walnut dip",
+  "spicy nut spread",
+  "roasted pepper meze"
+ ],
+ "Deniz Börülcesi": [
+  "sea spinach salad",
+  "samphire green salad",
+  "succulent herb salad"
+ ],
+ "Girit Ezmesi": [
+  "herb nut meze",
+  "olive oil dip plate",
+  "rustic savory dip"
+ ],
+ "Rus Salatası": [
+  "russian salad",
+  "potato carrot mayo",
+  "creamy vegetable salad"
+ ],
+ "Meze Tabağı": [
+  "meze platter",
+  "appetizer plate",
+  "small dishes plate"
+ ],
+ "Turşu Tabağı": [
+  "pickled vegetables plate",
+  "mixed pickle platter",
+  "assorted pickles"
+ ],
+ "Kısır": [
+  "bulgur salad",
+  "spicy bulgur greens",
+  "tomato bulgur salad"
+ ],
+ "Cacık (Meze)": [
+  "yogurt cucumber dip",
+  "creamy cucumber sauce",
+  "garlic yogurt cucumber"
+ ],
+ "Yoğurtlu Semizotu": [
+  "purslane yogurt salad",
+  "greens with yogurt",
+  "creamy purslane dish"
+ ],
+ "Közlenmiş Biber": [
+  "roasted peppers",
+  "charred peppers plate",
+  "grilled pepper meze"
+ ],
+ "Çay": [
+  "turkish tea glass",
+  "black tea tulip glass",
+  "steaming tea cup"
+ ],
+ "Demli Çay": [
+  "strong black tea",
+  "dark brewed tea",
+  "turkish tea glass"
+ ],
+ "Fincan Çay": [
+  "tea in cup",
+  "teacup with saucer",
+  "brewed tea cup"
+ ],
+ "Duble Çay": [
+  "double strong tea",
+  "strong turkish tea",
+  "dark tea glass"
+ ],
+ "Türk Kahvesi": [
+  "turkish coffee cup",
+  "foamy coffee",
+  "small coffee with sweet"
+ ],
+ "Menengiç Kahvesi": [
+  "foamy nut coffee",
+  "earthy coffee cup",
+  "traditional stone coffee"
+ ],
+ "Dibek Kahvesi": [
+  "pounded turkish coffee",
+  "foamy coffee cup",
+  "traditional ground coffee"
+ ],
+ "Espresso": [
+  "espresso shot cup",
+  "crema topped coffee",
+  "small strong coffee"
+ ],
+ "Double Espresso": [
+  "double espresso shot",
+  "doppio coffee cup",
+  "strong coffee crema"
+ ],
+ "Americano": [
+  "black americano coffee",
+  "long espresso drink",
+  "coffee in glass"
+ ],
+ "Latte": [
+  "latte art coffee",
+  "milk coffee cup",
+  "creamy latte foam"
+ ],
+ "Cappuccino": [
+  "cappuccino foam cup",
+  "cocoa dusted coffee",
+  "milky coffee cup"
+ ],
+ "Flat White": [
+  "flat white coffee",
+  "velvety milk espresso",
+  "small creamy coffee"
+ ],
+ "Macchiato": [
+  "espresso macchiato",
+  "spotted coffee cup",
+  "foam marked espresso"
+ ],
+ "Caramel Macchiato": [
+  "caramel macchiato",
+  "layered caramel coffee",
+  "vanilla caramel latte"
+ ],
+ "Mocha": [
+  "mocha coffee cup",
+  "chocolate coffee drink",
+  "whipped cream mocha"
+ ],
+ "White Mocha": [
+  "white chocolate mocha",
+  "creamy mocha drink",
+  "whipped cream coffee"
+ ],
+ "Vanilyalı Latte": [
+  "vanilla latte",
+  "vanilla syrup coffee",
+  "creamy vanilla coffee"
+ ],
+ "Karamel Latte": [
+  "caramel latte",
+  "caramel syrup coffee",
+  "milky caramel drink"
+ ],
+ "Fındıklı Latte": [
+  "hazelnut latte",
+  "hazelnut coffee drink",
+  "nutty milk coffee"
+ ],
+ "Filtre Kahve": [
+  "filter coffee cup",
+  "drip brewed coffee",
+  "black filter coffee"
+ ],
+ "Cortado": [
+  "cortado coffee",
+  "espresso with milk",
+  "small milk coffee"
+ ],
+ "Sıcak Çikolata": [
+  "hot chocolate mug",
+  "whipped cream cocoa",
+  "steaming chocolate drink"
+ ],
+ "Salep": [
+  "creamy salep drink",
+  "cinnamon dusted milk",
+  "warm orchid drink"
+ ],
+ "Chai Latte": [
+  "chai latte",
+  "spiced tea latte",
+  "cinnamon milk tea"
+ ],
+ "Matcha Latte": [
+  "green matcha latte",
+  "powdered green tea",
+  "creamy matcha drink"
+ ],
+ "Yeşil Çay": [
+  "green tea cup",
+  "brewed green tea",
+  "tea leaves glass"
+ ],
+ "Ihlamur": [
+  "linden herbal tea",
+  "floral tea cup",
+  "steaming herbal infusion"
+ ],
+ "Adaçayı": [
+  "sage herbal tea",
+  "brewed sage leaves",
+  "steaming sage cup"
+ ],
+ "Kuşburnu Çayı": [
+  "rosehip tea",
+  "fruity red tea",
+  "steaming rosehip cup"
+ ],
+ "Elma Çayı": [
+  "apple tea",
+  "fruity red tea",
+  "steaming apple drink"
+ ],
+ "Oralet": [
+  "orange flavored tea",
+  "bright fruit drink",
+  "sweet fruit infusion"
+ ],
+ "Boza": [
+  "fermented millet drink",
+  "thick winter drink",
+  "traditional grain beverage"
+ ],
+ "Ayran": [
+  "buttermilk glass",
+  "yogurt drink glass",
+  "frothy white drink"
+ ],
+ "Yayık Ayran": [
+  "churned yogurt drink",
+  "frothy buttermilk glass",
+  "thick yogurt beverage"
+ ],
+ "Kola": [
+  "cola glass ice",
+  "chilled cola drink",
+  "fizzy dark soda"
+ ],
+ "Zero Kola": [
+  "zero cola glass",
+  "diet cola ice",
+  "sugar free cola"
+ ],
+ "Portakallı Gazoz": [
+  "orange soda glass",
+  "fizzy orange drink",
+  "chilled fruit soda"
+ ],
+ "Gazoz": [
+  "soda glass ice",
+  "fizzy soft drink",
+  "chilled carbonated drink"
+ ],
+ "Maden Suyu": [
+  "sparkling mineral water",
+  "fizzy water glass",
+  "bottled soda water"
+ ],
+ "Limonlu Soda": [
+  "lemon sparkling water",
+  "fizzy lemon drink",
+  "chilled lemon soda"
+ ],
+ "Su": [
+  "glass of water",
+  "water glass ice",
+  "drinking glass water"
+ ],
+ "Taze Portakal Suyu": [
+  "fresh orange juice",
+  "squeezed juice glass",
+  "chilled orange drink"
+ ],
+ "Limonata": [
+  "homemade lemonade",
+  "fresh lemonade glass",
+  "iced lemon drink"
+ ],
+ "Çilekli Limonata": [
+  "strawberry lemonade",
+  "pink lemonade glass",
+  "iced berry lemon"
+ ],
+ "Şeftalili Ice Tea": [
+  "peach iced tea",
+  "chilled peach tea",
+  "iced fruit tea"
+ ],
+ "Limonlu Ice Tea": [
+  "lemon iced tea",
+  "chilled lemon tea",
+  "iced tea glass"
+ ],
+ "Vişne Suyu": [
+  "sour cherry juice",
+  "dark red juice",
+  "chilled berry juice"
+ ],
+ "Şalgam": [
+  "turnip juice glass",
+  "purple fermented drink",
+  "spicy vegetable juice"
+ ],
+ "Acılı Şalgam": [
+  "spicy turnip juice",
+  "chili vegetable drink",
+  "purple hot juice"
+ ],
+ "Kefir": [
+  "kefir glass",
+  "fermented milk drink",
+  "creamy probiotic drink"
+ ],
+ "Churchill": [
+  "pickle juice soda",
+  "briny fizzy drink",
+  "chilled brine glass"
+ ],
+ "Enerji İçeceği": [
+  "energy drink can",
+  "chilled energy beverage",
+  "fizzy energy drink"
+ ],
+ "Soğuk Süt": [
+  "cold milk glass",
+  "iced milk glass",
+  "chilled dairy drink"
+ ],
+ "Çilek Frozen": [
+  "strawberry slushie",
+  "icy strawberry drink",
+  "pink frozen drink"
+ ],
+ "Mango Frozen": [
+  "mango slushie",
+  "icy mango drink",
+  "yellow frozen drink"
+ ],
+ "Karpuz Frozen": [
+  "watermelon slushie",
+  "icy watermelon drink",
+  "red frozen drink"
+ ],
+ "Limon Nane Frozen": [
+  "lemon mint slushie",
+  "icy mint lemonade",
+  "green frozen drink"
+ ],
+ "Böğürtlen Frozen": [
+  "blackberry slushie",
+  "dark berry drink",
+  "icy purple frozen"
+ ],
+ "Ananas Frozen": [
+  "pineapple slushie",
+  "icy pineapple drink",
+  "yellow frozen drink"
+ ],
+ "Şeftali Frozen": [
+  "peach slushie",
+  "icy peach drink",
+  "orange frozen drink"
+ ],
+ "Kivi Frozen": [
+  "kiwi slushie",
+  "icy green drink",
+  "kiwi frozen drink"
+ ],
+ "Çikolatalı Milkshake": [
+  "chocolate milkshake",
+  "whipped cream shake",
+  "thick cocoa shake"
+ ],
+ "Çilekli Milkshake": [
+  "strawberry milkshake",
+  "pink creamy shake",
+  "fruit milkshake"
+ ],
+ "Vanilyalı Milkshake": [
+  "vanilla milkshake",
+  "creamy white shake",
+  "thick vanilla drink"
+ ],
+ "Muzlu Milkshake": [
+  "banana milkshake",
+  "creamy banana shake",
+  "thick fruit shake"
+ ],
+ "Oreo Milkshake": [
+  "cookie milkshake",
+  "oreo shake cream",
+  "chocolate cookie shake"
+ ],
+ "Karamelli Milkshake": [
+  "caramel milkshake",
+  "caramel drizzle shake",
+  "thick creamy shake"
+ ],
+ "Muzlu Smoothie": [
+  "banana smoothie",
+  "creamy fruit smoothie",
+  "blended banana drink"
+ ],
+ "Orman Meyveli Smoothie": [
+  "berry smoothie",
+  "mixed forest berry drink",
+  "purple fruit smoothie"
+ ],
+ "Yeşil Detoks Smoothie": [
+  "green detox smoothie",
+  "spinach smoothie drink",
+  "healthy green blend"
+ ],
+ "Mango Ananas Smoothie": [
+  "mango pineapple smoothie",
+  "tropical fruit blend",
+  "yellow smoothie glass"
+ ],
+ "Iced Latte": [
+  "iced latte glass",
+  "layered iced coffee",
+  "chilled milk coffee"
+ ],
+ "Iced Americano": [
+  "iced americano",
+  "chilled black coffee",
+  "iced espresso drink"
+ ],
+ "Cold Brew": [
+  "cold brew coffee",
+  "chilled steeped coffee",
+  "iced black coffee"
+ ],
+ "Frappe": [
+  "iced coffee frappe",
+  "blended coffee drink",
+  "frothy cold coffee"
+ ],
+ "Karamel Frappe": [
+  "caramel frappe",
+  "iced caramel coffee",
+  "blended caramel drink"
+ ],
+ "Affogato": [
+  "espresso over ice cream",
+  "coffee dessert scoop",
+  "gelato with espresso"
+ ],
+ "Bubble Tea": [
+  "bubble tea pearls",
+  "tapioca milk tea",
+  "iced boba drink"
+ ],
+ "Açai Bowl": [
+  "acai berry bowl",
+  "acai smoothie bowl",
+  "granola fruit bowl"
+ ],
+ "Bira": [
+  "beer glass foam",
+  "cold lager glass",
+  "golden beer mug"
+ ],
+ "Fıçı Bira": [
+  "draft beer pint",
+  "tap beer glass",
+  "fresh poured lager"
+ ],
+ "Siyah Bira": [
+  "dark stout beer",
+  "black beer foam",
+  "creamy dark lager"
+ ],
+ "Buğday Birası": [
+  "wheat beer glass",
+  "hefeweizen glass",
+  "cloudy wheat brew"
+ ],
+ "Kırmızı Şarap": [
+  "red wine glass",
+  "glass of red wine",
+  "dark wine pour"
+ ],
+ "Beyaz Şarap": [
+  "white wine glass",
+  "chilled white wine",
+  "pale golden wine"
+ ],
+ "Roze Şarap": [
+  "rose wine glass",
+  "pink wine glass",
+  "chilled rose pour"
+ ],
+ "Rakı": [
+  "raki glass ice",
+  "anise drink white",
+  "turkish anise liquor"
+ ],
+ "Viski": [
+  "whiskey glass ice",
+  "amber whisky tumbler",
+  "poured whiskey glass"
+ ],
+ "Votka": [
+  "vodka glass ice",
+  "clear spirit shot",
+  "chilled vodka drink"
+ ],
+ "Cin Tonik": [
+  "gin tonic glass",
+  "gin and tonic",
+  "lime gin drink"
+ ],
+ "Mojito": [
+  "mint mojito glass",
+  "lime mint cocktail",
+  "iced mojito drink"
+ ],
+ "Margarita": [
+  "margarita cocktail glass",
+  "salt rimmed drink",
+  "lime tequila drink"
+ ],
+ "Piña Colada": [
+  "pina colada glass",
+  "coconut pineapple drink",
+  "tropical cocktail"
+ ],
+ "Aperol Spritz": [
+  "aperol spritz",
+  "orange spritz glass",
+  "sparkling aperitif drink"
+ ],
+ "Cosmopolitan": [
+  "cosmopolitan cocktail",
+  "pink martini drink",
+  "cranberry vodka cocktail"
+ ],
+ "Negroni": [
+  "negroni cocktail glass",
+  "red mixed drink",
+  "gin aperitif glass"
+ ],
+ "Old Fashioned": [
+  "old fashioned cocktail",
+  "whiskey sugar cube",
+  "amber rocks drink"
+ ],
+ "Long Island": [
+  "long island iced tea",
+  "clear mixed cocktail",
+  "tall strong drink"
+ ],
+ "Sex on the Beach": [
+  "beach cocktail orange",
+  "peach vodka cocktail",
+  "layered fruit drink"
+ ],
+ "Blue Lagoon": [
+  "blue cocktail glass",
+  "bright blue drink",
+  "curacao vodka cocktail"
+ ],
+ "Sangria": [
+  "red wine punch",
+  "fruit filled sangria",
+  "pitcher of sangria"
+ ],
+ "Mocktail": [
+  "fruit mocktail glass",
+  "colorful virgin drink",
+  "iced nonalcoholic drink"
+ ],
+ "Shot": [
+  "shot glasses bar",
+  "small liqueur glass",
+  "layered shot drink"
+ ],
+ "Tekila Shot": [
+  "tequila shot glass",
+  "salted rim shot",
+  "lime tequila shot"
+ ],
+ "Çerez Tabağı": [
+  "mixed nuts plate",
+  "snack nut bowl",
+  "roasted nut platter"
+ ],
+ "Peynir Tabağı (Bar)": [
+  "cheese platter board",
+  "bar cheese plate",
+  "cheese with crackers"
+ ],
+ "Patates Tabağı (Bar)": [
+  "seasoned fries basket",
+  "bar snack fries",
+  "crispy fries bowl"
+ ],
+ "Elma Nargile": [
+  "apple hookah",
+  "fruit flavored hookah",
+  "hookah with smoke"
+ ],
+ "Nane Nargile": [
+  "mint hookah",
+  "fresh mint shisha",
+  "hookah with smoke"
+ ],
+ "Karpuz Nargile": [
+  "watermelon hookah",
+  "fruit flavored shisha",
+  "hookah with smoke"
+ ],
+ "Şeftali Nargile": [
+  "peach hookah",
+  "fruity shisha smoke",
+  "hookah with smoke"
+ ],
+ "Üzüm Nargile": [
+  "grape hookah",
+  "grape flavored shisha",
+  "hookah with smoke"
+ ],
+ "Limon Nargile": [
+  "lemon hookah",
+  "citrus flavored shisha",
+  "hookah with smoke"
+ ],
+ "Böğürtlen Nargile": [
+  "blackberry hookah",
+  "berry flavored shisha",
+  "hookah with smoke"
+ ],
+ "Kavun Nargile": [
+  "melon hookah",
+  "melon flavored shisha",
+  "hookah with smoke"
+ ],
+ "Tepsi Kebabı": [
+  "tray baked kebab",
+  "minced meat tray bake",
+  "oven kebab dish"
+ ],
+ "Oruk": [
+  "bulgur meat patties",
+  "fried stuffed bulgur",
+  "savory bulgur cakes"
+ ],
+ "Yuvalama": [
+  "lamb dumpling soup",
+  "yogurt dumpling balls",
+  "turkish meatballs soup"
+ ],
+ "Hamsili Pilav": [
+  "anchovy rice pilaf",
+  "rice with fish",
+  "black sea rice dish"
+ ],
+ "Karalahana Çorbası": [
+  "collard green soup",
+  "greens bean soup",
+  "hearty black sea soup"
+ ],
+ "Kayseri Yağlama": [
+  "layered meat flatbread",
+  "thin bread meat",
+  "stuffed flatbread layers"
+ ],
+ "Pastırmalı Yumurta": [
+  "eggs with cured beef",
+  "pastirma fried eggs",
+  "spicy breakfast eggs"
+ ],
+ "Konya Fırın Kebabı": [
+  "oven baked kebab",
+  "clay pot lamb",
+  "slow baked meat dish"
+ ],
+ "Bamya Çorbası": [
+  "okra soup",
+  "lamb okra broth",
+  "tomato okra stew"
+ ],
+ "Erzurum Cağ Kebabı": [
+  "horizontal rotisserie kebab",
+  "lamb kebab skewers",
+  "grilled meat wrap"
+ ],
+ "Bolu Mengen Pilavı": [
+  "rice with meat",
+  "herbed buttery rice",
+  "village rice pilaf"
+ ],
+ "Diyarbakır Kaburga Dolması": [
+  "stuffed lamb ribs",
+  "rice filled ribs",
+  "roast lamb rack"
+ ],
+ "Urfa Ciğer": [
+  "grilled liver plate",
+  "cumin dusted liver",
+  "fried liver cubes"
+ ],
+ "Ege Otları": [
+  "mediterranean herbs plate",
+  "wild greens dish",
+  "olive oil herbs"
+ ],
+ "Zeytinyağlı Börülce": [
+  "black eyed bean salad",
+  "beans olive oil",
+  "creamy bean meze"
+ ],
+ "Tirit": [
+  "stale bread meat broth",
+  "shredded meat bread",
+  "soaked bread dish"
+ ],
+ "Keşkek": [
+  "wheat lamb mash",
+  "pounded grain dish",
+  "festive mashed wheat"
+ ],
+ "Perde Pilavı": [
+  "baked rice in pastry",
+  "almond rice pilaf",
+  "crusty rice dish"
+ ],
+ "Kelle Paça (Yöresel)": [
+  "lamb head soup",
+  "spicy garlic broth",
+  "traditional offal soup"
+ ],
+ "Tavuk Kapama": [
+  "braised whole chicken",
+  "slow cooked chicken",
+  "turkish chicken pot"
+ ],
+ "Kuzu Kapama": [
+  "braised lamb pieces",
+  "slow cooked lamb",
+  "turkish lamb pot"
+ ],
+ "Mıhlama": [
+  "cornmeal cheese skillet",
+  "melted cheese mush",
+  "bubbling cheese cornmeal"
+ ],
+ "Vegan Bowl": [
+  "vegan rice bowl",
+  "plant based bowl",
+  "vegetable grain bowl"
+ ],
+ "Fit Tavuk Tabağı": [
+  "grilled chicken plate",
+  "healthy chicken meal",
+  "lean chicken veggies"
+ ],
+ "Kinoalı Salata": [
+  "quinoa salad bowl",
+  "healthy grain salad",
+  "quinoa veggie mix"
+ ],
+ "Falafel Tabağı": [
+  "falafel plate",
+  "chickpea fritters plate",
+  "falafel with tahini"
+ ],
+ "Sebze Izgara": [
+  "grilled vegetables plate",
+  "charred veggie skewers",
+  "roasted veggie platter"
+ ],
+ "Mercimek Köftesi (Fit)": [
+  "lentil balls plate",
+  "red lentil kofte",
+  "healthy lentil patties"
+ ],
+ "Yulaf Kasesi": [
+  "oatmeal bowl",
+  "granola yogurt bowl",
+  "breakfast oats berries"
+ ],
+ "Glutensiz Pankek": [
+  "gluten free pancakes",
+  "buckwheat pancake stack",
+  "healthy pancake plate"
+ ],
+ "Vegan Burger": [
+  "vegan burger bun",
+  "plant based burger",
+  "veggie patty burger"
+ ],
+ "Avokado Salata": [
+  "avocado salad plate",
+  "green avocado greens",
+  "fresh avocado bowl"
+ ],
+ "Somonlu Fit Tabak": [
+  "grilled salmon plate",
+  "healthy salmon meal",
+  "salmon veggies bowl"
+ ],
+ "Protein Smoothie": [
+  "protein shake glass",
+  "creamy protein drink",
+  "fitness smoothie"
+ ],
+ "Çocuk Köfte Menü": [
+  "kids meatball meal",
+  "children meatball plate",
+  "kids menu fries"
+ ],
+ "Çocuk Nugget Menü": [
+  "kids nugget meal",
+  "children nuggets fries",
+  "kids chicken nuggets"
+ ],
+ "Çocuk Pizza": [
+  "small kids pizza",
+  "mini personal pizza",
+  "children pizza slice"
+ ],
+ "Çocuk Makarna": [
+  "kids pasta plate",
+  "small pasta bowl",
+  "buttered children pasta"
+ ],
+ "Çocuk Burger": [
+  "mini kids burger",
+  "small hamburger plate",
+  "children burger fries"
+ ],
+ "Çocuk Tost": [
+  "kids cheese toast",
+  "small grilled toast",
+  "children sandwich toast"
+ ],
+ "Vanilyalı Iced Latte": [
+  "vanilla iced latte",
+  "chilled vanilla coffee",
+  "layered iced milk"
+ ],
+ "Vanilyalı Cappuccino": [
+  "vanilla cappuccino",
+  "frothy vanilla coffee",
+  "cocoa dusted cappuccino"
+ ],
+ "Karamel Iced Latte": [
+  "caramel iced latte",
+  "chilled caramel coffee",
+  "layered iced coffee"
+ ],
+ "Karamel Cappuccino": [
+  "caramel cappuccino",
+  "frothy caramel coffee",
+  "cocoa topped cappuccino"
+ ],
+ "Fındıklı Iced Latte": [
+  "hazelnut iced latte",
+  "chilled nutty coffee",
+  "layered iced coffee"
+ ],
+ "Fındıklı Cappuccino": [
+  "hazelnut cappuccino",
+  "frothy nutty coffee",
+  "dusted cappuccino cup"
+ ],
+ "Çikolatalı Iced Latte": [
+  "chocolate iced latte",
+  "chilled mocha coffee",
+  "layered iced coffee"
+ ],
+ "Çikolatalı Cappuccino": [
+  "chocolate cappuccino",
+  "mocha froth coffee",
+  "cocoa dusted cup"
+ ],
+ "Tarçınlı Iced Latte": [
+  "cinnamon iced latte",
+  "spiced chilled coffee",
+  "layered iced coffee"
+ ],
+ "Tarçınlı Cappuccino": [
+  "cinnamon cappuccino",
+  "spiced froth coffee",
+  "cocoa cinnamon cup"
+ ],
+ "Hindistan Cevizli Iced Latte": [
+  "coconut iced latte",
+  "chilled coconut coffee",
+  "layered iced coffee"
+ ],
+ "Hindistan Cevizli Cappuccino": [
+  "coconut cappuccino",
+  "frothy coconut coffee",
+  "tropical cappuccino cup"
+ ],
+ "Balkabaklı Iced Latte": [
+  "pumpkin iced latte",
+  "spiced chilled coffee",
+  "autumn iced coffee"
+ ],
+ "Balkabaklı Cappuccino": [
+  "pumpkin cappuccino",
+  "spiced froth coffee",
+  "autumn cappuccino cup"
+ ],
+ "Limon Dondurma": [
+  "lemon ice cream",
+  "citrus gelato scoops",
+  "yellow sorbet bowl"
+ ],
+ "Karadut Dondurma": [
+  "mulberry ice cream",
+  "dark berry gelato",
+  "purple fruit scoop"
+ ],
+ "Sakız Dondurma": [
+  "mastic flavored gelato",
+  "chewy turkish ice cream",
+  "creamy pale scoop"
+ ],
+ "Kavun Dondurma": [
+  "melon ice cream",
+  "cantaloupe gelato",
+  "pale orange scoop"
+ ],
+ "Antep Fıstığı Dondurma": [
+  "pistachio ice cream",
+  "green gelato scoop",
+  "nutty ice cream"
+ ],
+ "Bitter Çikolata Dondurma": [
+  "dark chocolate ice cream",
+  "intense cocoa gelato",
+  "rich chocolate scoop"
+ ],
+ "Karamel Dondurma": [
+  "caramel ice cream",
+  "salted caramel gelato",
+  "golden creamy scoop"
+ ],
+ "Kaymak Dondurma": [
+  "clotted cream ice cream",
+  "rich dairy gelato",
+  "creamy white scoop"
+ ],
+ "Kaşarlı Su Böreği": [
+  "cheese boiled borek",
+  "layered cheese pastry",
+  "soft filled borek"
+ ],
+ "Kaşarlı Kol Böreği": [
+  "cheese rolled borek",
+  "baked cheese pastry",
+  "layered pastry roll"
+ ],
+ "Kıymalı Su Böreği": [
+  "meat filled boiled borek",
+  "layered meat pastry",
+  "soft meat borek"
+ ],
+ "Kıymalı Kol Böreği": [
+  "meat rolled borek",
+  "baked meat pastry",
+  "layered pastry roll"
+ ],
+ "Ispanaklı Su Böreği": [
+  "spinach boiled borek",
+  "layered spinach pastry",
+  "soft spinach borek"
+ ],
+ "Ispanaklı Kol Böreği": [
+  "spinach rolled borek",
+  "baked spinach pastry",
+  "layered pastry roll"
+ ],
+ "Patatesli Su Böreği": [
+  "potato boiled borek",
+  "layered potato pastry",
+  "soft potato borek"
+ ],
+ "Patatesli Kol Böreği": [
+  "potato rolled borek",
+  "baked potato pastry",
+  "layered pastry roll"
+ ],
+ "Peynirli Su Böreği": [
+  "cheese boiled borek",
+  "layered cheese pastry",
+  "soft filled borek"
+ ],
+ "Peynirli Kol Böreği": [
+  "cheese rolled borek",
+  "baked cheese pastry",
+  "layered pastry roll"
+ ],
+ "Pırasalı Su Böreği": [
+  "leek filled borek",
+  "layered leek pastry",
+  "soft leek borek"
+ ],
+ "Pırasalı Kol Böreği": [
+  "leek rolled borek",
+  "baked leek pastry",
+  "layered pastry roll"
+ ],
+ "Kaşar Peyniri": [
+  "sliced cheese plate",
+  "melting cheese slices",
+  "mild cheese block"
+ ],
+ "Beyaz Peynir": [
+  "white cheese plate",
+  "brined cheese chunks",
+  "crumbly feta style"
+ ],
+ "Tulum Peyniri": [
+  "aged white cheese",
+  "crumbly sheep cheese",
+  "tangy cheese block"
+ ],
+ "Çiçek Bal": [
+  "honeycomb honey",
+  "raw flower honey",
+  "golden honey dipper"
+ ],
+ "Kaymak": [
+  "clotted cream bowl",
+  "thick cream layers",
+  "spreadable dairy cream"
+ ],
+ "Vişne Reçeli": [
+  "sour cherry jam",
+  "dark cherry preserve",
+  "jar of fruit jam"
+ ],
+ "Çilek Reçeli": [
+  "strawberry jam",
+  "red berry preserve",
+  "jar of fruit spread"
+ ],
+ "Tereyağı": [
+  "butter pat plate",
+  "creamy yellow butter",
+  "fresh dairy butter"
+ ],
+ "Domates Salatalık": [
+  "sliced tomato cucumber",
+  "fresh vegetable plate",
+  "tomato cucumber salad"
+ ],
+ "Haşlanmış Yumurta": [
+  "boiled eggs plate",
+  "halved hard boiled eggs",
+  "sliced egg platter"
+ ],
+ "Sucuk Izgara (Kahvaltı)": [
+  "grilled sausage breakfast",
+  "fried turkish sausage",
+  "eggs with sausage"
+ ],
+ "Patates Kızartması (Kahvaltı)": [
+  "breakfast fries plate",
+  "crispy fried potatoes",
+  "golden potato wedges"
+ ],
+ "Tahin Pekmez": [
+  "tahini molasses",
+  "sesame grape molasses",
+  "swirled brown dip"
+ ],
+ "Espresso Martini": [
+  "espresso martini",
+  "coffee cocktail glass",
+  "shaken vodka coffee"
+ ],
+ "Daiquiri": [
+  "strawberry daiquiri",
+  "blended rum cocktail",
+  "icy lime drink"
+ ],
+ "Mai Tai": [
+  "mai tai cocktail",
+  "tropical rum drink",
+  "tiki cocktail glass"
+ ],
+ "Whiskey Sour": [
+  "whiskey sour cocktail",
+  "lemon whiskey drink",
+  "foamy sour glass"
+ ],
+ "Moscow Mule": [
+  "moscow mule",
+  "ginger beer copper mug",
+  "lime vodka drink"
+ ],
+ "Bloody Mary": [
+  "bloody mary glass",
+  "tomato vodka cocktail",
+  "celery garnish drink"
+ ],
+ "Tequila Sunrise": [
+  "tequila sunrise",
+  "gradient orange cocktail",
+  "cherry garnish drink"
+ ],
+ "Caipirinha": [
+  "caipirinha cocktail",
+  "lime cachaca drink",
+  "icy brazilian cocktail"
+ ],
+ "Rakı Balık Masası": [
+  "raki fish table",
+  "seafood dinner table",
+  "meze and fish"
+ ],
+ "Hatay Tava": [
+  "copper tray lamb",
+  "tomato pepper bake",
+  "glossy red meat dish"
+ ],
+ "Katıklı Ekmek": [
+  "topped flatbread meat",
+  "cheesy spiced bread",
+  "baked flatbread squares"
+ ],
+ "Zahter Salatası": [
+  "zaatar herb salad",
+  "sesame herb greens",
+  "olive oil herbs"
+ ],
+ "Yaprak Kebap": [
+  "layered meat bread",
+  "tomato soaked layers",
+  "baked meat flatbread"
+ ],
+ "Şırdan": [
+  "stuffed tripe dish",
+  "rice filled offal",
+  "tomato stew sausage"
+ ],
+ "Saç Kebabı": [
+  "sizzling iron pan",
+  "lamb pepper skillet",
+  "hot griddle meat"
+ ],
+ "Ciğer Kavurma": [
+  "fried liver cubes",
+  "liver pan dish",
+  "meat with peppers"
+ ],
+ "Meftune": [
+  "lamb eggplant stew",
+  "sour plum stew",
+  "tomato meat casserole"
+ ],
+ "Bostana Salatası": [
+  "chopped tomato salad",
+  "pepper onion salad",
+  "pomegranate salad bowl"
+ ],
+ "Siirt Büryan Kebabı": [
+  "slow roasted lamb",
+  "lamb fat roasted meat",
+  "tender lamb lavash"
+ ],
+ "Laz Böreği": [
+  "layered cheese pastry",
+  "flaky baked borek",
+  "golden cheese wedges"
+ ],
+ "Pırasa Sarması": [
+  "stuffed leek rolls",
+  "leek rice rolls",
+  "olive oil dolma"
+ ],
+ "Karalahana Yemeği": [
+  "collard greens stew",
+  "greens beans corn",
+  "hearty leafy stew"
+ ],
+ "Akçaabat Kavurması": [
+  "fried lamb pieces",
+  "skillet lamb peppers",
+  "browned meat pan"
+ ],
+ "Hamsi Pilaki": [
+  "anchovy olive oil",
+  "braised anchovy dish",
+  "fish onion tomato"
+ ],
+ "Arapsaçı Yemeği": [
+  "fennel chickpea stew",
+  "braised fennel dish",
+  "olive oil vegetables"
+ ],
+ "Şevketi Bostan": [
+  "thistle stem stew",
+  "bitter greens lamb",
+  "braised herb dish"
+ ],
+ "Kabak Çiçeği Dolması": [
+  "stuffed squash blossoms",
+  "zucchini flower rolls",
+  "rice filled flowers"
+ ],
+ "Kabak Mücver": [
+  "zucchini fritters",
+  "fried courgette cakes",
+  "herbed veggie fritters"
+ ],
+ "Develi Kebabı": [
+  "clay pot lamb",
+  "tomato pepper kebab",
+  "baked meat casserole"
+ ],
+ "Kadayıf Dolması": [
+  "walnut pastry rolls",
+  "shredded dough parcels",
+  "fried syrup dessert"
+ ],
+ "Lor Dolması": [
+  "cheese filled dough",
+  "fried cheese parcels",
+  "powdered sugar pastry"
+ ],
+ "Kesme Aşı": [
+  "hand cut noodle soup",
+  "square noodle broth",
+  "lamb chickpea soup"
+ ],
+ "Sac Arası": [
+  "crisp meat sheets",
+  "pressed minced meat",
+  "thin crispy meat"
+ ],
+ "Mengen Tava": [
+  "mixed meat fry",
+  "liver pepper skillet",
+  "copper pan dish"
+ ],
+ "Edirne Ciğeri": [
+  "fried liver slices",
+  "cumin dusted liver",
+  "liver onion plate"
+ ],
+ "Paçanga Böreği": [
+  "fried pastry parcels",
+  "crispy cheese pastry",
+  "cured meat triangles"
+ ],
+ "Trakya Kavurması": [
+  "slow fried lamb",
+  "dark roasted meat",
+  "copper pan meat"
+ ],
+ "İç Bakla": [
+  "fresh broad beans",
+  "dill stewed beans",
+  "olive oil bean dish"
+ ],
+ "Sini Kebabı": [
+  "tray baked meat",
+  "potato meat bake",
+  "rectangular tin kebab"
+ ],
+ "Antep Ezmesi": [
+  "chopped tomato dip",
+  "spicy walnut salsa",
+  "stone bowl relish"
+ ],
+ "Bulgur Kadayıfı": [
+  "shredded pastry meat",
+  "baked bulgur pastry",
+  "pistachio topped squares"
+ ],
+ "Mardin Kebabı": [
+  "clay dish lamb",
+  "garlic tomato kebab",
+  "baked meat chili"
+ ],
+ "Harran Kebabı": [
+  "baked meat tray",
+  "onion tomato kebab",
+  "butter drizzled bake"
+ ],
+ "Nohutlu Yahni": [
+  "lamb chickpea broth",
+  "garlic meat stew",
+  "tomato stew pot"
+ ],
+ "İskilip Dolması": [
+  "rice with chicken",
+  "tomato rice pot",
+  "copper pot pilaf"
+ ],
+ "Zırh Kebabı": [
+  "hand minced kebab",
+  "flat skewer lamb",
+  "charred kebab lavash"
+ ],
+ "Tavuk Beyti": [
+  "chicken roll lavash",
+  "sliced kebab rolls",
+  "tomato yogurt chicken"
+ ],
+ "Kaburga Şiş": [
+  "lamb rib skewers",
+  "grilled rib kebab",
+  "charred rib pieces"
+ ],
+ "Ciğer Kebap": [
+  "grilled liver skewers",
+  "cumin liver cubes",
+  "liver on flatbread"
+ ],
+ "Kanat Şiş": [
+  "chicken wing skewers",
+  "grilled wing kebab",
+  "charred wings plate"
+ ],
+ "Antrikot Şiş": [
+  "beef tenderloin skewers",
+  "grilled steak cubes",
+  "meat skewer plate"
+ ],
+ "Kaşarlı Izgara Köfte": [
+  "cheese topped meatballs",
+  "grilled kofte cheese",
+  "melted cheese kofte"
+ ],
+ "İzmir Köfte": [
+  "baked meatball casserole",
+  "meatballs potato bake",
+  "tomato sauce kofte"
+ ],
+ "Sultan Kebabı": [
+  "eggplant wrapped meatballs",
+  "baked kebab eggplant",
+  "yogurt topped bake"
+ ],
+ "Izgara Köfte Porsiyon": [
+  "grilled meatball plate",
+  "kofte with fries",
+  "meatballs salad platter"
+ ],
+ "Karışık Şiş": [
+  "mixed grill skewers",
+  "lamb chicken skewers",
+  "assorted kebab platter"
+ ],
+ "Patlıcanlı Kebap": [
+  "eggplant kebab bake",
+  "layered eggplant meat",
+  "roasted eggplant kebab"
+ ],
+ "Fıstıklı Kuzu Şiş": [
+  "pistachio lamb skewers",
+  "crusted lamb kebab",
+  "green nut lamb"
+ ],
+ "Kuzu Külbastı": [
+  "grilled lamb chops",
+  "charred lamb steaks",
+  "lamb cutlet plate"
+ ],
+ "Dana Külbastı": [
+  "grilled beef slices",
+  "thin beef cutlet",
+  "browned beef strips"
+ ],
+ "Tavuk Külbastı": [
+  "grilled chicken slices",
+  "flat chicken cutlet",
+  "chicken with mushrooms"
+ ],
+ "Kuzu Sırt": [
+  "rack of lamb",
+  "sliced pink lamb",
+  "roasted lamb rack"
+ ],
+ "Bonfile Şiş": [
+  "beef tenderloin skewers",
+  "grilled steak cubes",
+  "glossy meat skewers"
+ ],
+ "Adana Kebap Porsiyon": [
+  "adana kebab plate",
+  "spicy lamb kebab",
+  "minced kebab lavash"
+ ],
+ "Urfa Kebap Porsiyon": [
+  "urfa kebab plate",
+  "mild lamb kebab",
+  "minced kebab lavash"
+ ],
+ "Karışık Izgara Tabağı": [
+  "mixed grill platter",
+  "assorted kebab plate",
+  "grilled meat combo"
+ ],
+ "Kuzu Şiş Tabağı": [
+  "lamb skewer platter",
+  "grilled lamb plate",
+  "skewers with rice"
+ ],
+ "Acılı Et Döner Dürüm": [
+  "spicy beef wrap",
+  "chili doner roll",
+  "spicy lavash wrap"
+ ],
+ "Et Döner Aile Boyu": [
+  "family doner platter",
+  "large doner tray",
+  "share doner plate"
+ ],
+ "Acılı Tavuk Döner Dürüm": [
+  "spicy chicken wrap",
+  "chili doner roll",
+  "spicy lavash wrap"
+ ],
+ "Et Döner Çıtır Ekmek": [
+  "crispy bread doner",
+  "doner in fried bread",
+  "crunchy doner cone"
+ ],
+ "Tavuk Döner Çıtır Ekmek": [
+  "crispy bread chicken",
+  "doner in fried bread",
+  "crunchy chicken cone"
+ ],
+ "Et Döner Menü": [
+  "doner combo meal",
+  "doner with fries",
+  "doner platter drink"
+ ],
+ "Tavuk Döner Menü": [
+  "chicken doner combo",
+  "doner with fries",
+  "chicken platter drink"
+ ],
+ "Acılı Karışık Döner Dürüm": [
+  "spicy mixed wrap",
+  "chili doner roll",
+  "spicy lavash wrap"
+ ],
+ "Et Döner Kaşarlı Ekmek": [
+  "cheese doner sandwich",
+  "grilled doner bread",
+  "melted cheese kebab"
+ ],
+ "Karışık Döner Menü": [
+  "mixed doner combo",
+  "doner with fries",
+  "mixed platter drink"
+ ],
+ "Tantuni Menü": [
+  "tantuni combo plate",
+  "wrap salad drink",
+  "meat wrap platter"
+ ],
+ "Et Tantuni Tabak": [
+  "beef tantuni plate",
+  "chopped meat platter",
+  "tantuni with lavash"
+ ],
+ "Tavuk Tantuni Tabak": [
+  "chicken tantuni plate",
+  "chopped chicken platter",
+  "tantuni with lavash"
+ ],
+ "Acılı Tantuni Dürüm": [
+  "spicy tantuni wrap",
+  "chili meat wrap",
+  "spicy lavash roll"
+ ],
+ "Kaşarlı Tantuni Ekmek": [
+  "cheese meat sandwich",
+  "pressed tantuni bread",
+  "melted cheese roll"
+ ],
+ "Tantuni Bowl": [
+  "tantuni rice bowl",
+  "chopped meat bowl",
+  "bowl with pickles"
+ ],
+ "Kaşarlı Sucuklu Yumurtalı Pide": [
+  "cheese sausage egg flatbread",
+  "breakfast pide boat",
+  "egg topped pide"
+ ],
+ "Kıymalı Ispanaklı Pide": [
+  "meat spinach flatbread",
+  "half and half pide",
+  "stuffed boat bread"
+ ],
+ "Kuşbaşılı Mantarlı Pide": [
+  "beef mushroom flatbread",
+  "meat mushroom pide",
+  "cheese topped bread"
+ ],
+ "Sucuklu Mantarlı Pide": [
+  "sausage mushroom flatbread",
+  "meat mushroom pide",
+  "cheese topped bread"
+ ],
+ "Pastırmalı Kaşarlı Pide": [
+  "cured meat cheese bread",
+  "pastirma cheese pide",
+  "layered flatbread"
+ ],
+ "Tavuklu Kaşarlı Pide": [
+  "chicken cheese flatbread",
+  "meat mushroom pide",
+  "golden topped bread"
+ ],
+ "Karışık Kapalı Pide": [
+  "closed stuffed pide",
+  "folded meat bread",
+  "puffy baked pastry"
+ ],
+ "Zeytinli Pide": [
+  "olive tomato flatbread",
+  "olive topped pide",
+  "black olive bread"
+ ],
+ "Kıymalı Biberli Pide": [
+  "minced meat pepper bread",
+  "meat pepper pide",
+  "boat flatbread"
+ ],
+ "Etli Bafra Pidesi": [
+  "thin meat flatbread",
+  "long baked pide",
+  "beef topped bread"
+ ],
+ "Samsun Pidesi": [
+  "closed meat stuffed bread",
+  "sesame topped pide",
+  "buttered baked pide"
+ ],
+ "Rize Pidesi": [
+  "cheese stuffed pide",
+  "puffy buttered bread",
+  "oozing cheese flatbread"
+ ],
+ "Lahmacun Menü": [
+  "lahmacun with salad",
+  "two lahmacun plate",
+  "thin meat flatbread"
+ ],
+ "Peynirli Lahmacun": [
+  "cheese lahmacun",
+  "rolled cheese flatbread",
+  "white cheese flatbread"
+ ],
+ "Kaşarlı Lahmacun": [
+  "cheese topped lahmacun",
+  "melted cheese flatbread",
+  "folded cheese flatbread"
+ ],
+ "Kaşarlı Kıymalı Gözleme": [
+  "meat cheese flatbread",
+  "grilled stuffed gozleme",
+  "melted cheese pastry"
+ ],
+ "Sucuklu Gözleme": [
+  "sausage stuffed flatbread",
+  "grilled sausage gozleme",
+  "melted cheese pastry"
+ ],
+ "Lorlu Gözleme": [
+  "cheese filled flatbread",
+  "grilled curd gozleme",
+  "golden pastry bread"
+ ],
+ "Nohut Çorbası": [
+  "chickpea soup bowl",
+  "lemon chickpea broth",
+  "creamy chickpea soup"
+ ],
+ "Ispanak Çorbası": [
+  "spinach soup bowl",
+  "creamy green soup",
+  "yogurt swirl soup"
+ ],
+ "Etli Tarhana Çorbası": [
+  "meat tarhana soup",
+  "thick red soup",
+  "hearty grain soup"
+ ],
+ "Analı Kızlı": [
+  "dumpling yogurt soup",
+  "meat filled dumplings",
+  "broth with dumplings"
+ ],
+ "Bulgur Çorbası": [
+  "bulgur soup bowl",
+  "tomato bulgur broth",
+  "hearty grain soup"
+ ],
+ "Yeşil Mercimek Çorbası": [
+  "green lentil soup",
+  "earthy lentil broth",
+  "lemon lentil soup"
+ ],
+ "Közlenmiş Domates Çorbası": [
+  "roasted tomato soup",
+  "charred tomato broth",
+  "crouton tomato soup"
+ ],
+ "Karnabahar Çorbası": [
+  "cauliflower soup",
+  "creamy white soup",
+  "crouton cauliflower broth"
+ ],
+ "Mahluta Çorbası": [
+  "red lentil rice soup",
+  "thick tomato soup",
+  "hearty legume soup"
+ ],
+ "Süzme Tarhana Çorbası": [
+  "smooth tarhana soup",
+  "creamy red soup",
+  "strained savory soup"
+ ],
+ "Kemik Suyu Çorbası": [
+  "bone broth soup",
+  "clear golden broth",
+  "parsley lemon soup"
+ ],
+ "Bal Kabağı Çorbası": [
+  "pumpkin soup bowl",
+  "creamy orange soup",
+  "swirled pumpkin soup"
+ ],
+ "Etli Taze Fasulye": [
+  "green beans with lamb",
+  "tomato bean stew",
+  "beans meat plate"
+ ],
+ "Zeytinyağlı Bamya": [
+  "olive oil okra",
+  "glossy okra dish",
+  "lemon okra bowl"
+ ],
+ "Zeytinyağlı Taze Fasulye": [
+  "green beans olive oil",
+  "buttery bean dish",
+  "carrot bean plate"
+ ],
+ "Zeytinyağlı Kabak": [
+  "zucchini olive oil",
+  "dill zucchini stew",
+  "soft squash dish"
+ ],
+ "Zeytinyağlı Ispanak": [
+  "spinach olive oil",
+  "wilted spinach dish",
+  "carrot spinach plate"
+ ],
+ "Fırın Kuru Fasulye": [
+  "baked beans clay pot",
+  "white bean bake",
+  "oven bean stew"
+ ],
+ "Tavuk Güveç": [
+  "chicken casserole clay pot",
+  "baked chicken vegetables",
+  "cheesy chicken bake"
+ ],
+ "İç Pilav": [
+  "rice stuffing pilaf",
+  "currant pine nut rice",
+  "nutty rice mound"
+ ],
+ "Kuzu Fırın": [
+  "roasted lamb potatoes",
+  "oven lamb tray",
+  "browned meat bake"
+ ],
+ "Dana Güveç": [
+  "beef vegetable stew",
+  "clay pot casserole",
+  "hearty beef pot"
+ ],
+ "Karışık Güveç": [
+  "mixed vegetable casserole",
+  "cheesy baked stew",
+  "clay dish bake"
+ ],
+ "Etli Bezelye": [
+  "peas with lamb",
+  "pea carrot stew",
+  "tomato pea dish"
+ ],
+ "Etli Lahana Yemeği": [
+  "cabbage stew meat",
+  "braised cabbage dish",
+  "tomato cabbage bowl"
+ ],
+ "Etli Patlıcan": [
+  "eggplant meat stew",
+  "tomato eggplant dish",
+  "lamb eggplant plate"
+ ],
+ "Patlıcan Sote": [
+  "sauteed eggplant",
+  "eggplant pepper skillet",
+  "diced eggplant pan"
+ ],
+ "Kıymalı Kabak": [
+  "zucchini minced meat",
+  "squash meat sauce",
+  "savory zucchini dish"
+ ],
+ "Fasulye Pilav": [
+  "beans and rice",
+  "white bean plate",
+  "classic bean pilaf"
+ ],
+ "Köfte Sote": [
+  "meatballs pepper skillet",
+  "sauteed meatballs tomato",
+  "kofte in sauce"
+ ],
+ "Karnabahar Kızartması": [
+  "fried cauliflower",
+  "golden cauliflower florets",
+  "cauliflower yogurt dip"
+ ],
+ "Peynirli Kabak Kızartması": [
+  "fried zucchini cheese",
+  "zucchini feta plate",
+  "crispy squash slices"
+ ],
+ "Patates Püresi": [
+  "creamy mashed potatoes",
+  "butter mashed potato",
+  "smooth potato puree"
+ ],
+ "Etli Barbunya": [
+  "borlotti beans meat",
+  "red bean stew",
+  "tomato bean dish"
+ ],
+ "Izgara Kalamar": [
+  "grilled squid rings",
+  "charred calamari plate",
+  "lemon parsley squid"
+ ],
+ "Karides Tava": [
+  "fried shrimp plate",
+  "golden crispy prawns",
+  "garlic butter shrimp"
+ ],
+ "Ahtapot Tava": [
+  "fried octopus",
+  "crispy tentacle pieces",
+  "octopus tarator sauce"
+ ],
+ "Levrek Buğulama": [
+  "steamed sea bass",
+  "fish tomato stew",
+  "poached fish pot"
+ ],
+ "Çupra Fırın": [
+  "baked sea bream",
+  "roasted fish potatoes",
+  "oven fish dish"
+ ],
+ "Somon Fırın": [
+  "baked salmon fillet",
+  "roasted salmon lemon",
+  "oven salmon vegetables"
+ ],
+ "Balık Buğulama": [
+  "fish stew tomatoes",
+  "poached fish pot",
+  "braised fish olives"
+ ],
+ "Hamsi Salatası": [
+  "anchovy salad",
+  "fresh fish salad",
+  "lemon onion greens"
+ ],
+ "Karides Salatası": [
+  "shrimp salad plate",
+  "boiled shrimp greens",
+  "seafood salad"
+ ],
+ "Fırın Midye": [
+  "baked mussels",
+  "mussels butter garlic",
+  "shell baked seafood"
+ ],
+ "Kalamar Salatası": [
+  "calamari salad",
+  "grilled squid greens",
+  "lemon squid bowl"
+ ],
+ "Balık Şinitzel": [
+  "breaded fish sticks",
+  "crispy fish fillet",
+  "fried fish platter"
+ ],
+ "Somon Salatası": [
+  "salmon salad plate",
+  "flaked salmon greens",
+  "healthy fish salad"
+ ],
+ "Levrek Tava": [
+  "fried sea bass",
+  "crispy fish slices",
+  "pan fried fish"
+ ],
+ "Triple Cheeseburger": [
+  "triple cheeseburger",
+  "three layer burger",
+  "stacked cheddar burger"
+ ],
+ "Truffle Burger": [
+  "truffle mushroom burger",
+  "gourmet beef burger",
+  "cheese truffle mayo"
+ ],
+ "Jalapeno Popper Burger": [
+  "jalapeno stuffed burger",
+  "spicy cheese burger",
+  "cream cheese chili"
+ ],
+ "Avokado Burger": [
+  "avocado beef burger",
+  "fresh green burger",
+  "veggie topped patty"
+ ],
+ "Çıtır Tavuk Burger": [
+  "crispy chicken burger",
+  "fried fillet burger",
+  "crunchy chicken bun"
+ ],
+ "Köfte Burger": [
+  "meatball patty burger",
+  "grilled kofte bun",
+  "meatball sandwich"
+ ],
+ "Pastırmalı Burger": [
+  "cured meat burger",
+  "pastirma beef burger",
+  "spicy breakfast burger"
+ ],
+ "Somon Burger": [
+  "salmon patty burger",
+  "fish burger dill",
+  "grilled salmon bun"
+ ],
+ "Kahvaltı Burgeri": [
+  "breakfast burger egg",
+  "fried egg bacon burger",
+  "cheesy morning burger"
+ ],
+ "Mini Burger Tabağı": [
+  "slider trio plate",
+  "mini burgers fries",
+  "bite size burgers"
+ ],
+ "Acılı Tavuk Burger": [
+  "spicy chicken burger",
+  "hot sauce chicken",
+  "jalapeno crispy burger"
+ ],
+ "Cheddarlı Burger": [
+  "cheddar sauce burger",
+  "loaded cheese burger",
+  "dripping cheese patty"
+ ],
+ "Soğan Halkalı Burger": [
+  "onion ring burger",
+  "crispy onion beef",
+  "bbq onion burger"
+ ],
+ "Mozzarella Burger": [
+  "mozzarella beef burger",
+  "melted cheese patty",
+  "basil tomato burger"
+ ],
+ "Sucuklu Mantarlı Pizza": [
+  "sausage mushroom pizza",
+  "pizza with sausage",
+  "cheesy veggie meat"
+ ],
+ "Pastırmalı Pizza": [
+  "cured meat pizza",
+  "pizza with cheese",
+  "golden meat topped"
+ ],
+ "Ispanaklı Pizza": [
+  "spinach cheese pizza",
+  "white pizza spinach",
+  "veggie white pizza"
+ ],
+ "Ananaslı Pizza": [
+  "hawaiian pizza",
+  "pineapple ham pizza",
+  "sweet savory pizza"
+ ],
+ "Zeytinli Pizza": [
+  "olive tomato pizza",
+  "black olive pizza",
+  "veggie cheese pizza"
+ ],
+ "Tavuklu Mantarlı Pizza": [
+  "chicken mushroom pizza",
+  "pizza with chicken",
+  "cheesy veggie meat"
+ ],
+ "Karamelize Soğanlı Pizza": [
+  "caramelized onion pizza",
+  "sweet onion cheese",
+  "rustic onion pizza"
+ ],
+ "Rukola Parmesan Pizza": [
+  "arugula parmesan pizza",
+  "fresh rocket pizza",
+  "cheese shaved greens"
+ ],
+ "Kıymalı Pizza": [
+  "minced meat pizza",
+  "ground beef pizza",
+  "meat sauce cheese pizza"
+ ],
+ "Kuşbaşılı Pizza": [
+  "beef cube pizza",
+  "meat pepper pizza",
+  "chunk meat topping"
+ ],
+ "Beş Peynirli Pizza": [
+  "five cheese pizza",
+  "assorted cheese pie",
+  "cheesy golden pizza"
+ ],
+ "Truffle Pizza": [
+  "truffle mushroom pizza",
+  "luxury cheese pizza",
+  "drizzled truffle pie"
+ ],
+ "Vegan Pizza": [
+  "vegan vegetable pizza",
+  "dairy free pizza",
+  "plant based pizza"
+ ],
+ "Pizza Tabağı": [
+  "assorted pizza slices",
+  "mixed pizza platter",
+  "cheese pull slices"
+ ],
+ "Spagetti Carbonara": [
+  "spaghetti carbonara",
+  "creamy bacon pasta",
+  "egg pepper spaghetti"
+ ],
+ "Penne Pomodoro": [
+  "penne tomato sauce",
+  "basil tomato pasta",
+  "glossy red penne"
+ ],
+ "Tagliatelle Pestolu": [
+  "tagliatelle pesto",
+  "ribbon pasta pesto",
+  "green basil noodles"
+ ],
+ "Makarna Köri": [
+  "curry cream pasta",
+  "golden curry noodles",
+  "chicken curry penne"
+ ],
+ "Bolonezli Penne": [
+  "penne bolognese",
+  "meat sauce pasta",
+  "parmesan penne bowl"
+ ],
+ "Kaşarlı Makarna": [
+  "cheesy baked pasta",
+  "melted cheese noodles",
+  "stretchy cheese pasta"
+ ],
+ "Tavuklu Penne": [
+  "chicken penne cream",
+  "grilled chicken pasta",
+  "white sauce noodles"
+ ],
+ "Sebzeli Makarna": [
+  "vegetable pasta",
+  "colorful veggie noodles",
+  "pepper zucchini pasta"
+ ],
+ "Ton Balıklı Penne": [
+  "tuna corn pasta",
+  "penne with tuna",
+  "olive tomato noodles"
+ ],
+ "Sucuklu Makarna": [
+  "sausage pasta",
+  "turkish sausage noodles",
+  "spicy tomato penne"
+ ],
+ "Makarna Salatası": [
+  "cold pasta salad",
+  "veggie pasta salad",
+  "olive corn pasta"
+ ],
+ "Kaşarlı Fırın Makarna": [
+  "baked cheesy pasta",
+  "golden pasta crust",
+  "oven pasta dish"
+ ],
+ "Karidesli Makarna": [
+  "shrimp pasta",
+  "seafood creamy noodles",
+  "pink shrimp penne"
+ ],
+ "Spagetti Köfte": [
+  "spaghetti meatballs",
+  "pasta with meatballs",
+  "tomato sauce spaghetti"
+ ],
+ "Et Şinitzel": [
+  "breaded beef schnitzel",
+  "crispy cutlet plate",
+  "fried steak strips"
+ ],
+ "Tavuk Şinitzel": [
+  "breaded chicken schnitzel",
+  "crispy chicken cutlet",
+  "fried chicken strips"
+ ],
+ "Sucuklu Kaşarlı Tost": [
+  "sausage cheese toast",
+  "pressed melted cheese",
+  "grilled sausage bread"
+ ],
+ "Ton Balıklı Sandviç": [
+  "tuna melt sandwich",
+  "toasted tuna bread",
+  "cheese tomato toast"
+ ],
+ "Kaşarlı Sandviç": [
+  "grilled cheese sandwich",
+  "melted cheese toast",
+  "toasted cheese bread"
+ ],
+ "Karışık Sandviç": [
+  "mixed sandwich plate",
+  "layered club sandwich",
+  "colorful toast stack"
+ ],
+ "Izgara Tavuklu Wrap": [
+  "grilled chicken wrap",
+  "lavash chicken roll",
+  "cheesy chicken wrap"
+ ],
+ "Kıymalı Wrap": [
+  "minced meat wrap",
+  "spiced beef roll",
+  "lavash meat wrap"
+ ],
+ "Sebzeli Wrap": [
+  "vegetable wrap",
+  "grilled veggie roll",
+  "colorful veggie wrap"
+ ],
+ "Tavuk Quesadilla": [
+  "chicken quesadilla",
+  "grilled cheese tortilla",
+  "salsa cream dip"
+ ],
+ "Nugget Menü": [
+  "nuggets fries meal",
+  "chicken nugget basket",
+  "ketchup dip combo"
+ ],
+ "Acılı Cheddarlı Patates": [
+  "spicy cheese fries",
+  "loaded cheddar fries",
+  "jalapeno fry tray"
+ ],
+ "Mozzarella Stick": [
+  "mozzarella sticks",
+  "fried cheese sticks",
+  "marinara dip cheese"
+ ],
+ "Çıtır Midye": [
+  "crispy fried mussels",
+  "breaded mussel bites",
+  "golden mussel cone"
+ ],
+ "Sosisli Menü": [
+  "hot dog fries combo",
+  "sausage bun meal",
+  "ketchup mustard dog"
+ ],
+ "Kaşarlı Sosisli Sandviç": [
+  "cheese hot dog",
+  "melted cheese dog",
+  "sausage cheese bun"
+ ],
+ "Kaşarlı Köfte Ekmek": [
+  "meatball cheese sandwich",
+  "kofte in bread",
+  "cheesy meatball roll"
+ ],
+ "Tavuk Ekmek": [
+  "chicken sandwich roll",
+  "crispy chicken bun",
+  "bread with chicken"
+ ],
+ "Patatesli Tost": [
+  "potato stuffed toast",
+  "fries inside sandwich",
+  "pressed potato bread"
+ ],
+ "Yumurtalı Tost": [
+  "egg cheese toast",
+  "fried egg sandwich",
+  "pressed breakfast toast"
+ ],
+ "Çıtır Tavuk Menü": [
+  "crispy chicken meal",
+  "fried chicken fries",
+  "chicken combo basket"
+ ],
+ "Mega Tost": [
+  "big pressed toast",
+  "loaded cheese sandwich",
+  "double decker toast"
+ ],
+ "Peynirli Çiğ Köfte Dürüm": [
+  "cheese bulgur wrap",
+  "spicy kofte roll",
+  "lavash wrap lettuce"
+ ],
+ "Tavuklu Çiğ Köfte": [
+  "chicken bulgur kofte",
+  "rolled meat shapes",
+  "lettuce wrap plate"
+ ],
+ "Çiğ Köfte Ekmek": [
+  "bulgur kofte sandwich",
+  "spicy bread roll",
+  "kofte in bread"
+ ],
+ "Aile Boyu Çiğ Köfte": [
+  "sharing platter kofte",
+  "family bulgur plate",
+  "rows of kofte"
+ ],
+ "Zeytinyağlı Çiğ Köfte": [
+  "olive oil bulgur",
+  "glossy kofte plate",
+  "lettuce lemon greens"
+ ],
+ "Yumurtalı Simit": [
+  "simit with egg",
+  "sesame ring breakfast",
+  "egg cheese simit"
+ ],
+ "Sokak Köfte Tabağı": [
+  "street meatball plate",
+  "grilled kofte bread",
+  "sumac onion plate"
+ ],
+ "Simit Pizza": [
+  "simit topped pizza",
+  "sesame ring flatbread",
+  "cheese olive pizza ring"
+ ],
+ "Peynirli Bazlama": [
+  "cheese stuffed flatbread",
+  "griddle bread cheese",
+  "soft cheesy bread"
+ ],
+ "Halka Tatlısı": [
+  "ring doughnut pastry",
+  "syrupy fried rings",
+  "glazed sweet rings"
+ ],
+ "Simit Burger": [
+  "simit bread burger",
+  "sesame ring burger",
+  "cheese sausage simit"
+ ],
+ "Sıcak Simit": [
+  "buttered warm simit",
+  "toasted sesame ring",
+  "melting butter bread"
+ ],
+ "Çıtır Hamsi": [
+  "crispy fried anchovies",
+  "golden anchovy bites",
+  "fried fish cone"
+ ],
+ "Sosisli Simit": [
+  "sausage topped simit",
+  "sesame ring sausage",
+  "cheese sausage bread"
+ ],
+ "Çıtır Sosis": [
+  "fried sausage bites",
+  "battered sausage skewers",
+  "crispy corn dog"
+ ],
+ "Lorlu Börek": [
+  "curd cheese pastry",
+  "flaky cheese borek",
+  "baked cheese squares"
+ ],
+ "Kıymalı Sigara Böreği": [
+  "meat filled cigar rolls",
+  "fried pastry cigars",
+  "crispy borek sticks"
+ ],
+ "Peynirli Sigara Böreği": [
+  "cheese cigar rolls",
+  "fried cheese pastries",
+  "crispy borek sticks"
+ ],
+ "Ispanaklı Sigara Böreği": [
+  "spinach cheese rolls",
+  "fried pastry cigars",
+  "green filled borek"
+ ],
+ "Tava Böreği": [
+  "pan fried pastry",
+  "golden filled borek",
+  "crispy layered slices"
+ ],
+ "Fırın Böreği": [
+  "baked layered pastry",
+  "golden cheese borek",
+  "butter topped squares"
+ ],
+ "Kaşarlı Gözleme": [
+  "cheese griddle bread",
+  "melted cheese flatbread",
+  "grilled gozleme cheese"
+ ],
+ "Yumurtalı Börek": [
+  "egg topped pastry",
+  "baked egg borek",
+  "puffed golden slices"
+ ],
+ "Kaşarlı Börek": [
+  "cheese filled pastry",
+  "baked cheese borek",
+  "flaky golden squares"
+ ],
+ "Sucuklu Menemen": [
+  "sausage menemen eggs",
+  "turkish breakfast skillet",
+  "tomato pepper eggs"
+ ],
+ "Pastırmalı Menemen": [
+  "cured meat eggs",
+  "tomato egg skillet",
+  "spicy breakfast scramble"
+ ],
+ "Peynirli Menemen": [
+  "cheesy menemen eggs",
+  "melted cheese eggs",
+  "tomato pepper scramble"
+ ],
+ "Kavurmalı Menemen": [
+  "lamb topped eggs",
+  "scrambled eggs meat",
+  "hearty breakfast skillet"
+ ],
+ "Çikolatalı Pankek": [
+  "chocolate pancake stack",
+  "pancakes chocolate sauce",
+  "banana sweet breakfast"
+ ],
+ "Muzlu Pankek": [
+  "banana pancake stack",
+  "honey drizzled pancakes",
+  "fruit breakfast stack"
+ ],
+ "Patatesli Poğaça": [
+  "potato filled pastry",
+  "savory potato bun",
+  "sesame topped rolls"
+ ],
+ "Börek Tabağı": [
+  "assorted pastry platter",
+  "mixed borek plate",
+  "golden fried pastries"
+ ],
+ "Kaşarlı Sahanda Yumurta": [
+  "eggs with melted cheese",
+  "cheesy fried eggs",
+  "copper pan breakfast"
+ ],
+ "Köy Kahvaltısı": [
+  "village breakfast spread",
+  "rustic breakfast tray",
+  "cheese honey eggs"
+ ],
+ "Kavurmalı Yumurta": [
+  "fried eggs with meat",
+  "lamb topped eggs",
+  "buttery breakfast eggs"
+ ],
+ "Sebzeli Omlet": [
+  "vegetable omelette",
+  "peppers onion eggs",
+  "fluffy veggie omelet"
+ ],
+ "Sosisli Yumurta": [
+  "sausage fried eggs",
+  "hot dog eggs plate",
+  "breakfast sausage eggs"
+ ],
+ "Pekmezli Yoğurt": [
+  "yogurt grape molasses",
+  "swirled molasses cream",
+  "creamy breakfast yogurt"
+ ],
+ "Reçel Tabağı": [
+  "jam assortment plate",
+  "jars of preserves",
+  "fruit spread platter"
+ ],
+ "Köy Peyniri": [
+  "village cheese plate",
+  "fresh white cheese",
+  "rustic cheese block"
+ ],
+ "Acuka": [
+  "walnut pepper spread",
+  "rustic bread spread",
+  "spicy tomato dip"
+ ],
+ "Gevrek": [
+  "crunchy sesame ring",
+  "crispy bread rings",
+  "turkish bagel ring"
+ ],
+ "Büyük Kahvaltı Tabağı": [
+  "large breakfast platter",
+  "full breakfast spread",
+  "big breakfast plate"
+ ],
+ "Cevizli Kurabiye": [
+  "walnut cookies",
+  "nutty butter biscuits",
+  "crumbly walnut biscuits"
+ ],
+ "Tahinli Kurabiye": [
+  "tahini cookies",
+  "sesame paste biscuits",
+  "crumbly tahini treats"
+ ],
+ "Limonlu Kurabiye": [
+  "lemon cookies",
+  "citrus butter biscuits",
+  "zesty sugar cookies"
+ ],
+ "Havuçlu Kek": [
+  "carrot cake slice",
+  "spiced carrot cake",
+  "walnut carrot cake"
+ ],
+ "Kakaolu Kek": [
+  "cocoa cake slice",
+  "chocolate sponge cake",
+  "simple chocolate cake"
+ ],
+ "Limonlu Kek": [
+  "lemon cake slice",
+  "citrus sponge cake",
+  "bright lemon loaf"
+ ],
+ "Muzlu Kek": [
+  "banana cake slice",
+  "moist banana loaf",
+  "fruit filled cake"
+ ],
+ "Fındıklı Kek": [
+  "hazelnut cake slice",
+  "nutty sponge cake",
+  "brown butter cake"
+ ],
+ "Portakallı Kek": [
+  "orange cake slice",
+  "citrus sponge cake",
+  "zesty orange loaf"
+ ],
+ "Kremalı Yaş Pasta": [
+  "cream layer cake",
+  "vanilla cream slice",
+  "white frosted cake"
+ ],
+ "Çilekli Yaş Pasta": [
+  "strawberry layer cake",
+  "berry cream cake",
+  "pink cake slice"
+ ],
+ "Karamelli Pasta": [
+  "caramel layer cake",
+  "caramel drizzle slice",
+  "sweet cream cake"
+ ],
+ "Red Velvet Pasta": [
+  "red velvet cake",
+  "crimson cream cake",
+  "cocoa red slice"
+ ],
+ "Çikolatalı Cheesecake": [
+  "chocolate cheesecake",
+  "cocoa topped slice",
+  "creamy choc cake"
+ ],
+ "Frambuazlı Cheesecake": [
+  "raspberry cheesecake",
+  "berry topped slice",
+  "red fruit cream"
+ ],
+ "Bisküvili Cheesecake": [
+  "biscuit cheesecake",
+  "cookie layer cake",
+  "crumb topped slice"
+ ],
+ "Limonlu Cheesecake": [
+  "lemon cheesecake",
+  "citrus cream slice",
+  "yellow topped cake"
+ ],
+ "Çikolatalı Donut": [
+  "chocolate glazed donut",
+  "frosted doughnut",
+  "chocolate topped ring"
+ ],
+ "Çilekli Donut": [
+  "strawberry frosted donut",
+  "pink sprinkled doughnut",
+  "berry topped ring"
+ ],
+ "Çilekli Muffin": [
+  "strawberry muffin",
+  "pink berry cupcake",
+  "fruit studded muffin"
+ ],
+ "Tuzlu Kruvasan": [
+  "savory croissant",
+  "cheese filled croissant",
+  "flaky breakfast pastry"
+ ],
+ "Tırnak Pidesi": [
+  "soft dimpled flatbread",
+  "turkish round bread",
+  "sesame topped pide"
+ ],
+ "Ramazan Pidesi": [
+  "sesame flatbread",
+  "soft ramadan bread",
+  "baked round pide"
+ ],
+ "Köy Ekmeği": [
+  "rustic village bread",
+  "crusty country loaf",
+  "artisan bread loaf"
+ ],
+ "Ekşi Maya Ekmeği": [
+  "sourdough bread loaf",
+  "artisan sourdough",
+  "crusty fermented bread"
+ ],
+ "Çörek": [
+  "sweet spiced bread",
+  "sesame topped roll",
+  "braided butter bread"
+ ],
+ "Kakaolu Kurabiye": [
+  "cocoa cookies",
+  "chocolate butter biscuits",
+  "dark crumbly cookies"
+ ],
+ "Yulaflı Kurabiye": [
+  "oatmeal cookies",
+  "oat biscuits stack",
+  "chewy oat treats"
+ ],
+ "Hindistan Cevizli Kurabiye": [
+  "coconut cookies",
+  "coconut flakes biscuits",
+  "snowy white biscuits"
+ ],
+ "Meyveli Kek": [
+  "fruit cake slice",
+  "candied fruit loaf",
+  "festive fruit cake"
+ ],
+ "Cevizli Kadayıf": [
+  "walnut shredded pastry",
+  "shredded filo dessert",
+  "syrupy nut pastry"
+ ],
+ "Fıstıklı Kadayıf": [
+  "pistachio shredded pastry",
+  "green nut filo",
+  "syrupy pastry dessert"
+ ],
+ "Saray Lokumu": [
+  "fancy turkish delight",
+  "layered soft candy",
+  "powdered sweet squares"
+ ],
+ "Fıstıklı İrmik Helvası": [
+  "pistachio semolina halva",
+  "buttery sandy dessert",
+  "nutty sweet crumble"
+ ],
+ "Şambali": [
+  "syrupy semolina cake",
+  "almond topped sweet",
+  "turkish soaked cake"
+ ],
+ "Höşmerim": [
+  "cheese milk sweet",
+  "crumbly caramel sweet",
+  "traditional dairy dessert"
+ ],
+ "Zerde": [
+  "saffron rice pudding",
+  "golden sweet rice",
+  "turkish yellow dessert"
+ ],
+ "Sakızlı Muhallebi": [
+  "mastic milk pudding",
+  "creamy pale custard",
+  "chilled pistachio topping"
+ ],
+ "Kabak Kadayıfı": [
+  "pumpkin shredded pastry",
+  "walnut pumpkin dessert",
+  "syrupy filo pumpkin"
+ ],
+ "Sütlü Baklava": [
+  "milk soaked baklava",
+  "creamy layered pastry",
+  "soft syrupy baklava"
+ ],
+ "Meyveli Krep": [
+  "fruit filled crepe",
+  "berry cream crepe",
+  "folded sweet crepe"
+ ],
+ "Muzlu Krep": [
+  "banana crepe",
+  "chocolate banana roll",
+  "sweet filled crepe"
+ ],
+ "Fıstıklı Sufle": [
+  "pistachio souffle",
+  "molten green dessert",
+  "warm ramekin cake"
+ ],
+ "Cevizli Revani": [
+  "walnut semolina cake",
+  "syrupy walnut squares",
+  "turkish sweet cake"
+ ],
+ "Fıstıklı Brownie": [
+  "pistachio brownie",
+  "green topped fudge bar",
+  "nutty chocolate square"
+ ],
+ "Çikolatalı Tart": [
+  "chocolate tart slice",
+  "dark chocolate dessert",
+  "ganache topped tart"
+ ],
+ "Elma Tatlısı": [
+  "stewed apples",
+  "cinnamon apple dessert",
+  "syrupy apple pieces"
+ ],
+ "Cevizli Sucuk": [
+  "walnut molasses roll",
+  "chewy fruit nut log",
+  "sliced sweet roll"
+ ],
+ "Pestil": [
+  "fruit leather sheets",
+  "dried fruit paste",
+  "thin fruit rolls"
+ ],
+ "Dondurma Tabağı": [
+  "ice cream platter",
+  "scoops dessert plate",
+  "assorted gelato"
+ ],
+ "Sütlü Nuriye": [
+  "milk pastry dessert",
+  "syrupy layered sweet",
+  "baklava like squares"
+ ],
+ "Muzlu Sütlaç": [
+  "banana rice pudding",
+  "creamy fruit dessert",
+  "baked milk pudding"
+ ],
+ "Balkabaklı Tatlı": [
+  "pumpkin dessert",
+  "candied pumpkin slice",
+  "syrupy orange sweet"
+ ],
+ "Tahinli Kadayıf": [
+  "tahini shredded pastry",
+  "sesame filo dessert",
+  "syrupy nut pastry"
+ ],
+ "Çikolatalı Trileçe": [
+  "chocolate milk cake",
+  "caramel cocoa squares",
+  "soaked cream cake"
+ ],
+ "Kaymaklı Ekmek Kadayıfı": [
+  "cream topped bread pudding",
+  "syrupy dessert slice",
+  "thick cream sweet"
+ ],
+ "Un Helvası": [
+  "flour halva",
+  "sandy buttery dessert",
+  "toasted flour sweet"
+ ],
+ "Kabak Çiçeği Tatlısı": [
+  "fried squash blossom",
+  "sugared flower pastry",
+  "sweet blossom dessert"
+ ],
+ "Dondurmalı Künefe": [
+  "kunefe with ice cream",
+  "shredded pastry scoop",
+  "cheese dessert cream"
+ ],
+ "Dondurmalı Baklava": [
+  "baklava with ice cream",
+  "pastry with gelato",
+  "nutty dessert scoop"
+ ],
+ "Muzlu Dondurma": [
+  "banana ice cream",
+  "fruit flavored gelato",
+  "pale yellow scoop"
+ ],
+ "Karamelli Brownie": [
+  "caramel brownie",
+  "salted caramel bar",
+  "fudgy chocolate square"
+ ],
+ "Semizotu Salatası": [
+  "purslane salad",
+  "greens yogurt salad",
+  "creamy purslane meze"
+ ],
+ "Tabbule": [
+  "tabbouleh salad",
+  "parsley bulgur salad",
+  "lemon herb bowl"
+ ],
+ "Fıstıklı Humus": [
+  "pistachio hummus",
+  "green topped dip",
+  "chickpea sesame bowl"
+ ],
+ "Yoğurtlu Ispanak": [
+  "spinach yogurt salad",
+  "creamy spinach dip",
+  "greens garlic yogurt"
+ ],
+ "Zeytin Ezmesi": [
+  "olive paste spread",
+  "black olive tapenade",
+  "savory olive dip"
+ ],
+ "Çerkez Tavuğu": [
+  "shredded chicken dip",
+  "creamy chicken meze",
+  "walnut sauce chicken"
+ ],
+ "Acılı Turşu": [
+  "spicy pickled vegetables",
+  "chili pickles plate",
+  "hot mixed pickles"
+ ],
+ "Acılı Kısır": [
+  "spicy bulgur salad",
+  "chili tomato bulgur",
+  "herbed grain salad"
+ ],
+ "Mercimek Salatası": [
+  "lentil salad bowl",
+  "red lentil greens",
+  "healthy lentil dish"
+ ],
+ "Bulgur Salatası": [
+  "bulgur salad bowl",
+  "herbed grain salad",
+  "tomato bulgur dish"
+ ],
+ "Patates Salatası": [
+  "potato salad bowl",
+  "creamy potato salad",
+  "diced potato dish"
+ ],
+ "Kabak Salatası": [
+  "zucchini salad",
+  "grated squash salad",
+  "fresh courgette dish"
+ ],
+ "Lahana Salatası": [
+  "cabbage salad",
+  "shredded slaw plate",
+  "lemon cabbage slaw"
+ ],
+ "Tahinli Humus": [
+  "tahini hummus",
+  "sesame chickpea dip",
+  "creamy hummus bowl"
+ ],
+ "Acılı Fava": [
+  "spicy fava puree",
+  "broad bean dip",
+  "herbed bean spread"
+ ],
+ "Tulum Peynirli Salata": [
+  "aged cheese salad",
+  "crumbly cheese greens",
+  "tangy cheese plate"
+ ],
+ "Manca": [
+  "walnut garlic spread",
+  "rustic savory dip",
+  "thick bread spread"
+ ],
+ "Zeytinyağlı Bakla": [
+  "buttered broad beans",
+  "olive oil fava",
+  "lemon bean dish"
+ ],
+ "Yoğurtlu Patlıcan": [
+  "eggplant yogurt dip",
+  "smoky eggplant yogurt",
+  "creamy roasted eggplant"
+ ],
+ "Sumaklı Soğan": [
+  "sumac onion salad",
+  "red onion rings",
+  "tangy onion garnish"
+ ],
+ "Borani": [
+  "yogurt spinach dip",
+  "garlicky cream dip",
+  "yogurt vegetable meze"
+ ],
+ "Yoğurtlu Havuç": [
+  "carrot yogurt dip",
+  "creamy carrot salad",
+  "orange veggie meze"
+ ],
+ "Yoğurtlu Brokoli": [
+  "broccoli yogurt salad",
+  "creamy green dip",
+  "blanched broccoli meze"
+ ],
+ "Nar Ekşili Yeşil Salata": [
+  "pomegranate green salad",
+  "leafy herb salad",
+  "tangy dressed greens"
+ ],
+ "Nohut Salatası": [
+  "chickpea salad bowl",
+  "herbed chickpea dish",
+  "tomato chickpea greens"
+ ],
+ "Yeşil Mercimek Salatası": [
+  "green lentil salad",
+  "herbed lentil bowl",
+  "healthy lentil greens"
+ ],
+ "Yerelması Salatası": [
+  "crisp apple salad",
+  "tangy fruit greens",
+  "herbed sour salad"
+ ],
+ "Zeytinyağlı Kuru Domates": [
+  "sun dried tomatoes",
+  "olive oil tomatoes",
+  "glossy tomato meze"
+ ],
+ "Sade Türk Kahvesi": [
+  "plain turkish coffee",
+  "foamy small coffee",
+  "sand brewed coffee"
+ ],
+ "Sütlü Türk Kahvesi": [
+  "milky turkish coffee",
+  "creamy small coffee",
+  "foam topped coffee"
+ ],
+ "Közde Türk Kahvesi": [
+  "sand brewed coffee",
+  "ember cooked coffee",
+  "traditional turkish coffee"
+ ],
+ "Limonlu Çay": [
+  "lemon tea glass",
+  "tea with lemon slice",
+  "hot lemon drink"
+ ],
+ "Naneli Çay": [
+  "mint tea glass",
+  "tea with fresh mint",
+  "herbal mint drink"
+ ],
+ "Zencefil Çayı": [
+  "ginger tea cup",
+  "steaming ginger drink",
+  "lemon ginger infusion"
+ ],
+ "Papatya Çayı": [
+  "chamomile tea cup",
+  "floral herbal infusion",
+  "steaming yellow tea"
+ ],
+ "Lavanta Çayı": [
+  "lavender tea cup",
+  "floral purple tea",
+  "steaming herbal drink"
+ ],
+ "Melisa Çayı": [
+  "lemon balm tea",
+  "herbal infusion cup",
+  "steaming green tea"
+ ],
+ "Bergamotlu Çay": [
+  "bergamot black tea",
+  "earl grey style tea",
+  "citrus tea cup"
+ ],
+ "Yaseminli Çay": [
+  "jasmine tea cup",
+  "floral green tea",
+  "steaming jasmine drink"
+ ],
+ "Earl Grey Çayı": [
+  "earl grey tea",
+  "bergamot black tea",
+  "teacup with lemon"
+ ],
+ "Beyaz Çikolatalı Sıcak Çikolata": [
+  "white hot chocolate",
+  "creamy cocoa drink",
+  "whipped cream white"
+ ],
+ "Çikolatalı Salep": [
+  "chocolate salep drink",
+  "cocoa dusted milk",
+  "warm creamy cup"
+ ],
+ "Espresso Con Panna": [
+  "espresso with cream",
+  "whipped cream coffee",
+  "small dessert coffee"
+ ],
+ "Sütlü Filtre Kahve": [
+  "milky filter coffee",
+  "coffee with cream",
+  "light brown brew"
+ ],
+ "Kakao": [
+  "hot cocoa mug",
+  "whipped cream cocoa",
+  "steaming chocolate drink"
+ ],
+ "Sıcak Süt": [
+  "warm milk mug",
+  "steaming glass milk",
+  "frothy hot milk"
+ ],
+ "Espresso Tonic": [
+  "espresso tonic glass",
+  "iced coffee tonic",
+  "fizzy coffee drink"
+ ],
+ "Fıstıklı Latte": [
+  "pistachio latte",
+  "green nutty coffee",
+  "pistachio syrup drink"
+ ],
+ "Lungo": [
+  "lungo coffee glass",
+  "long espresso drink",
+  "tall black coffee"
+ ],
+ "Ristretto": [
+  "ristretto shot",
+  "short espresso cup",
+  "concentrated coffee shot"
+ ],
+ "Hindistan Cevizli Latte": [
+  "coconut latte",
+  "tropical milk coffee",
+  "creamy coconut drink"
+ ],
+ "Balkabaklı Sıcak Çikolata": [
+  "pumpkin hot chocolate",
+  "spiced cocoa drink",
+  "autumn cream coffee"
+ ],
+ "Rezene Çayı": [
+  "fennel tea cup",
+  "anise herbal infusion",
+  "steaming seed tea"
+ ],
+ "Nane Limon Çayı": [
+  "mint lemon tea",
+  "herbal citrus drink",
+  "steaming fresh infusion"
+ ],
+ "Karadut Şerbeti": [
+  "mulberry syrup drink",
+  "dark purple sherbet",
+  "chilled sweet beverage"
+ ],
+ "Gül Şerbeti": [
+  "rose syrup drink",
+  "pink floral beverage",
+  "chilled rose sherbet"
+ ],
+ "Demirhindi Şerbeti": [
+  "tamarind drink",
+  "tangy dark sherbet",
+  "chilled sour beverage"
+ ],
+ "Naneli Limonata": [
+  "mint lemonade",
+  "iced mint lemon",
+  "refreshing green lemon"
+ ],
+ "Karpuz Suyu": [
+  "watermelon juice",
+  "chilled red juice",
+  "iced melon drink"
+ ],
+ "Nar Suyu": [
+  "pomegranate juice",
+  "dark red juice",
+  "fresh seeded drink"
+ ],
+ "Çilek Suyu": [
+  "strawberry juice",
+  "pink fruit drink",
+  "chilled berry juice"
+ ],
+ "Kayısı Suyu": [
+  "apricot juice",
+  "orange fruit drink",
+  "chilled stone fruit juice"
+ ],
+ "Üzüm Suyu": [
+  "grape juice",
+  "purple fruit drink",
+  "chilled berry juice"
+ ],
+ "Meyve Suyu Karışık": [
+  "mixed fruit juice",
+  "blended juice glass",
+  "colorful fruit drink"
+ ],
+ "Meyveli Soda": [
+  "fruit flavored soda",
+  "fizzy fruit drink",
+  "chilled sparkling juice"
+ ],
+ "Buzlu Çay": [
+  "iced tea glass",
+  "chilled black tea",
+  "lemon iced tea"
+ ],
+ "Mango Suyu": [
+  "mango juice glass",
+  "tropical yellow drink",
+  "chilled mango beverage"
+ ],
+ "Zencefil Limonata": [
+  "ginger lemonade",
+  "spicy citrus drink",
+  "iced ginger lemon"
+ ],
+ "Karamel Frozen": [
+  "caramel slushie",
+  "iced caramel drink",
+  "blended caramel ice"
+ ],
+ "Çikolatalı Frozen": [
+  "chocolate slushie",
+  "iced cocoa drink",
+  "blended chocolate ice"
+ ],
+ "Kahveli Frozen": [
+  "coffee slushie",
+  "iced coffee blend",
+  "blended mocha drink"
+ ],
+ "Kavun Frozen": [
+  "melon slushie",
+  "iced cantaloupe drink",
+  "blended pale green"
+ ],
+ "Nar Frozen": [
+  "pomegranate slushie",
+  "iced red berry",
+  "blended dark drink"
+ ],
+ "Muzlu Frozen": [
+  "banana slushie",
+  "iced banana drink",
+  "blended creamy fruit"
+ ],
+ "Limonlu Frozen": [
+  "lemon slushie",
+  "iced citrus drink",
+  "blended lemon ice"
+ ],
+ "Vişneli Frozen": [
+  "sour cherry slushie",
+  "iced dark cherry",
+  "blended red drink"
+ ],
+ "Çilekli Muzlu Smoothie": [
+  "strawberry banana smoothie",
+  "pink fruit blend",
+  "creamy berry drink"
+ ],
+ "Avokado Muzlu Smoothie": [
+  "avocado banana smoothie",
+  "green creamy blend",
+  "healthy fruit drink"
+ ],
+ "Kivili Smoothie": [
+  "kiwi smoothie",
+  "green fruit blend",
+  "icy kiwi drink"
+ ],
+ "Çilekli Smoothie": [
+  "strawberry smoothie",
+  "pink fruit blend",
+  "creamy berry drink"
+ ],
+ "Karamelli Smoothie": [
+  "caramel smoothie",
+  "creamy tan blend",
+  "sweet dessert drink"
+ ],
+ "Şeftalili Smoothie": [
+  "peach smoothie",
+  "orange fruit blend",
+  "creamy summer drink"
+ ],
+ "Naneli Limon Smoothie": [
+  "mint lemon smoothie",
+  "green citrus blend",
+  "icy fresh drink"
+ ],
+ "Fıstıklı Milkshake": [
+  "pistachio milkshake",
+  "green creamy shake",
+  "nutty thick drink"
+ ],
+ "Bisküvili Milkshake": [
+  "cookie milkshake",
+  "biscuit cream shake",
+  "speckled thick drink"
+ ],
+ "Frambuazlı Milkshake": [
+  "raspberry milkshake",
+  "pink berry shake",
+  "creamy fruit drink"
+ ],
+ "Muzlu Çikolatalı Milkshake": [
+  "banana chocolate milkshake",
+  "cocoa fruit shake",
+  "thick creamy drink"
+ ],
+ "Fıstıklı Iced Latte": [
+  "pistachio iced latte",
+  "chilled green coffee",
+  "layered nutty drink"
+ ],
+ "Çilekli Iced Latte": [
+  "strawberry iced latte",
+  "chilled pink coffee",
+  "layered fruit drink"
+ ],
+ "Buzlu Matcha": [
+  "iced matcha latte",
+  "chilled green tea",
+  "iced matcha glass"
+ ],
+ "Matcha Frappe": [
+  "matcha frappe",
+  "blended green tea",
+  "icy matcha drink"
+ ],
+ "Çikolatalı Frappe": [
+  "chocolate frappe",
+  "blended mocha drink",
+  "icy cocoa coffee"
+ ],
+ "Amber Bira": [
+  "amber ale glass",
+  "golden craft beer",
+  "hoppy beer foam"
+ ],
+ "IPA Bira": [
+  "ipa beer glass",
+  "hoppy craft beer",
+  "bitter ale foam"
+ ],
+ "Porter Bira": [
+  "dark porter beer",
+  "stout like brew",
+  "creamy dark ale"
+ ],
+ "Pilsen Bira": [
+  "pilsner beer glass",
+  "pale lager foam",
+  "crisp golden beer"
+ ],
+ "Radler Bira": [
+  "shandy beer glass",
+  "lemon beer mix",
+  "light citrus brew"
+ ],
+ "Prosecco": [
+  "prosecco flute",
+  "sparkling wine bubbles",
+  "celebratory glass drink"
+ ],
+ "Cabernet Şarap": [
+  "cabernet red wine",
+  "full bodied wine",
+  "dark wine glass"
+ ],
+ "Shiraz Şarap": [
+  "shiraz red wine",
+  "bold dark wine",
+  "ruby wine glass"
+ ],
+ "Bahama Mama": [
+  "tropical rum cocktail",
+  "fruity beach drink",
+  "colorful party glass"
+ ],
+ "Cuba Libre": [
+  "rum coke lime",
+  "cuba libre glass",
+  "dark fizz cocktail"
+ ],
+ "Gin Fizz": [
+  "gin fizz cocktail",
+  "fizzy citrus drink",
+  "tall clear cocktail"
+ ],
+ "Blue Hawaii": [
+  "blue tropical cocktail",
+  "bright blue drink",
+  "pineapple curacao glass"
+ ],
+ "Zombie": [
+  "tiki zombie cocktail",
+  "strong fruit punch",
+  "layered rum glass"
+ ],
+ "Manhattan": [
+  "manhattan cocktail",
+  "whiskey red drink",
+  "cherry garnished glass"
+ ],
+ "Martini": [
+  "martini glass",
+  "clear cocktail olive",
+  "classic stemmed drink"
+ ],
+ "Mimosa": [
+  "mimosa champagne",
+  "orange brunch drink",
+  "sparkling citrus glass"
+ ],
+ "Bellini": [
+  "bellini peach drink",
+  "sparkling peach cocktail",
+  "blush brunch glass"
+ ],
+ "French 75": [
+  "french 75 cocktail",
+  "lemon gin sparkle",
+  "champagne flute drink"
+ ],
+ "Amaretto Sour": [
+  "amaretto sour",
+  "almond sour cocktail",
+  "foamy amber drink"
+ ],
+ "Sidecar": [
+  "sidecar cocktail",
+  "cognac lemon drink",
+  "sugar rimmed glass"
+ ],
+ "Çilekli Mocktail": [
+  "strawberry mocktail",
+  "pink virgin drink",
+  "iced berry glass"
+ ],
+ "Kivili Mocktail": [
+  "kiwi mocktail",
+  "green virgin drink",
+  "iced tropical glass"
+ ],
+ "Naneli Limon Mocktail": [
+  "mint lemon mocktail",
+  "refreshing virgin drink",
+  "iced citrus glass"
+ ],
+ "Karpuzlu Mocktail": [
+  "watermelon mocktail",
+  "red virgin drink",
+  "iced melon glass"
+ ],
+ "Karamelli Shot": [
+  "caramel shot glass",
+  "sweet liqueur shot",
+  "layered amber drink"
+ ],
+ "Vişneli Shot": [
+  "cherry shot glass",
+  "dark red liqueur",
+  "fruity shooter drink"
+ ],
+ "Naneli Shot": [
+  "mint shot glass",
+  "green liqueur drink",
+  "fresh herbal shooter"
+ ],
+ "Salatalıklı Cin Tonik": [
+  "cucumber gin tonic",
+  "green gin drink",
+  "botanical tall glass"
+ ],
+ "Viski Soda": [
+  "whiskey soda glass",
+  "highball whiskey drink",
+  "fizzy amber cocktail"
+ ],
+ "Çilekli Mojito": [
+  "strawberry mojito",
+  "pink mint cocktail",
+  "berry lime drink"
+ ],
+ "Karpuzlu Mojito": [
+  "watermelon mojito",
+  "red mint cocktail",
+  "melon lime drink"
+ ],
+ "Çilek Nargile": [
+  "strawberry hookah",
+  "berry flavored shisha",
+  "glowing hookah smoke"
+ ],
+ "Mango Nargile": [
+  "mango hookah",
+  "tropical flavored shisha",
+  "glowing hookah smoke"
+ ],
+ "Kahve Nargile": [
+  "coffee hookah",
+  "mocha flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Karamel Nargile": [
+  "caramel hookah",
+  "sweet flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Ananas Nargile": [
+  "pineapple hookah",
+  "tropical flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Karadut Nargile": [
+  "mulberry hookah",
+  "dark berry shisha",
+  "hookah lounge smoke"
+ ],
+ "Çikolatalı Nargile": [
+  "chocolate hookah",
+  "cocoa flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Karışık Nargile": [
+  "mixed fruit hookah",
+  "assorted flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Nohutlu Vegan Bowl": [
+  "chickpea vegan bowl",
+  "plant based bowl",
+  "grain vegetable bowl"
+ ],
+ "Tofulu Bowl": [
+  "tofu rice bowl",
+  "plant protein bowl",
+  "veggie tofu dish"
+ ],
+ "Vegan Makarna": [
+  "vegan pasta",
+  "dairy free noodles",
+  "tomato basil pasta"
+ ],
+ "Vegan Wrap": [
+  "vegan vegetable wrap",
+  "plant based roll",
+  "veggie lavash wrap"
+ ],
+ "Kinoa Bowl": [
+  "quinoa veggie bowl",
+  "healthy grain bowl",
+  "protein salad bowl"
+ ],
+ "Fit Tavuk Bowl": [
+  "grilled chicken bowl",
+  "healthy chicken rice",
+  "lean protein bowl"
+ ],
+ "Glutensiz Krep": [
+  "gluten free crepe",
+  "buckwheat sweet crepe",
+  "healthy thin pancake"
+ ],
+ "Protein Pankek": [
+  "protein pancakes",
+  "healthy pancake stack",
+  "oat banana pancakes"
+ ],
+ "Chia Puding": [
+  "chia seed pudding",
+  "healthy breakfast cup",
+  "berry chia dessert"
+ ],
+ "Vegan Avokado Toast": [
+  "avocado toast vegan",
+  "sourdough avocado eggs",
+  "green breakfast toast"
+ ],
+ "Bulgur Kasesi": [
+  "bulgur bowl",
+  "grain salad bowl",
+  "herbed bulgur dish"
+ ],
+ "Zeytinyağlı Vegan Tabağı": [
+  "vegan vegetable plate",
+  "olive oil veggies",
+  "plant based platter"
+ ],
+ "Buharda Tavuk": [
+  "steamed chicken plate",
+  "healthy poached chicken",
+  "light chicken veggies"
+ ],
+ "Smoothie Bowl": [
+  "smoothie bowl fruit",
+  "thick fruit bowl",
+  "breakfast smoothie bowl"
+ ],
+ "Vegan Köfte": [
+  "vegan meatballs",
+  "plant based kofte",
+  "lentil patties plate"
+ ],
+ "Çocuk Tavuk Şinitzel": [
+  "kids chicken schnitzel",
+  "breaded chicken strips",
+  "children fried chicken"
+ ],
+ "Çocuk Sosisli": [
+  "kids hot dog",
+  "small sausage bun",
+  "children snack hotdog"
+ ],
+ "Çocuk Izgara Köfte": [
+  "kids grilled meatballs",
+  "small kofte plate",
+  "children meatball meal"
+ ],
+ "Çocuk Tavuk Şiş": [
+  "kids chicken skewers",
+  "small chicken kebab",
+  "children grilled chicken"
+ ],
+ "Çocuk Pankek": [
+  "kids pancakes",
+  "small pancake stack",
+  "children breakfast sweet"
+ ],
+ "Çocuk Waffle": [
+  "kids waffle",
+  "small sweet waffle",
+  "children fruit waffle"
+ ],
+ "Çocuk Dondurma": [
+  "kids ice cream",
+  "small gelato scoop",
+  "children dessert cup"
+ ],
+ "Çocuk Peynirli Makarna": [
+  "kids cheesy pasta",
+  "small cheese noodles",
+  "children pasta bowl"
+ ],
+ "Büyük Boy Latte": [
+  "large latte glass",
+  "tall latte drink",
+  "layered coffee milk"
+ ],
+ "Büyük Boy Cappuccino": [
+  "large cappuccino",
+  "tall foam coffee",
+  "cocoa dusted cup"
+ ],
+ "Büyük Boy Americano": [
+  "large americano",
+  "tall black coffee",
+  "crema topped glass"
+ ],
+ "Büyük Boy Mocha": [
+  "large mocha",
+  "tall chocolate coffee",
+  "whipped cream drink"
+ ],
+ "Büyük Boy Filtre Kahve": [
+  "large filter coffee",
+  "tall brewed coffee",
+  "black coffee glass"
+ ],
+ "Kestaneli Latte": [
+  "chestnut latte",
+  "nutty flavored coffee",
+  "autumn milk coffee"
+ ],
+ "Kestaneli Cappuccino": [
+  "chestnut cappuccino",
+  "frothy nutty coffee",
+  "cocoa topped cup"
+ ],
+ "Portakallı Latte": [
+  "orange latte",
+  "citrus flavored coffee",
+  "orange peel milk coffee"
+ ],
+ "Portakallı Cappuccino": [
+  "orange cappuccino",
+  "citrus foam coffee",
+  "orange twist cup"
+ ],
+ "Kardemomlu Latte": [
+  "cardamom latte",
+  "spiced milk coffee",
+  "green speck foam"
+ ],
+ "Lavantalı Latte": [
+  "lavender latte",
+  "floral purple coffee",
+  "lavender bud foam"
+ ],
+ "Ballı Türk Kahvesi": [
+  "honey turkish coffee",
+  "sweet foamy coffee",
+  "honey dipper cup"
+ ],
+ "Tarçınlı Türk Kahvesi": [
+  "cinnamon turkish coffee",
+  "spiced foamy coffee",
+  "dusted coffee cup"
+ ],
+ "Çikolatalı Türk Kahvesi": [
+  "chocolate turkish coffee",
+  "mocha small coffee",
+  "glossy foam cup"
+ ],
+ "Antep Fıstıklı Türk Kahvesi": [
+  "pistachio turkish coffee",
+  "green topped coffee",
+  "nutty foam cup"
+ ],
+ "Vienna Kahvesi": [
+  "vienna coffee",
+  "whipped cream coffee",
+  "cocoa dusted glass"
+ ],
+ "Buzlu Mocha": [
+  "iced mocha",
+  "chocolate iced coffee",
+  "layered cream coffee"
+ ],
+ "Buzlu Chai Latte": [
+  "iced chai latte",
+  "spiced chilled tea",
+  "cinnamon iced drink"
+ ],
+ "Karadut Latte": [
+  "mulberry latte",
+  "purple gradient coffee",
+  "floral milk drink"
+ ],
+ "Cold Brew Latte": [
+  "cold brew latte",
+  "iced milk coffee",
+  "layered brew drink"
+ ],
+ "Nitro Kahve": [
+  "nitro cold coffee",
+  "creamy foamy brew",
+  "smooth black drink"
+ ],
+ "Beyaz Çay": [
+  "white tea cup",
+  "pale gold tea",
+  "delicate leaf infusion"
+ ],
+ "Oolong Çayı": [
+  "oolong tea cup",
+  "amber leaf tea",
+  "steaming loose tea"
+ ],
+ "Rooibos Çayı": [
+  "rooibos tea cup",
+  "red herbal infusion",
+  "caffeine free tea"
+ ],
+ "Karanfil Çayı": [
+  "clove tea cup",
+  "spiced amber drink",
+  "whole cloves infusion"
+ ],
+ "Kış Çayı": [
+  "winter spice tea",
+  "cinnamon orange tea",
+  "steaming holiday drink"
+ ],
+ "Meyveli Karışık Çay": [
+  "mixed fruit tea",
+  "ruby red infusion",
+  "dried fruit tea"
+ ],
+ "Gül Çayı": [
+  "rose petal tea",
+  "pink floral infusion",
+  "dried rose tea"
+ ],
+ "Işkın Çayı": [
+  "deep red herbal tea",
+  "steeping berry drink",
+  "sorrel style infusion"
+ ],
+ "Zencefil Limon Çayı": [
+  "ginger lemon tea",
+  "citrus spice infusion",
+  "steaming lemon drink"
+ ],
+ "Rize Çayı": [
+  "strong amber tea",
+  "tulip glass brew",
+  "steaming black tea"
+ ],
+ "Demlik Çay": [
+  "teapot and glasses",
+  "brewed tea service",
+  "glass tea pot set"
+ ],
+ "Beyaz Kakao": [
+  "white cocoa mug",
+  "creamy white drink",
+  "whipped cream cocoa"
+ ],
+ "Fındıklı Sıcak Çikolata": [
+  "hazelnut hot chocolate",
+  "nutty cocoa drink",
+  "whipped cream mug"
+ ],
+ "Marshmallowlu Sıcak Çikolata": [
+  "marshmallow hot chocolate",
+  "melted marshmallow cocoa",
+  "creamy winter drink"
+ ],
+ "Tuzlu Karamelli Sıcak Çikolata": [
+  "salted caramel chocolate",
+  "drizzled hot cocoa",
+  "whipped cream drink"
+ ],
+ "Bitter Sıcak Çikolata": [
+  "dark hot chocolate",
+  "thick cocoa drink",
+  "intense chocolate mug"
+ ],
+ "Fıstıklı Sıcak Çikolata": [
+  "pistachio hot chocolate",
+  "green nutty cocoa",
+  "whipped cream mug"
+ ],
+ "Sade Salep": [
+  "plain salep drink",
+  "cinnamon dusted milk",
+  "warm creamy cup"
+ ],
+ "Karamelli Salep": [
+  "caramel salep",
+  "swirled creamy drink",
+  "cinnamon topped cup"
+ ],
+ "Kaymaklı Salep": [
+  "cream topped salep",
+  "thick dairy drink",
+  "cinnamon dusted cup"
+ ],
+ "Ev Yapımı Limonata": [
+  "homemade lemonade",
+  "cloudy lemonade glass",
+  "iced lemon slices"
+ ],
+ "Lavantalı Limonata": [
+  "lavender lemonade",
+  "pale purple drink",
+  "iced floral lemon"
+ ],
+ "Şeftalli Limonata": [
+  "peach lemonade",
+  "soft orange drink",
+  "iced fruit lemon"
+ ],
+ "Böğürtlenli Limonata": [
+  "blackberry lemonade",
+  "dark berry drink",
+  "iced purple lemon"
+ ],
+ "Kızılcık Suyu": [
+  "sour cherry juice",
+  "deep red drink",
+  "iced berry juice"
+ ],
+ "Havuç Suyu": [
+  "carrot juice glass",
+  "bright orange drink",
+  "fresh vegetable juice"
+ ],
+ "Yeşil Elma Suyu": [
+  "green apple juice",
+  "pale green drink",
+  "fresh pressed apple"
+ ],
+ "Karışık Sebze Suyu": [
+  "mixed vegetable juice",
+  "orange red drink",
+  "fresh veggie glass"
+ ],
+ "Kivi Suyu": [
+  "kiwi juice",
+  "green seeded drink",
+  "fresh tropical juice"
+ ],
+ "Ananas Suyu": [
+  "pineapple juice",
+  "pale yellow drink",
+  "fresh tropical glass"
+ ],
+ "Greyfurt Suyu": [
+  "grapefruit juice",
+  "pink citrus drink",
+  "fresh bitter juice"
+ ],
+ "Limon Suyu": [
+  "lemon juice glass",
+  "fresh citrus drink",
+  "iced lemon drink"
+ ],
+ "Limonlu Ayran": [
+  "lemon yogurt drink",
+  "frothy white glass",
+  "tangy chilled beverage"
+ ],
+ "Naneli Şalgam": [
+  "mint turnip juice",
+  "purple mint drink",
+  "spicy chilled beverage"
+ ],
+ "Kivili Frozen": [
+  "kiwi slushie",
+  "icy green drink",
+  "blended kiwi ice"
+ ],
+ "Greyfurt Frozen": [
+  "grapefruit slushie",
+  "pink citrus drink",
+  "blended icy fruit"
+ ],
+ "Kızılcık Frozen": [
+  "sour cherry slushie",
+  "deep red icy drink",
+  "blended berry ice"
+ ],
+ "Fıstıklı Frozen": [
+  "pistachio slushie",
+  "pale green icy drink",
+  "blended nutty ice"
+ ],
+ "Muzlu Çikolatalı Frozen": [
+  "banana chocolate slushie",
+  "icy cocoa banana",
+  "blended cream drink"
+ ],
+ "Kavun Nane Frozen": [
+  "melon mint slushie",
+  "icy green drink",
+  "blended fresh herb"
+ ],
+ "Kestaneli Milkshake": [
+  "chestnut milkshake",
+  "nutty cream shake",
+  "autumn thick drink"
+ ],
+ "Beyaz Çikolatalı Milkshake": [
+  "white chocolate milkshake",
+  "creamy vanilla shake",
+  "pale thick drink"
+ ],
+ "Çilekli Muzlu Milkshake": [
+  "strawberry banana shake",
+  "pink creamy drink",
+  "fruit milk blend"
+ ],
+ "Tahinli Milkshake": [
+  "tahini milkshake",
+  "sesame cream shake",
+  "drizzled thick drink"
+ ],
+ "Red Velvet Milkshake": [
+  "red velvet milkshake",
+  "crimson cream shake",
+  "cake crumb drink"
+ ],
+ "Kahveli Milkshake": [
+  "coffee milkshake",
+  "mocha cream shake",
+  "coffee bean topping"
+ ],
+ "Karışık Meyve Smoothie": [
+  "mixed fruit smoothie",
+  "colorful fruit blend",
+  "creamy summer drink"
+ ],
+ "Havuç Zencefil Smoothie": [
+  "carrot ginger smoothie",
+  "orange spice blend",
+  "healthy veggie drink"
+ ],
+ "Pancar Detoks Smoothie": [
+  "beet detox smoothie",
+  "deep magenta drink",
+  "earthy healthy blend"
+ ],
+ "Böğürtlenli Muzlu Smoothie": [
+  "blackberry banana smoothie",
+  "purple creamy blend",
+  "berry fruit drink"
+ ],
+ "Ananas Muzlu Smoothie": [
+  "pineapple banana smoothie",
+  "pale yellow blend",
+  "tropical creamy drink"
+ ],
+ "Kayısılı Smoothie": [
+  "apricot smoothie",
+  "orange creamy blend",
+  "stone fruit drink"
+ ],
+ "Yulaf Smoothie": [
+  "oat smoothie",
+  "beige creamy blend",
+  "granola topped drink"
+ ],
+ "Çilekli Bubble Tea": [
+  "strawberry bubble tea",
+  "pink boba drink",
+  "tapioca pearls glass"
+ ],
+ "Mangolu Bubble Tea": [
+  "mango bubble tea",
+  "yellow boba drink",
+  "tapioca pearls glass"
+ ],
+ "Yeşil Çay Bubble Tea": [
+  "matcha bubble tea",
+  "green boba drink",
+  "tapioca milk tea"
+ ],
+ "Gül Nargile": [
+  "rose hookah",
+  "floral flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Kivi Nargile": [
+  "kiwi hookah",
+  "green fruit shisha",
+  "hookah lounge smoke"
+ ],
+ "Karpuz Nane Nargile": [
+  "watermelon mint hookah",
+  "fresh flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Çilek Muz Nargile": [
+  "strawberry banana hookah",
+  "fruit flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Kola Nargile": [
+  "cola hookah",
+  "fizzy flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Dondurma Nargile": [
+  "ice cream hookah",
+  "sweet flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Kavun Nane Nargile": [
+  "melon mint hookah",
+  "fresh flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Şeftali Muz Nargile": [
+  "peach banana hookah",
+  "fruity flavored shisha",
+  "hookah lounge smoke"
+ ],
+ "Tom Collins": [
+  "tom collins cocktail",
+  "tall gin drink",
+  "lemon cherry glass"
+ ],
+ "Paloma": [
+  "paloma cocktail",
+  "grapefruit soda drink",
+  "salted rim glass"
+ ],
+ "White Russian": [
+  "white russian cocktail",
+  "creamy coffee drink",
+  "rocks glass layers"
+ ],
+ "Black Russian": [
+  "black russian cocktail",
+  "dark coffee drink",
+  "iced liqueur glass"
+ ],
+ "Hot Toddy": [
+  "hot toddy drink",
+  "warm lemon cinnamon",
+  "steaming whiskey glass"
+ ],
+ "Irish Coffee": [
+  "irish coffee glass",
+  "cream topped whiskey",
+  "hot coffee cocktail"
+ ],
+ "Lemon Drop": [
+  "lemon drop cocktail",
+  "sugared rim drink",
+  "bright citrus glass"
+ ],
+ "Grasshopper": [
+  "grasshopper cocktail",
+  "mint green drink",
+  "creamy liqueur glass"
+ ],
+ "B52 Shot": [
+  "layered shot drink",
+  "three color shooter",
+  "striped liqueur glass"
+ ],
+ "Brandy Alexander": [
+  "brandy alexander",
+  "creamy nutmeg cocktail",
+  "dessert drink glass"
+ ],
+ "Aviation": [
+  "aviation cocktail",
+  "purple gin drink",
+  "cherry tinted glass"
+ ],
+ "Bee s Knees": [
+  "bee s knees cocktail",
+  "honey gin drink",
+  "golden sour glass"
+ ],
+ "Dark and Stormy": [
+  "dark and stormy",
+  "rum ginger drink",
+  "layered lime glass"
+ ],
+ "Kir Royale": [
+  "kir royale",
+  "champagne currant drink",
+  "sparkling pink flute"
+ ],
+ "Kivili Margarita": [
+  "kiwi margarita",
+  "green salt rim drink",
+  "tropical lime glass"
+ ],
+ "Çilekli Margarita": [
+  "strawberry margarita",
+  "pink salt rim drink",
+  "berry lime glass"
+ ],
+ "Karpuzlu Margarita": [
+  "watermelon margarita",
+  "red salt rim drink",
+  "melon lime glass"
+ ],
+ "Şeftalli Margarita": [
+  "peach margarita",
+  "orange salt rim drink",
+  "fruity lime glass"
+ ],
+ "Merlot Şarap": [
+  "merlot red wine",
+  "dark wine glass",
+  "full bodied pour"
+ ],
+ "Pinot Noir Şarap": [
+  "pinot noir wine",
+  "light red wine",
+  "ruby glass drink"
+ ],
+ "Chardonnay Şarap": [
+  "chardonnay wine",
+  "golden white wine",
+  "crisp glass pour"
+ ],
+ "Sauvignon Blanc Şarap": [
+  "sauvignon blanc",
+  "pale white wine",
+  "crisp glass pour"
+ ],
+ "Malbec Şarap": [
+  "malbec red wine",
+  "deep purple wine",
+  "bold glass pour"
+ ],
+ "Malt Bira": [
+  "dark malt beer",
+  "creamy foam head",
+  "tall beer glass"
+ ],
+ "Light Bira": [
+  "light lager beer",
+  "pale beer glass",
+  "white foam bubbles"
+ ],
+ "Büyük Boy Bira": [
+  "large beer mug",
+  "liter glass beer",
+  "foamy golden lager"
+ ],
+ "Şeftalli Mocktail": [
+  "peach mocktail",
+  "orange virgin drink",
+  "iced fruit glass"
+ ],
+ "Karışık Meyve Mocktail": [
+  "mixed fruit mocktail",
+  "colorful virgin drink",
+  "layered fruit glass"
+ ],
+ "Böğürtlenli Mocktail": [
+  "blackberry mocktail",
+  "purple virgin drink",
+  "berry mint glass"
+ ],
+ "Salatalıklı Mocktail": [
+  "cucumber mocktail",
+  "green virgin drink",
+  "mint lime glass"
+ ],
+ "Kahveli Shot": [
+  "coffee shot glass",
+  "dark liqueur shot",
+  "cream layered shooter"
+ ],
+ "Portakallı Shot": [
+  "orange shot glass",
+  "bright liqueur shooter",
+  "citrus layered drink"
+ ],
+ "Karışık Shot": [
+  "assorted shot glasses",
+  "colorful shooters row",
+  "layered bar drinks"
+ ],
+ "Gül Şerbetli Mocktail": [
+  "rose syrup mocktail",
+  "pink floral drink",
+  "iced petal glass"
+ ],
+ "Limonlu Zencefil Mocktail": [
+  "lemon ginger mocktail",
+  "cloudy citrus drink",
+  "mint garnished glass"
+ ],
+ "Fıstıklı Yaş Pasta": [
+  "pistachio layer cake",
+  "green cream slice",
+  "nutty cake plate"
+ ],
+ "Muzlu Yaş Pasta": [
+  "banana layer cake",
+  "fresh fruit slice",
+  "cream filled cake"
+ ],
+ "Kakaolu Yaş Pasta": [
+  "cocoa layer cake",
+  "chocolate cream slice",
+  "dusted cake plate"
+ ],
+ "Tiramisu Yaş Pasta": [
+  "tiramisu layer cake",
+  "coffee cream slice",
+  "cocoa dusted cake"
+ ],
+ "Hindistan Cevizli Yaş Pasta": [
+  "coconut layer cake",
+  "white flake slice",
+  "cream snow cake"
+ ],
+ "Limonlu Yaş Pasta": [
+  "lemon layer cake",
+  "citrus cream slice",
+  "bright yellow cake"
+ ],
+ "Visneli Yaş Pasta": [
+  "sour cherry layer cake",
+  "red fruit cream slice",
+  "berry filled cake"
+ ],
+ "Kestaneli Yaş Pasta": [
+  "chestnut layer cake",
+  "brown cream slice",
+  "nutty cake plate"
+ ],
+ "Cevizli Yaş Pasta": [
+  "walnut layer cake",
+  "nutty cream slice",
+  "crumb topped cake"
+ ],
+ "Bisküvili Yaş Pasta": [
+  "biscuit layer cake",
+  "cookie cream slice",
+  "chocolate drizzled cake"
+ ],
+ "Kahveli Yaş Pasta": [
+  "coffee layer cake",
+  "mocha cream slice",
+  "bean topped cake"
+ ],
+ "Şeftalili Yaş Pasta": [
+  "peach layer cake",
+  "fruit cream slice",
+  "soft orange cake"
+ ],
+ "Vanilyalı Yaş Pasta": [
+  "vanilla layer cake",
+  "white cream slice",
+  "speckled cream cake"
+ ],
+ "Muzlu Çikolatalı Pasta": [
+  "banana chocolate cake",
+  "ganache fruit slice",
+  "brown yellow layers"
+ ],
+ "Fıstıklı Cheesecake": [
+  "pistachio cheesecake",
+  "green topped slice",
+  "nutty cream cake"
+ ],
+ "Karamelli Cheesecake": [
+  "caramel cheesecake",
+  "dripping caramel slice",
+  "biscuit base cake"
+ ],
+ "Muzlu Cheesecake": [
+  "banana cheesecake",
+  "fruit topped slice",
+  "creamy cream cake"
+ ],
+ "Çilekli Cheesecake": [
+  "strawberry cheesecake",
+  "red glazed slice",
+  "berry topped cake"
+ ],
+ "Kahveli Cheesecake": [
+  "coffee cheesecake",
+  "mocha glazed slice",
+  "bean topped cake"
+ ],
+ "Yaban Mersinli Cheesecake": [
+  "blueberry cheesecake",
+  "berry sauce slice",
+  "dark topped cake"
+ ],
+ "Kivili Cheesecake": [
+  "kiwi cheesecake",
+  "green fruit slice",
+  "glazed tropical cake"
+ ],
+ "Şeftalili Cheesecake": [
+  "peach cheesecake",
+  "orange glazed slice",
+  "fruit topped cake"
+ ],
+ "Tuzlu Karamel Cheesecake": [
+  "salted caramel cheesecake",
+  "sea salt slice",
+  "dripping caramel"
+ ],
+ "Karadutlu Cheesecake": [
+  "mulberry cheesecake",
+  "dark berry slice",
+  "purple topped cake"
+ ],
+ "Fındıklı Kurabiye": [
+  "hazelnut cookies",
+  "cracked top biscuits",
+  "whole nut cookies"
+ ],
+ "Tahinli Cevizli Kurabiye": [
+  "tahini walnut cookies",
+  "sesame nut biscuits",
+  "crumbly treats"
+ ],
+ "Portakallı Kurabiye": [
+  "orange cookies",
+  "glazed citrus biscuits",
+  "zesty sweet treats"
+ ],
+ "Kahveli Kurabiye": [
+  "coffee cookies",
+  "crackled brown biscuits",
+  "mocha sweet treats"
+ ],
+ "Elmalı Tarçınlı Kurabiye": [
+  "apple cinnamon cookies",
+  "spiced fruit biscuits",
+  "chunky sweet treats"
+ ],
+ "Renkli Şekerli Kurabiye": [
+  "sprinkled sugar cookies",
+  "colorful treat biscuits",
+  "festive sweet circles"
+ ],
+ "Çikolatalı Fındıklı Kurabiye": [
+  "chocolate hazelnut cookies",
+  "nutty cocoa biscuits",
+  "crinkled sweet treats"
+ ],
+ "Muzlu Kurabiye": [
+  "banana cookies",
+  "soft fruit biscuits",
+  "pale sweet treats"
+ ],
+ "Çilekli Kek": [
+  "strawberry cake slice",
+  "pink fruit cake",
+  "powdered sugar slice"
+ ],
+ "Balkabaklı Kek": [
+  "pumpkin spice cake",
+  "orange moist slice",
+  "autumn flavored cake"
+ ],
+ "Cevizli Kek": [
+  "walnut cake slice",
+  "nutty golden crumb",
+  "homestyle fruit cake"
+ ],
+ "Elmalı Kek": [
+  "apple cake slice",
+  "cinnamon fruit loaf",
+  "moist apple chunks"
+ ],
+ "Kahveli Kek": [
+  "coffee cake slice",
+  "mocha glazed crumb",
+  "brown sponge cake"
+ ],
+ "Fıstıklı Kek": [
+  "pistachio cake slice",
+  "pale green crumb",
+  "nutty topped cake"
+ ],
+ "Bisküvili Kek": [
+  "biscuit layered cake",
+  "cookie cream slice",
+  "coated sweet loaf"
+ ],
+ "Muzlu Çikolatalı Kek": [
+  "banana chocolate cake",
+  "chocolate chip slice",
+  "golden fruit crumb"
+ ],
+ "Frambuazlı Tart": [
+  "raspberry tart slice",
+  "red berry dessert",
+  "crisp crust cream"
+ ],
+ "Çilekli Tart": [
+  "strawberry tart slice",
+  "glossy fruit dessert",
+  "cream filled crust"
+ ],
+ "Karışık Meyveli Tart": [
+  "mixed fruit tart",
+  "colorful berry dessert",
+  "fresh fruit slice"
+ ],
+ "Kivili Tart": [
+  "kiwi tart slice",
+  "green fruit dessert",
+  "cream filled crust"
+ ],
+ "Şeftalili Tart": [
+  "peach tart slice",
+  "orange fruit dessert",
+  "custard filled crust"
+ ],
+ "Fıstıklı Tart": [
+  "pistachio tart slice",
+  "green nutty dessert",
+  "cream topped crust"
+ ],
+ "Fıstıklı Ekler": [
+  "pistachio eclairs",
+  "green cream choux",
+  "nutty pastry row"
+ ],
+ "Vanilyalı Ekler": [
+  "vanilla eclairs",
+  "cream filled choux",
+  "chocolate striped pastry"
+ ],
+ "Karamelli Ekler": [
+  "caramel eclairs",
+  "glossy choux pastry",
+  "golden cream filled"
+ ],
+ "Fıstıklı Profiterol": [
+  "pistachio profiterol",
+  "green topped puffs",
+  "cream ball dessert"
+ ],
+ "Beyaz Çikolatalı Profiterol": [
+  "white chocolate profiterol",
+  "cream puff dessert",
+  "glossy white sauce"
+ ],
+ "Fıstıklı Makaron": [
+  "pistachio macarons",
+  "green almond cookies",
+  "cream filled shells"
+ ],
+ "Çilekli Makaron": [
+  "strawberry macarons",
+  "pink almond cookies",
+  "cream filled shells"
+ ],
+ "Vanilyalı Makaron": [
+  "vanilla macarons",
+  "pale almond cookies",
+  "cream filled shells"
+ ],
+ "Çikolatalı Makaron": [
+  "chocolate macarons",
+  "dark cocoa cookies",
+  "ganache filled shells"
+ ],
+ "Fındıklı Kruvasan": [
+  "hazelnut croissant",
+  "nutty cream pastry",
+  "flaky breakfast treat"
+ ],
+ "Kaymaklı Şöbiyet": [
+  "cream filled pastry",
+  "pistachio syrup dessert",
+  "semolina sweet pockets"
+ ],
+ "Karadut Tatlısı": [
+  "mulberry dessert",
+  "glossy dark fruit",
+  "syrupy berry dish"
+ ],
+ "Paluze": [
+  "grape pudding",
+  "pale amber custard",
+  "set fruit dessert"
+ ],
+ "Bici Bici": [
+  "rose syrup pudding",
+  "pink cold dessert",
+  "starch cube sweet"
+ ],
+ "İncir Tatlısı": [
+  "stuffed dried figs",
+  "syrupy fig dessert",
+  "walnut filled figs"
+ ],
+ "Portakal Tatlısı": [
+  "candied orange slices",
+  "syrupy citrus dessert",
+  "glossy orange pieces"
+ ],
+ "Tatlı Kaçamak": [
+  "cornmeal mash dessert",
+  "rustic sweet mush",
+  "molasses dipped bowl"
+ ],
+ "Fıstıklı Sütlaç": [
+  "baked rice pudding",
+  "pistachio topped",
+  "caramelized clay bowl"
+ ],
+ "Çikolatalı Sütlaç": [
+  "chocolate rice pudding",
+  "cocoa creamy dessert",
+  "brown custard cup"
+ ],
+ "Sakızlı Sütlaç": [
+  "mastic rice pudding",
+  "creamy pale dessert",
+  "pistachio topped cup"
+ ],
+ "Fıstıklı Muhallebi": [
+  "pistachio milk pudding",
+  "white cream dessert",
+  "green nut topping"
+ ],
+ "Kakaolu Muhallebi": [
+  "chocolate milk pudding",
+  "cocoa cream cup",
+  "dusted dark dessert"
+ ],
+ "Karamelli Trileçe": [
+  "caramel milk cake",
+  "soaked cream squares",
+  "glossy caramel top"
+ ],
+ "Fıstıklı Supangle": [
+  "chocolate pudding cup",
+  "green nutty topping",
+  "glossy dark dessert"
+ ],
+ "Çilekli Magnolia": [
+  "strawberry banana pudding",
+  "layered cup dessert",
+  "fruit pressed glass"
+ ],
+ "Beyaz Çikolatalı Sufle": [
+  "white chocolate souffle",
+  "molten warm dessert",
+  "powdered sugar ramekin"
+ ],
+ "Karışık Baklava Tabağı": [
+  "assorted baklava platter",
+  "mixed nut pastry",
+  "syrupy dessert tray"
+ ],
+ "Dilim Baklava": [
+  "slice baklava pieces",
+  "layered pistachio pastry",
+  "syrupy filo squares"
+ ],
+ "Kahveli Dondurma": [
+  "coffee ice cream",
+  "mocha gelato scoop",
+  "bean topped bowl"
+ ],
+ "Bisküvili Dondurma": [
+  "cookie cream ice cream",
+  "speckled gelato scoop",
+  "biscuit pieces"
+ ],
+ "Tahinli Dondurma": [
+  "tahini ice cream",
+  "sesame drizzle scoop",
+  "pale creamy gelato"
+ ],
+ "Kestaneli Dondurma": [
+  "chestnut ice cream",
+  "nutty tan scoop",
+  "autumn gelato"
+ ],
+ "Şekerlemeli Dondurma": [
+  "candy ice cream",
+  "colorful sprinkle scoop",
+  "playful gelato"
+ ],
+ "Karışık Meyveli Waffle": [
+  "fruit topped waffle",
+  "berry chocolate waffle",
+  "sweet breakfast grid"
+ ],
+ "Fıstıklı Waffle": [
+  "pistachio waffle",
+  "green cream drizzle",
+  "nutty sweet grid"
+ ],
+ "Çikolatalı Muzlu Waffle": [
+  "chocolate banana waffle",
+  "fruit topped grid",
+  "sweet dessert waffle"
+ ],
+ "Karamelli Waffle": [
+  "caramel waffle",
+  "ice cream topped grid",
+  "sweet dessert drizzle"
+ ],
+ "Fıstıklı Krep": [
+  "pistachio crepe",
+  "green filled roll",
+  "nutty sweet wrap"
+ ],
+ "Karışık Meyveli Krep": [
+  "fruit filled crepe",
+  "berry cream roll",
+  "colorful sweet wrap"
+ ],
+ "Tuzlu Peynirli Krep": [
+  "cheese filled crepe",
+  "savory cheese roll",
+  "golden folded wrap"
+ ],
+ "Karışık Tatlı Tabağı": [
+  "assorted dessert plate",
+  "mixed sweets platter",
+  "baklava pudding combo"
+ ],
+ "Gül Lokumu": [
+  "rose turkish delight",
+  "pink powdered candy",
+  "floral sweet cubes"
+ ],
+ "Fıstıklı Lokum": [
+  "pistachio turkish delight",
+  "nut filled candy",
+  "powdered sweet cubes"
+ ],
+ "Kakaolu Lokum": [
+  "cocoa turkish delight",
+  "dark powdered candy",
+  "soft sweet cubes"
+ ],
+ "Karışık Lokum Tabağı": [
+  "assorted turkish delight",
+  "mixed candy plate",
+  "colorful sweet cubes"
+ ],
+ "Etli Tencere Yemeği": [
+  "beef pot stew",
+  "meat vegetable casserole",
+  "hearty metal pot"
+ ],
+ "Sebzeli Tencere Yemeği": [
+  "vegetable pot stew",
+  "colorful casserole",
+  "tomato veggie pot"
+ ],
+ "Tavuklu Tencere Yemeği": [
+  "chicken pot stew",
+  "baked chicken vegetables",
+  "hearty metal pot"
+ ],
+ "Fırın Pilavı": [
+  "baked rice pilaf",
+  "golden crust rice",
+  "oven rice dish"
+ ],
+ "Tavuklu Bulgur Pilavı": [
+  "chicken bulgur pilaf",
+  "tomato bulgur rice",
+  "orange grain dish"
+ ],
+ "Sebzeli Bulgur Pilavı": [
+  "vegetable bulgur",
+  "colorful grain pilaf",
+  "pepper pea bulgur"
+ ],
+ "Etli Biber Dolması": [
+  "stuffed peppers meat",
+  "meat filled peppers",
+  "tomato baked dolma"
+ ],
+ "Etli Kabak Dolması": [
+  "stuffed zucchini meat",
+  "meat filled squash",
+  "tomato baked dolma"
+ ],
+ "Pazı Sarması": [
+  "chard rolls",
+  "stuffed chard leaves",
+  "lemon olive oil"
+ ],
+ "Etli Lahana Sarması": [
+  "cabbage rolls meat",
+  "tomato stuffed cabbage",
+  "glossy leaf rolls"
+ ],
+ "Soğan Dolması": [
+  "stuffed onions",
+  "onion filled rice",
+  "glossy vegetable dolma"
+ ],
+ "Zeytinyağlı Kereviz": [
+  "celery root olive oil",
+  "braised celeriac",
+  "pale veggie dish"
+ ],
+ "Zeytinyağlı Havuç": [
+  "carrots olive oil",
+  "glazed carrot rounds",
+  "sweet veggie dish"
+ ],
+ "Zeytinyağlı Patates": [
+  "potatoes olive oil",
+  "herbed potato chunks",
+  "glossy veggie bowl"
+ ],
+ "Arpa Şehriyeli Pilav": [
+  "orzo rice pilaf",
+  "toasted pasta rice",
+  "buttery grain plate"
+ ],
+ "Zeytinyağlı Pirinç Pilavı": [
+  "plain rice pilaf",
+  "glossy white rice",
+  "olive oil rice"
+ ],
+ "Patates Sote": [
+  "sauteed potatoes",
+  "golden potato pan",
+  "onion pepper potatoes"
+ ],
+ "Tavuk Sebze Sote": [
+  "chicken vegetable saute",
+  "pepper onion chicken",
+  "light stir fry"
+ ],
+ "Fırın Erişte": [
+  "baked noodles",
+  "golden noodle bake",
+  "yogurt topped pasta"
+ ],
+ "Karışık Zeytinyağlı Tabağı": [
+  "assorted olive oil veggies",
+  "vegan meze plate",
+  "colorful vegetable platter"
+ ],
+ "Bezelye Sote": [
+  "sauteed peas",
+  "glossy pea carrots",
+  "olive oil vegetable dish"
+ ],
+ "Ramen Çorbası": [
+  "ramen noodle soup",
+  "broth egg noodles",
+  "chopsticks noodle bowl"
+ ],
+ "Fasulye Çorbası": [
+  "white bean soup",
+  "creamy bean broth",
+  "paprika butter drizzle"
+ ],
+ "Etli Terbiyeli Çorba": [
+  "meat thickened soup",
+  "lemon egg broth",
+  "shredded meat soup"
+ ],
+ "Kuskuslu Çorba": [
+  "couscous pasta soup",
+  "tomato broth pearls",
+  "buttery noodle soup"
+ ],
+ "Erişteli Çorba": [
+  "noodle strand soup",
+  "homemade pasta broth",
+  "light herbed soup"
+ ],
+ "Tavuklu Nohut Çorbası": [
+  "chicken chickpea soup",
+  "hearty broth bowl",
+  "shredded meat soup"
+ ],
+ "Sebzeli Tavuk Çorbası": [
+  "vegetable chicken soup",
+  "colorful broth bowl",
+  "carrots peas corn"
+ ],
+ "Şehriyeli Tavuk Çorbası": [
+  "chicken pasta soup",
+  "toasted noodle broth",
+  "buttery broth bowl"
+ ],
+ "Etli Brokoli Çorbası": [
+  "broccoli meat soup",
+  "creamy green broth",
+  "hearty vegetable soup"
+ ],
+ "Karışık Bakliyat Çorbası": [
+  "mixed legume soup",
+  "lentil bean broth",
+  "hearty pulse soup"
+ ],
+ "Tavuk Fileto": [
+  "grilled chicken fillet",
+  "sliced chicken breast",
+  "herb chicken plate"
+ ],
+ "Sebzeli Şiş": [
+  "vegetable skewers",
+  "grilled veggie meat",
+  "colorful kebab skewers"
+ ],
+ "Dana Pirzola": [
+  "beef rib chops",
+  "grilled bone in steak",
+  "charred beef ribs"
+ ],
+ "T-Bone Steak": [
+  "t bone steak",
+  "grilled bone in beef",
+  "juicy steak plate"
+ ],
+ "Ribeye Steak": [
+  "ribeye steak grill",
+  "juicy beef steak",
+  "sliced pink steak"
+ ],
+ "New York Steak": [
+  "new york strip",
+  "grilled lean steak",
+  "charred beef slice"
+ ],
+ "Dana Steak": [
+  "grilled beef steak",
+  "herb butter steak",
+  "cooked meat plate"
+ ],
+ "Kuzu Steak": [
+  "grilled lamb steak",
+  "pink lamb slice",
+  "rosemary lamb plate"
+ ],
+ "Steak Tabağı": [
+  "steak platter",
+  "sliced meat plate",
+  "steak fries sauce"
+ ],
+ "Beğendili Steak": [
+  "steak on eggplant",
+  "sliced beef puree",
+  "creamy eggplant steak"
+ ],
+ "Izgara Kanat": [
+  "grilled chicken wings",
+  "charred wing plate",
+  "lemon parsley wings"
+ ],
+ "Ciğer Sote": [
+  "sauteed liver",
+  "liver pepper pan",
+  "onion tomato liver"
+ ],
+ "Kadınbudu Köfte": [
+  "rice meatball patties",
+  "pan fried kofte",
+  "golden meat cakes"
+ ],
+ "Kuru Köfte": [
+  "dry grilled meatballs",
+  "firm brown kofte",
+  "parsley onion plate"
+ ],
+ "Şiş Köfte": [
+  "skewer grilled kofte",
+  "flat skewer meat",
+  "charred elongated meatballs"
+ ],
+ "Tavuk Köftesi": [
+  "chicken meatballs",
+  "light colored kofte",
+  "grilled chicken patties"
+ ],
+ "Manisa Köftesi": [
+  "small flat meatballs",
+  "well browned kofte",
+  "sumac onion plate"
+ ],
+ "Peynirli Köfte": [
+  "cheese stuffed meatballs",
+  "filled kofte",
+  "grilled stuffed patties"
+ ],
+ "Zeytinli Köfte": [
+  "olive studded meatballs",
+  "black olive kofte",
+  "savory patties"
+ ],
+ "Sebzeli Köfte": [
+  "vegetable meatballs",
+  "veggie flecked kofte",
+  "colorful patties"
+ ],
+ "Köfteli Pilav": [
+  "meatballs over rice",
+  "kofte rice plate",
+  "grilled tomato side"
+ ],
+ "Tavuk Kavurma": [
+  "fried chicken pieces",
+  "buttery shredded chicken",
+  "copper pan dish"
+ ],
+ "Sushi Tabağı": [
+  "sushi platter",
+  "maki nigiri plate",
+  "assorted sushi roll"
+ ],
+ "California Roll": [
+  "california sushi rolls",
+  "rice outside rolls",
+  "avocado tobiko pieces"
+ ],
+ "Somon Roll": [
+  "salmon sushi rolls",
+  "pink fish maki",
+  "rice wrapped rolls"
+ ],
+ "Karides Roll": [
+  "shrimp sushi rolls",
+  "cooked prawn maki",
+  "rice wrapped rolls"
+ ],
+ "Vejetaryen Roll": [
+  "vegetable sushi rolls",
+  "veggie maki pieces",
+  "colorful inside rolls"
+ ],
+ "Nigiri Sushi": [
+  "nigiri sushi pieces",
+  "salmon tuna topping",
+  "hand pressed rice"
+ ],
+ "Maki Sushi": [
+  "maki sushi rolls",
+  "seaweed wrapped rolls",
+  "cut rice cylinders"
+ ],
+ "Dragon Roll": [
+  "dragon roll sushi",
+  "avocado topped rolls",
+  "eel glazed pieces"
+ ],
+ "Poke Bowl": [
+  "salmon poke bowl",
+  "rice topped cubes",
+  "avocado sesame bowl"
+ ],
+ "Çupra Tava": [
+  "fried sea bream",
+  "crispy whole fish",
+  "golden fish plate"
+ ],
+ "Sarımsaklı Karides": [
+  "garlic butter shrimp",
+  "sizzling prawns skillet",
+  "parsley lemon shrimp"
+ ],
+ "Palamut Buğulama": [
+  "steamed bonito",
+  "fish tomato olives",
+  "poached fish pot"
+ ],
+ "İstavrit Izgara": [
+  "grilled mackerel",
+  "charred fish plate",
+  "lemon onion salad"
+ ],
+ "Ahtapot Salatası": [
+  "octopus salad",
+  "grilled tentacle greens",
+  "olive oil lemon"
+ ],
+ "Somon Teriyaki": [
+  "teriyaki salmon",
+  "glazed salmon fillet",
+  "sesame soy fish"
+ ],
+ "Kaşarlı Karides": [
+  "cheese baked shrimp",
+  "melted cheese prawns",
+  "golden seafood dish"
+ ],
+ "Alabalık Tava": [
+  "fried trout",
+  "crispy fish pieces",
+  "lemon parsley plate"
+ ],
+ "Karides Şiş": [
+  "grilled shrimp skewers",
+  "prawn kebab",
+  "charred seafood skewers"
+ ],
+ "Sebzeli Noodle": [
+  "vegetable noodles",
+  "stir fried veggie pasta",
+  "colorful noodle bowl"
+ ],
+ "Tavuklu Noodle": [
+  "chicken noodles",
+  "stir fried chicken pasta",
+  "savory noodle bowl"
+ ],
+ "Karidesli Noodle": [
+  "shrimp noodles",
+  "seafood stir fry",
+  "pink prawn pasta"
+ ],
+ "Wok Tabağı": [
+  "wok dish",
+  "stir fried mix",
+  "sizzling pan plate"
+ ],
+ "Tavuk Wok": [
+  "chicken wok",
+  "stir fried chicken veg",
+  "savory skillet dish"
+ ],
+ "Sebze Wok": [
+  "vegetable wok",
+  "colorful stir fry",
+  "sizzling veggie pan"
+ ],
+ "Karides Wok": [
+  "shrimp wok",
+  "seafood stir fry",
+  "sizzling prawn pan"
+ ],
+ "Udon Noodle": [
+  "thick udon noodles",
+  "asian noodle bowl",
+  "broth with noodles"
+ ],
+ "Soba Noodle": [
+  "buckwheat soba",
+  "cold noodle dish",
+  "sesame noodle plate"
+ ],
+ "Sade Noodle": [
+  "plain noodles",
+  "simple noodle bowl",
+  "soy glazed pasta"
+ ],
+ "Yumurtalı Noodle": [
+  "egg noodles bowl",
+  "fried egg noodles",
+  "breakfast noodle dish"
+ ],
+ "Sarımsaklı Makarna": [
+  "garlic noodles",
+  "garlic butter pasta",
+  "savory aromatic pasta"
+ ],
+ "Sosisli Makarna": [
+  "sausage pasta",
+  "hot dog noodles",
+  "tomato sausage dish"
+ ],
+ "Zeytinli Makarna": [
+  "olive pasta",
+  "black olive noodles",
+  "mediterranean pasta dish"
+ ],
+ "Karışık Makarna": [
+  "mixed pasta",
+  "assorted noodle dish",
+  "combo pasta plate"
+ ],
+ "Sade Makarna": [
+  "plain pasta",
+  "simple butter noodles",
+  "boiled pasta plate"
+ ],
+ "Pad Thai Noodle": [
+  "pad thai noodles",
+  "thai stir fry",
+  "peanut rice noodles"
+ ],
+ "Acılı Noodle": [
+  "spicy noodles",
+  "chili garlic pasta",
+  "hot noodle bowl"
+ ],
+ "Etli Noodle": [
+  "beef noodles",
+  "meat stir fry",
+  "savory beef pasta"
+ ],
+ "Etli Wok": [
+  "beef wok",
+  "meat vegetable stir fry",
+  "sizzling beef pan"
+ ],
+ "Dört Mevsim Pizza": [
+  "four season pizza",
+  "assorted topping pizza",
+  "veggie meat pizza"
+ ],
+ "Pizza Marinara": [
+  "marinara pizza",
+  "tomato garlic pizza",
+  "cheeseless red pizza"
+ ],
+ "Mantarlı Sucuklu Pizza": [
+  "mushroom sausage pizza",
+  "cheesy meat pizza",
+  "savory topped pie"
+ ],
+ "Tavuklu Biberli Pizza": [
+  "chicken pepper pizza",
+  "cheesy veggie meat",
+  "colorful topped pie"
+ ],
+ "Sebzeli Beyaz Pizza": [
+  "white vegetable pizza",
+  "cream sauce pizza",
+  "veggie cheese pie"
+ ],
+ "Çıtır Kenarlı Pizza": [
+  "crispy crust pizza",
+  "golden edge pizza",
+  "crunchy cheese pie"
+ ],
+ "Sebzeli Pizza": [
+  "vegetable pizza",
+  "veggie loaded pie",
+  "colorful topping pizza"
+ ],
+ "Beyaz Peynirli Pizza": [
+  "white cheese pizza",
+  "feta topped pizza",
+  "cheese only pie"
+ ],
+ "İspanaklı Burger": [
+  "spinach burger",
+  "green topped beef",
+  "veggie loaded patty"
+ ],
+ "Zeytinli Burger": [
+  "olive burger",
+  "black olive beef",
+  "mediterranean style patty"
+ ],
+ "Turşulu Burger": [
+  "pickle burger",
+  "tangy pickle beef",
+  "crunchy brined topping"
+ ],
+ "Kuzu Köfte Burger": [
+  "lamb kofte burger",
+  "grilled meatball patty",
+  "herbed lamb bun"
+ ],
+ "Ton Balıklı Burger": [
+  "tuna burger",
+  "fish patty bun",
+  "ocean style sandwich"
+ ],
+ "Karışık Peynirli Burger": [
+  "mixed cheese burger",
+  "multi cheese patty",
+  "loaded dairy bun"
+ ],
+ "Barbekü Tavuk Burger": [
+  "bbq chicken burger",
+  "saucy grilled chicken",
+  "glazed chicken bun"
+ ],
+ "Izgara Kıymalı Burger": [
+  "grilled beef burger",
+  "charred patty bun",
+  "juicy meat sandwich"
+ ],
+ "Etli Taco": [
+  "beef taco",
+  "meat filled tortilla",
+  "mexican taco plate"
+ ],
+ "Tavuk Taco": [
+  "chicken taco",
+  "shredded poultry tortilla",
+  "mexican taco plate"
+ ],
+ "Sebzeli Taco": [
+  "vegetable taco",
+  "veggie filled tortilla",
+  "colorful taco plate"
+ ],
+ "Tavuk Burrito": [
+  "chicken burrito",
+  "wrapped flour tortilla",
+  "stuffed mexican roll"
+ ],
+ "Etli Burrito": [
+  "beef burrito",
+  "stuffed flour tortilla",
+  "hearty mexican wrap"
+ ],
+ "Sebzeli Burrito": [
+  "vegetable burrito",
+  "veggie stuffed wrap",
+  "colorful mexican roll"
+ ],
+ "Etli Quesadilla": [
+  "beef quesadilla",
+  "grilled meat tortilla",
+  "melted cheese wedges"
+ ],
+ "Sebzeli Quesadilla": [
+  "vegetable quesadilla",
+  "veggie grilled tortilla",
+  "melted cheese wedges"
+ ],
+ "Fajita Tabağı": [
+  "fajita platter",
+  "sizzling pepper strips",
+  "grilled meat vegetables"
+ ],
+ "Tavuk Fajita": [
+  "chicken fajita",
+  "grilled pepper chicken",
+  "sizzling skillet plate"
+ ],
+ "Kaşarlı Domatesli Tost": [
+  "cheese tomato toast",
+  "pressed grilled sandwich",
+  "melty breakfast bread"
+ ],
+ "Ton Balıklı Tost": [
+  "tuna toast",
+  "pressed tuna sandwich",
+  "grilled fish bread"
+ ],
+ "Tavuklu Tost": [
+  "chicken toast",
+  "pressed chicken sandwich",
+  "grilled poultry bread"
+ ],
+ "Sebzeli Tost": [
+  "vegetable toast",
+  "pressed veggie sandwich",
+  "grilled vegetable bread"
+ ],
+ "Sucuklu Yumurtalı Tost": [
+  "sausage egg toast",
+  "pressed breakfast sandwich",
+  "melty grilled bread"
+ ],
+ "Zeytinli Tost": [
+  "olive toast",
+  "pressed olive sandwich",
+  "grilled black olive"
+ ],
+ "Sosisli Tost": [
+  "sausage toast",
+  "pressed hot dog sandwich",
+  "grilled sausage bread"
+ ],
+ "Etli Sandviç": [
+  "beef sandwich",
+  "meat filled bread",
+  "hearty deli sandwich"
+ ],
+ "Club Sandviç": [
+  "club sandwich",
+  "triple decker toast",
+  "layered deli sandwich"
+ ],
+ "Izgara Tavuk Sandviç": [
+  "grilled chicken sandwich",
+  "toasted poultry bread",
+  "deli chicken roll"
+ ],
+ "Ton Balıklı Wrap": [
+  "tuna wrap",
+  "fish filled roll",
+  "lavash tuna wrap"
+ ],
+ "Karışık Wrap": [
+  "mixed wrap",
+  "assorted filling roll",
+  "colorful lavash wrap"
+ ],
+ "Izgara Etli Wrap": [
+  "grilled beef wrap",
+  "meat filled roll",
+  "lavash steak wrap"
+ ],
+ "Patates Kroketi": [
+  "potato croquettes",
+  "fried potato sticks",
+  "golden crumb bites"
+ ],
+ "Sebzeli Spring Roll": [
+  "vegetable spring rolls",
+  "crispy fried rolls",
+  "fresh rice paper"
+ ],
+ "Tavuk Popcorn": [
+  "popcorn chicken",
+  "bite sized fried chicken",
+  "crunchy chicken pieces"
+ ],
+ "Çıtır Balık": [
+  "crispy fried fish",
+  "crunchy fish bites",
+  "golden fish sticks"
+ ],
+ "Aile Boyu Patates": [
+  "family fries tray",
+  "sharing fries basket",
+  "large seasoned fries"
+ ],
+ "Sarımsaklı Patates": [
+  "garlic fries",
+  "herbed potato wedges",
+  "buttery garlic potatoes"
+ ],
+ "Kanat Menü": [
+  "wings combo meal",
+  "chicken wings fries",
+  "saucy wing basket"
+ ],
+ "Burrito Bowl": [
+  "burrito rice bowl",
+  "deconstructed burrito",
+  "beans rice salsa"
+ ]
+}
